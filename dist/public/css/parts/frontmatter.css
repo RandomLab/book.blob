@@ -1,0 +1,129 @@
+/* FRONTMATTER --------------------------------------------------------------------- */
+/* Layout ------------------------------------------------------------------------- */
+
+
+    /* NAMED PAGE (frontmatter) -------------------------------------------------------- */
+
+    /* Named pages */
+    #copyright,
+    #halftitle, 
+    #toc, 
+    #prefatory-note,
+    #introduction, 
+    #toc {
+        page: frontmatter;
+    }
+
+    @page frontmatter {
+        background-color: #f8f2ec;
+    }
+
+    @page frontmatter:first{
+        @top-left-corner { content: none; }
+        @top-left { content: none; }
+        @top-right { content: none; }
+    }
+
+    /* don't work for now */
+    @page frontmatter:blank {
+        background-color: #f8f2ec;
+    }
+
+    /* Hack to have blank page of named page */
+    .pagedjs_frontmatter_page + .pagedjs_blank_page {
+        background-color: #f8f2ec;
+    }
+
+
+    /* SPECIFIC PAGES ------------------------------------------------------------------ */
+
+    
+    @page:nth(3){ 
+        @top-right-corner { content: none; }
+    }
+
+    @page:nth(5){ 
+        @top-right-corner { content: none; }
+    }
+
+    /* ABSOLUTE POSITIONNING ----------------------------------------------------------- */
+
+    #copyright {
+        position: absolute;
+        bottom: 0;
+    }
+
+
+    /* FLEXBOX IN THE PAGE ------------------------------------------------------------- */
+
+    #halftitle {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+
+
+
+/* FRONTMATTER --------------------------------------------------------------------- */
+/* Style ------------------------------------------------------------------------- */
+
+
+    #prefatory-note .date{
+        text-align: right;
+        font-style: italic;
+        margin-top: var(--baseline);
+    }
+
+    /* COPYRIGHT PAGE ---------------------------------------------- */
+
+
+    #copyright p{
+        text-indent: 0;
+        font-family: 'hk-grotesk';
+        font-weight: 500;
+        font-style: italic;
+        font-size: 0.7rem;
+        line-height: calc(var(--baseline)*1);
+        text-indent: 0;
+    }
+
+
+
+    /* HALFTITLE PAGE ----------------------------------------- */
+
+    #halftitle h1, 
+    #halftitle h2{
+        font-family: 'permian';
+        font-weight: normal;
+        text-indent: 0;
+        text-align: left;
+    }
+
+    #halftitle h1{
+        font-size: 2rem;
+        line-height: calc(var(--baseline)*1.5);
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: calc(var(--baseline)*3);
+        padding-top: 10px; /* set on baseline */
+    }
+
+    #halftitle h2{
+        font-size: 1.5rem;
+        line-height: calc(var(--baseline)*1);
+        margin-bottom: calc(var(--baseline)*9);
+        padding-top: 9px; /* set on baseline */
+    }
+
+    #halftitle .printer{
+        font-family: 'hk-grotesk';
+        font-weight: 500;
+        line-height: calc(var(--baseline)*1);
+        text-indent: 0;
+        border-left: 1px solid black;
+        padding-top: calc(var(--baseline)*0.25);
+        padding-bottom: calc(var(--baseline)*0.25);
+        padding-left: calc(var(--baseline)*0.5);
+    }

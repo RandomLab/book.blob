@@ -1,0 +1,145 @@
+@media print {
+
+    /* ALL PAGES ----------------------------------------------------------------------- */
+
+    @page {
+        size: 148mm 210mm;
+        margin-top: 100px;
+        margin-bottom: 65px;
+    }
+
+
+    /* LEFT PAGES ---------------------------------------------------------------------- */
+
+    @page :left {
+        margin-left: 36mm;
+        margin-right: 12mm;
+
+        /* page number */
+        @top-left-corner {
+            content: counter(page);
+            font-family: 'hk-grotesk';
+            font-weight: 600;
+            padding-right: 12mm;
+            vertical-align: top;
+            padding-top: 25px;
+        }
+
+         /* running header (book title)  */
+        @top-left {
+            content: element(booktitle);
+            vertical-align: top;
+            padding-top: 25px;
+        }
+    }
+
+    /*  running header (book title) 
+        way 1 : keep HTML element and style inside the running header, remove the element from the flux  */
+    #booktitle { 
+        position: running(booktitle); 
+        font-family: 'hk-grotesk';
+        font-weight: 600;
+        text-indent: 0;
+    }
+
+
+    /* RIGHT PAGES --------------------------------------------------------------------- */
+
+    @page :right {
+        margin-left: 12mm;
+        margin-right: 36mm;
+
+        /* page number */
+        @top-right-corner {
+            content: counter(page);
+            font-family: 'hk-grotesk';
+            font-weight: 600;
+            padding-left: 12mm;
+            vertical-align: top;
+            padding-top: 25px;
+        }
+
+        /* running header (chapter title)  */
+        @top-right {
+            content: string(chapTitle);
+            font-family: 'hk-grotesk';
+            font-weight: 600;
+            vertical-align: top;
+            padding-top: 25px;
+        }
+    }
+
+    /*  running header (book title) 
+        way 2 : copy an HTML element into running header, don't keep HTML and style  */
+    h1 { string-set: chapTitle content(text); }
+    
+
+    /* PAGE BREAKS --------------------------------------------------------------------- */
+
+    #halftitle, 
+    #toc, 
+    #prefatory-note,
+    #introduction, 
+    #toc {
+        break-before: right;
+    }
+
+    .chapter {
+        break-before: right;
+    }
+
+    figure {
+        break-inside: avoid;
+    }
+
+
+    /* BLANK PAGES --------------------------------------------------------------------- */
+
+    @page :blank {
+
+        @top-left-corner { content: none; }
+        @top-left { content: none; }
+        @top-right-corner { content: none; }
+        @top-right { content: none; }
+
+    }
+
+
+    /* NAMED PAGE (chapter) ------------------------------------------------------------ */
+
+    .chapter { page: chapter; }
+
+    @page chapter :first {
+        @top-right { content: none; }
+    }
+
+
+    /* WIDOWS AND ORPHANS -------------------------------------------------------------- */
+
+    /*  
+    - Not specific to paged.js
+    - Support only on Chrome/Chromium
+    */
+    #introduction p, .chapter p {
+        widows: 3;
+        orphans: 3;
+    }
+
+
+    /* HYPHENS ------------------------------------------------------------------------- */
+
+     /*  
+    - Not specific to paged.js
+    - Support only on Chrome/Chromium with OSX and on Firefox with Linux
+    */
+    p{ 
+        hyphens: auto; 
+    }
+
+
+     /* select the last page of the document  */
+     .pagedjs_page:last-of-type{ }
+
+
+
+}

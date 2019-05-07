@@ -1,0 +1,116 @@
+/* HK GROTESK ------------------------------------------------------------------ */
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-Regular.woff2') format('woff2'),
+         url('HKGrotesk-Regular.eot') format('embedded-opentype'),
+         url('HKGrotesk-Regular.woff') format('woff'),
+         url('HKGrotesk-Regular.ttf') format('truetype'),
+         url('HKGrotesk-Regular.svg') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-Italic.woff2') format('woff2'),
+         url('HKGrotesk-Italic.eot') format('embedded-opentype'),
+         url('HKGrotesk-Italic.woff') format('woff'),
+         url('HKGrotesk-Italic.ttf') format('truetype'),
+         url('HKGrotesk-Italic.svg') format('svg');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-Light.woff2') format('woff2'),
+         url('HKGrotesk-Light.eot') format('embedded-opentype'),
+         url('HKGrotesk-Light.woff') format('woff'),
+         url('HKGrotesk-Light.ttf') format('truetype'),
+         url('HKGrotesk-Light.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-LightItalic.woff2') format('woff2'),
+         url('HKGrotesk-LightItalic.eot') format('embedded-opentype'),
+         url('HKGrotesk-LightItalic.woff') format('woff'),
+         url('HKGrotesk-LightItalic.ttf') format('truetype'),
+         url('HKGrotesk-LightItalic.svg') format('svg');
+    font-weight: 300;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-Medium.woff2') format('woff2'),
+         url('HKGrotesk-Medium.eot') format('embedded-opentype'),
+         url('HKGrotesk-Medium.woff') format('woff'),
+         url('HKGrotesk-Medium.ttf') format('truetype'),
+         url('HKGrotesk-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-MediumItalic.woff2') format('woff2'),
+         url('HKGrotesk-MediumItalic.eot') format('embedded-opentype'),
+         url('HKGrotesk-MediumItalic.woff') format('woff'),
+         url('HKGrotesk-MediumItalic.ttf') format('truetype'),
+         url('HKGrotesk-MediumItalic.svg') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-SemiBold.woff2') format('woff2'),
+         url('HKGrotesk-SemiBold.eot') format('embedded-opentype'),
+         url('HKGrotesk-SemiBold.woff') format('woff'),
+         url('HKGrotesk-SemiBold.ttf') format('truetype'),
+         url('HKGrotesk-SemiBold.svg') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-SemiBoldItalic.woff2') format('woff2'),
+         url('HKGrotesk-SemiBoldItalic.eot') format('embedded-opentype'),
+         url('HKGrotesk-SemiBoldItalic.woff') format('woff'),
+         url('HKGrotesk-SemiBoldItalic.ttf') format('truetype'),
+         url('HKGrotesk-SemiBoldItalic.svg') format('svg');
+    font-weight: 600;
+    font-style: italic;
+}
+
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-Bold.woff2') format('woff2'),
+         url('HKGrotesk-Bold.eot') format('embedded-opentype'),
+         url('HKGrotesk-Bold.woff') format('woff'),
+         url('HKGrotesk-Bold.ttf') format('truetype'),
+         url('HKGrotesk-Bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'hk-grotesk';
+    src: url('HKGrotesk-BoldItalic.woff2') format('woff2'),
+         url('HKGrotesk-BoldItalic.eot') format('embedded-opentype'),
+         url('HKGrotesk-BoldItalic.woff') format('woff'),
+         url('HKGrotesk-BoldItalic.ttf') format('truetype'),
+         url('HKGrotesk-BoldItalic.svg') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* HK GROTESK END -------------------------------------------------------------- */

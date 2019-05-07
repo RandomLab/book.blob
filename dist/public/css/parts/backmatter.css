@@ -1,0 +1,38 @@
+/* BACKMATTER ---------------------------------------------------------------------- */
+/* Layout -------------------------------------------------------------------------- */
+
+    #colophon, #project-gutenberg{ page: backmatter; }
+
+    @page backmatter {
+        background-color: #f8f2ec;
+        @top-left-corner { content: none; }
+        @top-left { content: none; }
+        @top-right { content: none; }
+    }
+
+    #colophon{ break-before: right; }
+    #project-gutenberg{ break-before: page; }
+
+    pre{
+        position: absolute;
+        bottom: -8mm;
+        left: -22mm;
+    }
+
+
+
+/* BACKMATTER ---------------------------------------------------------------------- */
+/* Style --------------------------------------------------------------------------- */
+
+    #colophon h2{
+        font-family: 'hk-grotesk';
+        font-weight: 600; 
+        margin-top: var(--baseline);
+    }
+
+    #colophon p{ text-indent: 0; }
+
+    pre{
+        font-size: 0.6rem;
+        line-height: calc(var(--baseline)*0.5);
+    }
