@@ -41,7 +41,7 @@ class Html {
 
     private chapitreName(name: string): string {
         try {
-            const re = /(^#\s[a-zA-Z0-9\s]+\n)/gi;
+            const re = /.*/m;
             const str = name.match(re);
             const parsedName = str[0].slice(2);
             if (parsedName) {
