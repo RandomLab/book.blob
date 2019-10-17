@@ -2,10 +2,10 @@
 /* layout -------------------------------------------------------------------------- */
 
 @page :first {
-    background-color: #a6a6b3;
+    /* background-color: #a6a6b3; */
     margin-top: 18mm;
     margin-bottom: 18mm;
-    color: white;
+    color: black;
     @top-right-corner { content: none; }
     @top-right{ content: none; }
 }
@@ -20,8 +20,8 @@
     top: calc(var(--margin-top)*-1);
     left: calc(var(--margin-left)*-1);
     z-index: 0;
-    mix-blend-mode: color-burn;
-    opacity: 0.8;
+    /* mix-blend-mode: color-burn; */
+    /* opacity: 0.8; */
 }
 
 /* positioning in relation to the page */
@@ -30,25 +30,32 @@
     bottom: 0;
 }
 
+#title {
+    position: absolute;
+    bottom: 60mm;
+    z-index: 1;
+}
+
+
 
 /* COVER PAGE ---------------------------------------------------------------------- */
 /* style --------------------------------------------------------------------------- */
 
 #cover h1, 
 #author{
-    font-family: 'permian';
-    font-weight: normal;
-    text-transform: uppercase;
-    letter-spacing: 2px;
+    font-family: 'Grenze', serif;
+    /* font-weight: 600; */
+    /* text-transform: uppercase; */
+    /* letter-spacing: 2px; */
     text-indent: 0;  
     text-align: left;
 }
 
 #cover h1{
-    font-size: 2.5rem;
-    line-height: calc(var(--baseline)*2);
+    font-size: 3.3rem;
+    line-height: calc(var(--baseline)*1.8);
     margin: 0 auto;
-    padding-top: calc(var(--baseline)*18) /* set on baseline */
+    /* padding-top: calc(var(--baseline)*18)  */
 }
 
 #author{

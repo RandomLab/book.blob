@@ -4,12 +4,31 @@ const fs = require("fs");
 const path = require("path");
 const app_1 = require("./app");
 const html_1 = require("./html");
-const read_1 = require("./read");
-const port = 3000;
-const chapitres = new read_1.default('../sources/chapitres/');
-chapitres.readFolder().then((chapitres) => {
-    const html = new html_1.default(chapitres);
-    fs.writeFileSync(path.join(__dirname, 'index.html'), html.page());
+const readData_1 = require("./readData");
+const getData_1 = require("./getData");
+const makeChapitres_1 = require("./makeChapitres");
+/* merge all html to index and serve it */
+const port = 8000;
+const folders = new getData_1.default('../sources/data');
+let chapNum = 0;
+folders.readMainFolder().then((items) => {
+    for (const item of items) {
+        chapNum++;
+        const chapitres = new makeChapitres_1.default(item, chapNum);
+        const result = chapitres.chapitresBody();
+        const data = new readData_1.default(`../sources/data/${item}/`, chapNum);
+        const html = new html_1.default(items);
+        data.readFolder().then((text) => {
+            fs.writeFile(path.join(__dirname + `../../sources/chapitres/${item}.html`), result + text, (err) => {
+                if (err) {
+                    console.error(err);
+                }
+                fs.writeFileSync(path.join(__dirname, 'index.html'), html.page());
+            });
+        }).catch((err) => {
+            console.log(err);
+        });
+    }
 }).catch((err) => {
     console.log(err);
 });

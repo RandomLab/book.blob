@@ -1,4 +1,25 @@
 
+https://github.com/opsdisk/pagodo
+
+https://paged.design/
+
+
+------------------------
+
+# git
+
+git pull
+
+git add .
+git commit -am "message"
+git push
+
+
+# couvs
+https://motherboard-images.vice.com/content-images/contentimage/26556/1444666824347969.jpg
+https://www.vice.com/en_us/article/ae35pe/public-blue-screens-of-death-remind-us-that-life-is-a-farce
+
+https://open-foundry.com/fonts
 
 # pagedjs
 

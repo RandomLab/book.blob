@@ -9,13 +9,13 @@
     #halftitle, 
     #toc, 
     #prefatory-note,
-    #introduction, 
+    #intitle, 
     #toc {
         page: frontmatter;
     }
 
     @page frontmatter {
-        background-color: #f8f2ec;
+        background-color:white;
     }
 
     @page frontmatter:first{
@@ -26,12 +26,12 @@
 
     /* don't work for now */
     @page frontmatter:blank {
-        background-color: #f8f2ec;
+        background-color: white;
     }
 
     /* Hack to have blank page of named page */
     .pagedjs_frontmatter_page + .pagedjs_blank_page {
-        background-color: #f8f2ec;
+        background-color: white;
     }
 
 
@@ -81,12 +81,13 @@
 
     #copyright p{
         text-indent: 0;
-        font-family: 'hk-grotesk';
+        font-family: 'Work Sans', sans-serif;
         font-weight: 500;
-        font-style: italic;
-        font-size: 0.7rem;
-        line-height: calc(var(--baseline)*1);
+        /* font-style: italic; */
+        font-size: 0.6rem;
+        line-height: calc(var(--baseline)*0.6);
         text-indent: 0;
+        width: 80%;
     }
 
 
@@ -95,17 +96,17 @@
 
     #halftitle h1, 
     #halftitle h2{
-        font-family: 'permian';
-        font-weight: normal;
+        font-family: 'Grenze', serif;
+        /* font-weight: 600; */
         text-indent: 0;
         text-align: left;
     }
 
     #halftitle h1{
-        font-size: 2rem;
+        font-size: 3rem;
         line-height: calc(var(--baseline)*1.5);
-        text-transform: uppercase;
-        letter-spacing: 2px;
+        /* text-transform: uppercase;q */
+        /* letter-spacing: 2px; */
         margin-bottom: calc(var(--baseline)*3);
         padding-top: 10px; /* set on baseline */
     }
@@ -118,12 +119,26 @@
     }
 
     #halftitle .printer{
-        font-family: 'hk-grotesk';
-        font-weight: 500;
+        font-family: 'Work Sans', sans-serif;
+        /* font-weight: 600; */
         line-height: calc(var(--baseline)*1);
         text-indent: 0;
-        border-left: 1px solid black;
+        /* border-left: 1px solid black; */
         padding-top: calc(var(--baseline)*0.25);
         padding-bottom: calc(var(--baseline)*0.25);
-        padding-left: calc(var(--baseline)*0.5);
+        /* padding-left: calc(var(--baseline)*0.5); */
+    }
+
+    /* --------- intitle -----------------*/
+
+    #intitle h1 {
+        font-size: 0.8rem;
+    }
+
+    #intitle h2 {
+
+    }
+
+    #intitle p {
+        
     }

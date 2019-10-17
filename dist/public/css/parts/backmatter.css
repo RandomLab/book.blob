@@ -4,7 +4,8 @@
     #colophon, #project-gutenberg{ page: backmatter; }
 
     @page backmatter {
-        background-color: #f8f2ec;
+        /* background-color: #f8f2ec; */
+
         @top-left-corner { content: none; }
         @top-left { content: none; }
         @top-right { content: none; }
@@ -25,8 +26,8 @@
 /* Style --------------------------------------------------------------------------- */
 
     #colophon h2{
-        font-family: 'hk-grotesk';
-        font-weight: 600; 
+        font-family: 'Grenze', serif;
+        /* font-weight: 600;  */
         margin-top: var(--baseline);
     }
 

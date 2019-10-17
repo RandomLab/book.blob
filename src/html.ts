@@ -3,6 +3,8 @@ import * as path from 'path';
 
 class Html {
 
+    /* convert all md to html and build html */
+
     public showdown = require('showdown');
     public converter = new this.showdown.Converter();
     private srcFolder: string;
@@ -10,6 +12,7 @@ class Html {
     constructor(private chapitres: string[]) {
         this.chapitres = chapitres;
         this.converter.setOption('noHeaderId', 'true');
+        this.converter.setFlavor('github');
         this.srcFolder = path.join(__dirname + '../../sources/');
     }
 
@@ -19,27 +22,27 @@ class Html {
         const toc: string = this.toc();
         const introduction: string = this.introduction();
         const body: string = this.body();
-        const result = head.concat(cover + toc + introduction + body + '</body>');
+        const colophon: string = this.colophon();
+        const result = head.concat(cover + toc + introduction + body + colophon + '</body>');
         return result;
     }
 
-    private body(): string {
+    private chapitresHtml(): string {
         const result: string[] = [];
-        let i: number = 1;
         for (const c of this.chapitres) {
-            const chapitre = this.chapitreId(c);
-            let section = `<section id="${chapitre}" class="chapter" data-chapter="${i}">`;
-            const html: string = this.converter.makeHtml(c);
-            section = section.concat(html);
-            section = section.concat(`</section>`);
-            result.push(section);
-            i = i + 1;
+            const html: string = fs.readFileSync(this.srcFolder + `chapitres/${c}.html`, 'utf8');
+            result.push(html);
         }
-        const body: string = result.join('\n');
+        const data: string = result.join('\n');
+        return data;
+    }
+
+    private body(): string {
+        const body: string = this.chapitresHtml();
         return body;
     }
 
-    private chapitreName(name: string): string {
+    private getName(name: string): string {
         try {
             const re = /.*/m;
             const str = name.match(re);
@@ -52,11 +55,11 @@ class Html {
         }
     }
 
-    private chapitreId(name: string): string {
+    private getId(name: string): string {
         try {
-            const chapitre = this.chapitreName(name);
+            const newName = this.getName(name);
             const re = /(\s)/gi;
-            const str = chapitre.replace(re, '-').toLowerCase();
+            const str = newName.replace(re, '-').toLowerCase();
             if (str) {
                 return str;
             } else {
@@ -65,6 +68,18 @@ class Html {
         } catch (e) {
             console.log(e);
         }
+    }
+
+    private getChapitreName(name: string): string[] {
+        const re = /".*?"/g;
+        const data = name.match(re);
+        return data;
+    }
+
+    private makeTitle(data: string[], separator: string): string {
+        const re = /"/g;
+        const str = data.join(separator).replace(re, '');
+        return str;
     }
 
     private head(): string {
@@ -77,19 +92,26 @@ class Html {
         return cover;
     }
 
+    private colophon(): string {
+        const colophon: string = fs.readFileSync(this.srcFolder + 'colophon.html', 'utf8');
+        return colophon;
+    }
+
     private toc(): string {
 
-        const introduction: string = fs.readFileSync(this.srcFolder + 'introduction.md', 'utf8');
-        const introductionName = this.chapitreName(introduction);
-        const introductionId = this.chapitreId(introduction);
+        const introduction: string = fs.readFileSync(this.srcFolder + 'request-for-comments.md', 'utf8');
+        const introductionName = this.getName(introduction);
+        const introductionId = this.getId(introduction);
         const introductionToc = `<li id="toc-${introductionId}">
         <a href="#${introductionId}">${introductionName}</a></li>`;
 
         const liste: string[] = [];
 
         for (const c of this.chapitres) {
-            const chapitreId = this.chapitreId(c);
-            const chapitre = `<li class="chap"><a href="#${chapitreId}">${this.chapitreName(c)}</a></li>`;
+            const name = this.getChapitreName(c);
+            const title = this.makeTitle(name, ', ');
+            const id = this.makeTitle(name, '-');
+            const chapitre = `<li class="chap"><a href="#${id}">${title}</a></li>`;
             liste.push(chapitre);
         }
 
@@ -98,9 +120,9 @@ class Html {
     }
 
     private introduction(): string {
-        let introduction: string = fs.readFileSync(this.srcFolder + 'introduction.md', 'utf8');
+        let introduction: string = fs.readFileSync(this.srcFolder + 'request-for-comments.md', 'utf8');
         introduction = this.converter.makeHtml(introduction);
-        const result: string = '<section id="introduction">' + introduction + '</section>';
+        const result: string = '<section id="request-for-comments">' + introduction + '</section>';
         return result;
     }
 }

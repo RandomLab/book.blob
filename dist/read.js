@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs = require("fs");
 const path = require("path");
-class Read {
+class ReadData {
     constructor(pathToFolder) {
         this.pathToFolder = pathToFolder;
         this.srcFolder = path.join(__dirname, this.pathToFolder);
@@ -25,5 +25,5 @@ class Read {
         return one;
     }
 }
-exports.default = Read;
+exports.default = ReadData;
 //# sourceMappingURL=read.js.map

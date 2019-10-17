@@ -1,102 +1,226 @@
-
 /* Style not specific to paged.js ----------------------------------------------------------------------- 
 --------------------------------------------------------------------------------------------------------- */
 
-
-:root{
+:root {
     font-size: 16px;
     --baseline: 22px;
 }
 
-* { 
-    font-size: 1rem;
+* {
+    font-size: 0.7rem;
     line-height: 22px;
     margin: 0;
     padding: 0;
 }
 
-ul{ list-style: none; }
+ul {
+    list-style: none;
+}
 
-a{ color: currentColor; text-decoration: none; }
+a {
+    color: currentColor;
+    text-decoration: none;
+}
 
 
+/* img { 
+    width: 100%;
+} */
 
 
 /* CHAPTER TITLE ----------------------------------------- */
 
-
-.chapter h1, 
-#prefatory-note h1, 
-#introduction h1,
+.chapter h1,
+#prefatory-note h1,
 #toc h1,
-#colophon h1{
-    font-family: 'permian';
-    font-weight: bold;
+#colophon h1 {
+    font-family: 'Work Sans', sans-serif;
+    /* font-weight: 600; */
     text-transform: uppercase;
-    font-size: 1rem;
-    line-height: var(--baseline);
-    margin-bottom: 12px;
-    margin-top: calc(var(--baseline)*6);
-    margin-bottom: calc(var(--baseline)*2);
+    font-size: 2rem;
+    /* line-height: var(--baseline); */
+    line-height: 1.8rem;
+    text-align: center;
+    /* margin-bottom: 12px; */
+    /* margin-top: calc(var(--baseline)*6); */
+    /* margin-bottom: calc(var(--baseline)*2); */
 }
 
-.chapter h1 + p, 
-#introduction h1 + p,
-#prefatory-note h1 + p{
+#request-for-comments h1 {
+    font-size: 1rem;
+    font-family: 'Work Sans', sans-serif;
+    text-transform: uppercase;
+
+}
+
+.colophon h4 p a {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 0.7rem;
+    line-height: 0.8rem;
+}
+
+.chapter h1+p,
+#request-for-comments h1+p,
+#prefatory-note h1+p {
     text-indent: 0;
 }
 
 
 /* counter */
-body { counter-reset: chapter; }
-.chapter h1 { counter-increment: chapter; }
-.chapter h1::before { 
-  content: counter(chapter, lower-roman);
-  font-weight: normal;
+
+body {
+    counter-reset: chapter;
+}
+
+.chapter h1 {
+    counter-increment: chapter;
 }
 
 
-.chapter h1::before{
+/* .chapter h1::before { 
+  content: counter(chapter, decimal);
+  font-weight: normal;
+} */
+
+
+/* .chapter h1::before{
     font-size: 2rem;
     line-height: 0;
     padding-right: var(--baseline);
-}
+} */
 
 
 /* TEXT ---------------------------------------------------- */
 
-p, li{
-    font-family: 'permian';
+h1 {
+    font-size: 2rem;
+    font-weight: normal;
 }
 
-p{
-    text-indent: 1rem;
-    text-align: justify;
+li,
+h2,
+h3,
+h4 {
+    font-size: 2rem;
+    font-family: 'Grenze', serif;
+    font-weight: normal;
+    /* line-height: var(--baseline) - 1; */
 }
+
+h2,
+h3 {
+    /* margin-top: 2mm; */
+    margin-bottom: 1mm;
+    page-break-before: always;
+    line-height: 2rem;
+}
+
+h3,
+h4 {
+    font-size: 0.8rem;
+    line-height: 1rem;
+}
+
+h4 {
+    page-break-before: always;
+    margin-bottom: 0.3rem;
+}
+
+p,
+em,
+strong {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 0.8rem;
+    /* text-indent: 1rem; */
+    text-align: left;
+}
+
+a {
+    font-family: 'Work Sans', sans-serif;
+    /* font-size: 1rem; */
+    /* text-decoration: underline; */
+}
+
+p {
+    margin-bottom: 2mm;
+    line-height: 1rem;
+}
+
+p img {
+    width: 70%;
+    /* padding: 3%; */
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    margin-left: 8mm;
+    filter: grayscale(100%);
+}
+
+.logo img {
+    width: 50%;
+    /* padding: 3%; */
+    margin-top: 6mm;
+    margin-bottom: 6mm;
+    margin-left: 8mm;
+    filter: grayscale(100%);
+}
+
+img[alt=adapt] {
+    height: var(--height);
+    width: var(--width);
+    object-fit: contain;
+    position: absolute;
+    top: calc(var(--margin-top)*-1);
+    left: calc(var(--margin-left)*-1);
+    z-index: 0;
+    page-break-before: always;
+}
+
+img[alt=full] {
+    height: var(--height);
+    width: var(--width);
+    object-fit: contain;
+    position: absolute;
+    top: calc(var(--margin-top)*-1);
+    left: calc(var(--margin-left)*-1);
+    z-index: 0;
+    page-break-before: always;
+}
+
 
 /* blockquote and list */
 
-blockquote, .chapter li{
-    margin: var(--baseline) 1rem;
+blockquote,
+.chapter li {
+    /* margin: var(--baseline) 1rem; */
+    font-family: 'Work Sans', sans-serif;
+    font-weight: normal;
+    /* font-size: 0.8rem; */
 }
 
-blockquote p:before{ content: "“"; }
-blockquote p:after{ content: "”"; }
+blockquote p:before {
+    content: "“";
+}
 
+blockquote p:after {
+    content: "”";
+}
 
 blockquote p,
-blockquote + p,
-.chapter li{ text-indent: 0; }
-
-
-
+blockquote+p,
+.chapter li {
+    text-indent: 0;
+}
 
 
 /* WHITOUT PAGED.JS */
-@media screen{
-    body{
+
+@media screen {
+    body {
         max-width: 70vw;
         padding-left: 15vw;
     }
-    figure, figure img{ max-width: 500px; }
+    figure,
+    figure img {
+        max-width: 500px;
+    }
 }

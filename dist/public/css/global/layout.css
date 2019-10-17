@@ -3,26 +3,27 @@
     /* ALL PAGES ----------------------------------------------------------------------- */
 
     @page {
-        size: 148mm 210mm;
+        size: 120mm 180mm;
         margin-top: 100px;
-        margin-bottom: 65px;
+        margin-bottom: 80px;
+        /* marks: crop; */
     }
 
 
     /* LEFT PAGES ---------------------------------------------------------------------- */
 
     @page :left {
-        margin-left: 36mm;
-        margin-right: 12mm;
+        margin-left: 20mm;
+        margin-right: 30mm;
 
         /* page number */
         @top-left-corner {
             content: counter(page);
-            font-family: 'hk-grotesk';
-            font-weight: 600;
-            padding-right: 12mm;
+            font-family: 'Work Sans', sans-serif;
+            /* font-weight: 600; */
+            padding-right: 5mm;
             vertical-align: top;
-            padding-top: 25px;
+            padding-top: 22px;
         }
 
          /* running header (book title)  */
@@ -36,9 +37,10 @@
     /*  running header (book title) 
         way 1 : keep HTML element and style inside the running header, remove the element from the flux  */
     #booktitle { 
+        font-size: 0.7rem;
         position: running(booktitle); 
-        font-family: 'hk-grotesk';
-        font-weight: 600;
+        font-family: 'Work Sans', sans-serif;
+        /* font-weight: 600; */
         text-indent: 0;
     }
 
@@ -46,15 +48,15 @@
     /* RIGHT PAGES --------------------------------------------------------------------- */
 
     @page :right {
-        margin-left: 12mm;
-        margin-right: 36mm;
+        margin-left: 20mm;
+        margin-right: 30mm;
 
         /* page number */
         @top-right-corner {
             content: counter(page);
-            font-family: 'hk-grotesk';
-            font-weight: 600;
-            padding-left: 12mm;
+            font-family: 'Work Sans', sans-serif;
+            /* font-weight: 600; */
+            padding-left: 5mm;
             vertical-align: top;
             padding-top: 25px;
         }
@@ -62,8 +64,8 @@
         /* running header (chapter title)  */
         @top-right {
             content: string(chapTitle);
-            font-family: 'hk-grotesk';
-            font-weight: 600;
+            font-family: 'Work Sans';
+            /* font-weight: 600; */
             vertical-align: top;
             padding-top: 25px;
         }
@@ -79,9 +81,17 @@
     #halftitle, 
     #toc, 
     #prefatory-note,
-    #introduction, 
+    #request-for-comments, 
     #toc {
         break-before: right;
+    }
+
+    #toc ul li a {
+        text-decoration: none;
+        font-size: 1rem;
+        line-height: 1.1rem;
+        padding-bottom: 1rem;
+        padding-right: 3rem;
     }
 
     .chapter {
@@ -90,6 +100,11 @@
 
     figure {
         break-inside: avoid;
+    }
+
+    #colophon {
+        break-before: right;
+        break-after: left;
     }
 
 
@@ -120,7 +135,7 @@
     - Not specific to paged.js
     - Support only on Chrome/Chromium
     */
-    #introduction p, .chapter p {
+    #request-for-comments p, .chapter p {
         widows: 3;
         orphans: 3;
     }

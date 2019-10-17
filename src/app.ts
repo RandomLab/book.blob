@@ -4,6 +4,8 @@ import { Request, Response } from 'express';
 
 class App {
 
+    /* app to serve html */
+
     public app: express.Application;
 
     constructor() {
