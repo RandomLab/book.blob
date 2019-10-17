@@ -99,7 +99,7 @@ class Html {
 
     private toc(): string {
 
-        const introduction: string = fs.readFileSync(this.srcFolder + 'request-for-comments.md', 'utf8');
+        const introduction: string = fs.readFileSync(this.srcFolder + 'preface.md', 'utf8');
         const introductionName = this.getName(introduction);
         const introductionId = this.getId(introduction);
         const introductionToc = `<li id="toc-${introductionId}">
@@ -120,9 +120,9 @@ class Html {
     }
 
     private introduction(): string {
-        let introduction: string = fs.readFileSync(this.srcFolder + 'request-for-comments.md', 'utf8');
+        let introduction: string = fs.readFileSync(this.srcFolder + 'preface.md', 'utf8');
         introduction = this.converter.makeHtml(introduction);
-        const result: string = '<section id="request-for-comments">' + introduction + '</section>';
+        const result: string = '<section id="preface">' + introduction + '</section>';
         return result;
     }
 }

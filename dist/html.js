@@ -88,7 +88,7 @@ class Html {
         return colophon;
     }
     toc() {
-        const introduction = fs.readFileSync(this.srcFolder + 'request-for-comments.md', 'utf8');
+        const introduction = fs.readFileSync(this.srcFolder + 'preface.md', 'utf8');
         const introductionName = this.getName(introduction);
         const introductionId = this.getId(introduction);
         const introductionToc = `<li id="toc-${introductionId}">
@@ -105,9 +105,9 @@ class Html {
         return section;
     }
     introduction() {
-        let introduction = fs.readFileSync(this.srcFolder + 'request-for-comments.md', 'utf8');
+        let introduction = fs.readFileSync(this.srcFolder + 'preface.md', 'utf8');
         introduction = this.converter.makeHtml(introduction);
-        const result = '<section id="request-for-comments">' + introduction + '</section>';
+        const result = '<section id="preface">' + introduction + '</section>';
         return result;
     }
 }
