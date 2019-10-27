@@ -1,4 +1,8 @@
-/* Style not specific to paged.js ----------------------------------------------------------------------- 
+.pagedjs_margin-left{
+  content:"////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
+}
+
+/* Style not specific to paged.js -----------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------- */
 
 :root {
@@ -8,7 +12,7 @@
 
 * {
     font-size: 0.7rem;
-    line-height: 22px;
+    /*line-height: 22px;*/
     margin: 0;
     padding: 0;
 }
@@ -23,7 +27,7 @@ a {
 }
 
 
-/* img { 
+/* img {
     width: 100%;
 } */
 
@@ -77,7 +81,7 @@ body {
 }
 
 
-/* .chapter h1::before { 
+/* .chapter h1::before {
   content: counter(chapter, decimal);
   font-weight: normal;
 } */
@@ -100,10 +104,14 @@ h1 {
 li,
 h2,
 h3,
-h4 {
-    font-size: 2rem;
-    font-family: 'Grenze', serif;
-    font-weight: normal;
+h4,h5 {
+    font-size: 16pt;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 22pt;
+    text-transform: uppercase;
     /* line-height: var(--baseline) - 1; */
 }
 
@@ -115,43 +123,47 @@ h3 {
     line-height: 2rem;
 }
 
-h3,
-h4 {
-    font-size: 0.8rem;
-    line-height: 1rem;
+h6{
+  font-style: italic;
+}
+h6 em{
+  font-style: normal;
 }
 
-h4 {
-    page-break-before: always;
-    margin-bottom: 0.3rem;
+* em, * strong{
+  /*
+  font-style: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  */
 }
 
-p,
-em,
-strong {
-    font-family: 'Work Sans', sans-serif;
-    font-size: 0.8rem;
-    /* text-indent: 1rem; */
+p {
     text-align: left;
+    font-family: 'OSP_Le-patin-helvete', sans-serif;
+
+    font-size: 8pt;
+    line-height: 11pt ;
+    text-indent: 5mm;
+
+    /*margin-bottom: 2mm;*/
 }
 
 a {
-    font-family: 'Work Sans', sans-serif;
+    /*font-family: 'Work Sans', sans-serif;*/
     /* font-size: 1rem; */
     /* text-decoration: underline; */
 }
 
-p {
-    margin-bottom: 2mm;
-    line-height: 1rem;
-}
 
 p img {
-    width: 70%;
+    width: calc(100% - 6mm);
     /* padding: 3%; */
     margin-top: 6mm;
     margin-bottom: 6mm;
     margin-left: 8mm;
+    margin-right: 8mm;
+
     filter: grayscale(100%);
 }
 
@@ -188,29 +200,15 @@ img[alt=full] {
 
 
 /* blockquote and list */
-
-blockquote,
-.chapter li {
-    /* margin: var(--baseline) 1rem; */
-    font-family: 'Work Sans', sans-serif;
-    font-weight: normal;
-    /* font-size: 0.8rem; */
+blockquote{
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
-blockquote p:before {
-    content: "“";
+blockquote, blockquote p{
+  text-align: center;
+  font-style: italic;
 }
-
-blockquote p:after {
-    content: "”";
-}
-
-blockquote p,
-blockquote+p,
-.chapter li {
-    text-indent: 0;
-}
-
 
 /* WHITOUT PAGED.JS */
 

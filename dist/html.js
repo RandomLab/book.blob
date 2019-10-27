@@ -20,6 +20,7 @@ class Html {
         const introduction = this.introduction();
         const body = this.body();
         const colophon = this.colophon();
+        //const footer = this.footer();
         const result = head.concat(cover + toc + introduction + body + colophon + '</body>');
         return result;
     }

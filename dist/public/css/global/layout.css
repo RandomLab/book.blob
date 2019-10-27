@@ -4,8 +4,9 @@
 
     @page {
         size: 120mm 180mm;
-        margin-top: 100px;
+        margin-top: 15mm;
         margin-bottom: 80px;
+        line-height: 1rem;
         /* marks: crop; */
     }
 
@@ -13,13 +14,13 @@
     /* LEFT PAGES ---------------------------------------------------------------------- */
 
     @page :left {
-        margin-left: 20mm;
-        margin-right: 30mm;
+        margin-left: 10mm;
+        margin-right: 20mm;
 
         /* page number */
         @top-left-corner {
             content: counter(page);
-            font-family: 'Work Sans', sans-serif;
+            font-family: 'Pagul', sans-serif;
             /* font-weight: 600; */
             padding-right: 5mm;
             vertical-align: top;
@@ -34,12 +35,12 @@
         }
     }
 
-    /*  running header (book title) 
+    /*  running header (book title)
         way 1 : keep HTML element and style inside the running header, remove the element from the flux  */
-    #booktitle { 
+    #booktitle {
         font-size: 0.7rem;
-        position: running(booktitle); 
-        font-family: 'Work Sans', sans-serif;
+        position: running(booktitle);
+        font-family: 'Pagul', sans-serif;
         /* font-weight: 600; */
         text-indent: 0;
     }
@@ -49,12 +50,12 @@
 
     @page :right {
         margin-left: 20mm;
-        margin-right: 30mm;
+        margin-right: 10mm;
 
         /* page number */
         @top-right-corner {
             content: counter(page);
-            font-family: 'Work Sans', sans-serif;
+            font-family: 'Pagul', sans-serif;
             /* font-weight: 600; */
             padding-left: 5mm;
             vertical-align: top;
@@ -64,24 +65,24 @@
         /* running header (chapter title)  */
         @top-right {
             content: string(chapTitle);
-            font-family: 'Work Sans';
+            font-family: 'Pagul';
             /* font-weight: 600; */
             vertical-align: top;
             padding-top: 25px;
         }
     }
 
-    /*  running header (book title) 
+    /*  running header (book title)
         way 2 : copy an HTML element into running header, don't keep HTML and style  */
     h1 { string-set: chapTitle content(text); }
-    
+
 
     /* PAGE BREAKS --------------------------------------------------------------------- */
 
-    #halftitle, 
-    #toc, 
+    #halftitle,
+    #toc,
     #prefatory-note,
-    #request-for-comments, 
+    #request-for-comments,
     #toc {
         break-before: right;
     }
@@ -131,7 +132,7 @@
 
     /* WIDOWS AND ORPHANS -------------------------------------------------------------- */
 
-    /*  
+    /*
     - Not specific to paged.js
     - Support only on Chrome/Chromium
     */
@@ -143,12 +144,15 @@
 
     /* HYPHENS ------------------------------------------------------------------------- */
 
-     /*  
+     /*
     - Not specific to paged.js
     - Support only on Chrome/Chromium with OSX and on Firefox with Linux
     */
-    p{ 
-        hyphens: auto; 
+    p{
+      hyphens: auto;
+       -ms-hyphens: auto;
+       -moz-hyphens: auto;
+       -webkit-hyphens: auto;
     }
 
 
