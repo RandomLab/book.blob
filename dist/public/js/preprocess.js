@@ -1,12 +1,3 @@
-image_container();
-
-function image_container(){
-  images = document.querySelectorAll("p img");
-  for(var i = 0; i < images.length ;  i++){
-    image = images[i]
-    image.parentElement.classList.add("image_container");
-  }
-}
 
 console.log("preprocess");
 
