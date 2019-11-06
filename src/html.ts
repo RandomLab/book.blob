@@ -23,7 +23,8 @@ class Html {
         const introduction: string = this.introduction();
         const body: string = this.body();
         const colophon: string = this.colophon();
-        const result = head.concat(cover + toc + introduction + body + colophon + '</body>');
+        const footer: string = this.footer();
+        const result = head.concat(cover + toc + introduction + body + colophon + footer);
         return result;
     }
 
@@ -95,6 +96,11 @@ class Html {
     private colophon(): string {
         const colophon: string = fs.readFileSync(this.srcFolder + 'colophon.html', 'utf8');
         return colophon;
+    }
+
+    private footer(): string {
+        const footer: string = fs.readFileSync(this.srcFolder + 'footer.html', 'utf8');
+        return footer;
     }
 
     private toc(): string {

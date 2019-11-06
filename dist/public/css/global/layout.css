@@ -3,10 +3,13 @@
     /* ALL PAGES ----------------------------------------------------------------------- */
 
     @page {
+        --grid : 13px;
         size: 120mm 180mm;
-        margin-top: 15mm;
+        /*margin-top: calc(var(--grid) * 1.5);*/
+        margin-top: 39px;
         margin-bottom: 80px;
         line-height: 1rem;
+        /*background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));*/
         /* marks: crop; */
     }
 
@@ -24,21 +27,21 @@
             /* font-weight: 600; */
             padding-right: 5mm;
             vertical-align: top;
-            padding-top: 22px;
+            padding-top: var(--grid);
         }
 
          /* running header (book title)  */
         @top-left {
             content: element(booktitle);
             vertical-align: top;
-            padding-top: 25px;
+            padding-top: var(--grid);
         }
     }
 
     /*  running header (book title)
         way 1 : keep HTML element and style inside the running header, remove the element from the flux  */
     #booktitle {
-        font-size: 0.7rem;
+        font-size: 12pt;
         position: running(booktitle);
         font-family: 'Pagul', sans-serif;
         /* font-weight: 600; */
@@ -59,16 +62,16 @@
             /* font-weight: 600; */
             padding-left: 5mm;
             vertical-align: top;
-            padding-top: 25px;
+            padding-top: var(--grid);
         }
 
         /* running header (chapter title)  */
         @top-right {
-            content: string(chapTitle);
+            /*content: string(chapTitle);*/
             font-family: 'Pagul';
             /* font-weight: 600; */
             vertical-align: top;
-            padding-top: 25px;
+            padding-top: var(--grid);
         }
     }
 
@@ -149,10 +152,10 @@
     - Support only on Chrome/Chromium with OSX and on Firefox with Linux
     */
     p{
-      hyphens: auto;
-       -ms-hyphens: auto;
-       -moz-hyphens: auto;
-       -webkit-hyphens: auto;
+      hyphens: none;
+       -ms-hyphens: none;
+       -moz-hyphens: none;
+       -webkit-hyphens: none;
     }
 
 

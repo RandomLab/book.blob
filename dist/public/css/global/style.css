@@ -8,10 +8,10 @@
 :root {
     font-size: 16px;
     --baseline: 22px;
+    --lineheight:13px;
 }
 
 * {
-    font-size: 0.7rem;
     /*line-height: 22px;*/
     margin: 0;
     padding: 0;
@@ -105,13 +105,20 @@ li,
 h2,
 h3,
 h4,h5 {
-    font-size: 16pt;
-    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 12pt;
+    font-family: 'Inknut Antiqua', sans-serif;
     font-weight: bold;
-    margin-top: 0;
-    margin-bottom: 0;
-    line-height: 22pt;
+    /*margin-top: 0;
+    margin-bottom: 0;*/
+    line-height: calc(var(--lineheight) * 2);
     text-transform: uppercase;
+    /*margin-top: var(--lineheight);*/
+
+    /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    /*text-shadow: 0px 0px 1px black ;*/
+    color: white;
     /* line-height: var(--baseline) - 1; */
 }
 
@@ -125,10 +132,17 @@ h3 {
 
 h6{
   font-style: italic;
+  font-size: 8pt;
+  line-height: var(--lineheight);
+  margin-bottom: var(--lineheight);
 }
 h6 em{
   font-style: normal;
 }
+/*
+p + h5{
+  margin-top: calc(var(--lineheight) * -1);
+}*/
 
 * em, * strong{
   /*
@@ -140,13 +154,12 @@ h6 em{
 
 p {
     text-align: left;
-    font-family: 'OSP_Le-patin-helvete', sans-serif;
-
-    font-size: 8pt;
-    line-height: 11pt ;
-    text-indent: 5mm;
-
-    /*margin-bottom: 2mm;*/
+    font-family: 'Inknut Antiqua', sans-serif;
+    /*font-style: italic;*/
+    font-size: 7pt;
+    line-height: var(--lineheight) ;
+    text-indent: 25mm;
+    /*margin-bottom: var(--lineheight);*/
 }
 
 a {
@@ -157,11 +170,12 @@ a {
 
 
 p img {
-    width: calc(100% - 6mm);
+    height: 130px;
+    width: auto;
     /* padding: 3%; */
-    margin-top: 6mm;
-    margin-bottom: 6mm;
-    margin-left: 8mm;
+    /*margin-top: var(--lineheight);
+    margin-bottom: var(--lineheight);*/
+    /*margin-left: 8mm;*/
     margin-right: 8mm;
 
     filter: grayscale(100%);
@@ -201,11 +215,12 @@ img[alt=full] {
 
 /* blockquote and list */
 blockquote{
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin-left: var(--lineheight);
+  margin-right: 22px;
 }
 
 blockquote, blockquote p{
+  text-indent: 0;
   text-align: center;
   font-style: italic;
 }
