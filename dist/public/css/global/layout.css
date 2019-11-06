@@ -3,14 +3,19 @@
     /* ALL PAGES ----------------------------------------------------------------------- */
 
     @page {
-        --grid : 13px;
-        size: 120mm 180mm;
+        --bordsperdus: 1cm;
+        --grid : 15px;
+        /*size: calc(120mm + var(--bordsperdus)) calc(180mm + var(--bordsperdus));*/
+        size:107mm 175mm;
         /*margin-top: calc(var(--grid) * 1.5);*/
-        margin-top: 39px;
-        margin-bottom: 80px;
-        line-height: 1rem;
+        margin-top: 30px;
+        margin-bottom: 60px;
         /*background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));*/
-        /* marks: crop; */
+        /*marks: crop;
+        bleed: 1cm;*/
+
+        outline:1px solid black;
+        outline-offset: -1px;
     }
 
 
@@ -18,16 +23,21 @@
 
     @page :left {
         margin-left: 10mm;
-        margin-right: 20mm;
+        margin-right: 15mm;
+
+        /*border: 1px solid;*/
 
         /* page number */
         @top-left-corner {
-            content: counter(page);
-            font-family: 'Pagul', sans-serif;
-            /* font-weight: 600; */
             padding-right: 5mm;
             vertical-align: top;
             padding-top: var(--grid);
+
+            /*crop marks*/
+            border-top: solid 1px black;
+            border-left: solid 1px black;
+            border-right: solid 1px black;
+
         }
 
          /* running header (book title)  */
@@ -35,6 +45,15 @@
             content: element(booktitle);
             vertical-align: top;
             padding-top: var(--grid);
+
+        }
+        @bottom-center{
+            content: counter(page);
+            font-family: 'Inknut Antiqua';
+            font-size:12pt;
+            color:white;
+            -webkit-text-stroke-width: 1px;
+            -webkit-text-stroke-color: black;
         }
     }
 
@@ -42,7 +61,7 @@
         way 1 : keep HTML element and style inside the running header, remove the element from the flux  */
     #booktitle {
         font-size: 12pt;
-        position: running(booktitle);
+        /*position: running(booktitle);*/
         font-family: 'Pagul', sans-serif;
         /* font-weight: 600; */
         text-indent: 0;
@@ -52,17 +71,17 @@
     /* RIGHT PAGES --------------------------------------------------------------------- */
 
     @page :right {
-        margin-left: 20mm;
+        margin-left: 15mm;
         margin-right: 10mm;
 
         /* page number */
-        @top-right-corner {
-            content: counter(page);
-            font-family: 'Pagul', sans-serif;
-            /* font-weight: 600; */
-            padding-left: 5mm;
-            vertical-align: top;
-            padding-top: var(--grid);
+        @bottom-center {
+          content: counter(page);
+          font-family: 'Inknut Antiqua';
+          font-size:12pt;
+          color:white;
+          -webkit-text-stroke-width: 1px;
+          -webkit-text-stroke-color: black;
         }
 
         /* running header (chapter title)  */
@@ -92,10 +111,6 @@
 
     #toc ul li a {
         text-decoration: none;
-        font-size: 1rem;
-        line-height: 1.1rem;
-        padding-bottom: 1rem;
-        padding-right: 3rem;
     }
 
     .chapter {
@@ -152,13 +167,22 @@
     - Support only on Chrome/Chromium with OSX and on Firefox with Linux
     */
     p{
+      /*
       hyphens: none;
        -ms-hyphens: none;
        -moz-hyphens: none;
        -webkit-hyphens: none;
+       */
+
+       hyphens: auto;
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
     }
 
-
+    em{
+      hyphens: none;
+    }
      /* select the last page of the document  */
      .pagedjs_page:last-of-type{ }
 

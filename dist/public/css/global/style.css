@@ -1,20 +1,15 @@
-.pagedjs_margin-left{
-  content:"////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////"
-}
-
 /* Style not specific to paged.js -----------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------- */
 
 :root {
-    font-size: 16px;
-    --baseline: 22px;
-    --lineheight:13px;
+    --lineheight:15px;
 }
 
 * {
     /*line-height: 22px;*/
     margin: 0;
     padding: 0;
+    overflow: visible;
 }
 
 ul {
@@ -31,6 +26,10 @@ a {
     width: 100%;
 } */
 
+#toc a{
+  font-size: 12pt;
+}
+
 
 /* CHAPTER TITLE ----------------------------------------- */
 
@@ -38,29 +37,13 @@ a {
 #prefatory-note h1,
 #toc h1,
 #colophon h1 {
-    font-family: 'Work Sans', sans-serif;
     /* font-weight: 600; */
     text-transform: uppercase;
-    font-size: 2rem;
-    /* line-height: var(--baseline); */
-    line-height: 1.8rem;
+    line-height: var(--lineheight);
     text-align: center;
     /* margin-bottom: 12px; */
     /* margin-top: calc(var(--baseline)*6); */
     /* margin-bottom: calc(var(--baseline)*2); */
-}
-
-#request-for-comments h1 {
-    font-size: 1rem;
-    font-family: 'Work Sans', sans-serif;
-    text-transform: uppercase;
-
-}
-
-.colophon h4 p a {
-    font-family: 'Work Sans', sans-serif;
-    font-size: 0.7rem;
-    line-height: 0.8rem;
 }
 
 .chapter h1+p,
@@ -96,53 +79,87 @@ body {
 
 /* TEXT ---------------------------------------------------- */
 
-h1 {
-    font-size: 2rem;
-    font-weight: normal;
+p {
+    text-align: left;
+    font-family: 'Inknut Antiqua', sans-serif;
+    /*font-style: italic;*/
+    font-size: 8pt;
+    line-height: 15px ;
+    text-indent: 10mm;
+    margin-bottom: var(--lineheight);
 }
 
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+blockquote + p{
+  text-indent: 0;
+}
+
+h1,
 li,
 h2,
 h3,
-h4,h5 {
+h4,
+h5 {
     font-size: 12pt;
     font-family: 'Inknut Antiqua', sans-serif;
     font-weight: bold;
-    /*margin-top: 0;
-    margin-bottom: 0;*/
-    line-height: calc(var(--lineheight) * 2);
+    margin-top: 0;
+    margin-bottom: 0;
+    hyphens: none;
+    /*height: calc(var(--lineheight) * 2);
+    line-height: calc(var(--lineheight) * 2 + 2px);*/
+    /*line-height: calc(var(--lineheight) * 2);*/
+    line-height: var(--lineheight);
     text-transform: uppercase;
-    /*margin-top: var(--lineheight);*/
 
     /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
-    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-width: 0.9px;
     -webkit-text-stroke-color: black;
     /*text-shadow: 0px 0px 1px black ;*/
     color: white;
     /* line-height: var(--baseline) - 1; */
 }
 
-h2,
-h3 {
-    /* margin-top: 2mm; */
-    margin-bottom: 1mm;
+h1,
+h2{
+    text-align: center;
     page-break-before: always;
-    line-height: 2rem;
+    hyphens: none;
 }
 
 h6{
+  font-family: "Space Mono";
   font-style: italic;
-  font-size: 8pt;
-  line-height: var(--lineheight);
+  word-spacing: -3.2px;
+  font-weight: normal;
+  hyphens: auto;
+  text-align: center;
   margin-bottom: var(--lineheight);
 }
-h6 em{
-  font-style: normal;
+
+h6 ~ h6{
+  margin-bottom: 0;
 }
-/*
-p + h5{
-  margin-top: calc(var(--lineheight) * -1);
-}*/
+
+h6 em{
+  /*font-style: normal;*/
+  font-weight: bold;
+  hyphens: none;
+}
+
+h3, h2{
+  margin-bottom: var(--lineheight);
+}
+
+p + h3{
+  margin-top: calc(var(--lineheight) / -2);
+  margin-bottom: calc(var(--lineheight) / 2);
+
+}
 
 * em, * strong{
   /*
@@ -152,15 +169,7 @@ p + h5{
   */
 }
 
-p {
-    text-align: left;
-    font-family: 'Inknut Antiqua', sans-serif;
-    /*font-style: italic;*/
-    font-size: 7pt;
-    line-height: var(--lineheight) ;
-    text-indent: 25mm;
-    /*margin-bottom: var(--lineheight);*/
-}
+
 
 a {
     /*font-family: 'Work Sans', sans-serif;*/
@@ -168,16 +177,18 @@ a {
     /* text-decoration: underline; */
 }
 
-
+.image_container{
+  text-indent: 0;
+  text-align: center;
+}
 p img {
-    height: 130px;
+    height: 135px;
     width: auto;
     /* padding: 3%; */
     /*margin-top: var(--lineheight);
     margin-bottom: var(--lineheight);*/
-    /*margin-left: 8mm;*/
-    margin-right: 8mm;
-
+    margin-left: auto;
+    margin-right: auto;
     filter: grayscale(100%);
 }
 
@@ -223,6 +234,20 @@ blockquote, blockquote p{
   text-indent: 0;
   text-align: center;
   font-style: italic;
+}
+
+/* specific style */
+section[data-id="interview-with-steve-grand"] blockquote{
+  font-weight: bold;
+}
+
+
+section[data-id="gulbirra-et-les-anadyomes"] p {
+  width: 50%;
+}
+
+.pagedjs_left_page section[data-id="gulbirra-et-les-anadyomes"] p{
+  margin-left: 50%;
 }
 
 /* WHITOUT PAGED.JS */
