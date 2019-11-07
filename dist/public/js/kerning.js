@@ -325,7 +325,7 @@
                     newem += "</em>"
                   }
                   //console.log(newem)
-                  em[i].replaceWith($.parceHTML(newem))
+                  em[i].replaceWith($.parseHTML(newem))
                 }
                 var a = t.html().split(splitter), inject = '';
                 //console.log(a);
