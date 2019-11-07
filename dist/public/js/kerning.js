@@ -315,18 +315,7 @@
     (function() {
         function injector(t, splitter, klass, after) {
             if (klass.localeCompare("word") == 0){
-                var em = t.children("em")
-                for (var i = 0 ; i < em.length ; i++){
-                  var ems = em[i].innerText.split(" ");
-                  newem = ""
-                  for (var j = 0 ; j < ems.length ; j++){
-                    newem += "<em>"
-                    newem += ems[j]
-                    newem += "</em>"
-                  }
-                  //console.log(newem)
-                  em[i].replaceWith($.parseHTML(newem))
-                }
+
                 var a = t.html().split(splitter), inject = '';
                 //console.log(a);
                 for(var i = 0 ; i < a.length ; i++){
@@ -346,7 +335,9 @@
                         t.empty().append(inject);
                     }
                 }
-            }if (klass.localeCompare("char") == 0){
+
+            }
+            if (klass.localeCompare("char") == 0){
                 var a = t.text().split(splitter), inject = '';
                 if (a.length) {
                     $(a).each(function(i, item) {
@@ -355,6 +346,7 @@
                     t.empty().append(inject);
                 }
             }
+
             //console.log(t.html());
             /*
             if (a.length) {
@@ -374,7 +366,7 @@
 
             words: function() {
                 return this.each(function() {
-                    console.log($(this));
+                    //console.log($(this));
                     injector($(this), ' ', 'word', ' ');
                 });
             },
@@ -706,7 +698,23 @@
                         if(ignoreParsed)
                             elements = elements.not('.kerningjs');
 
-                        console.log(elements.children('span'))
+                        //console.log(elements.children('span'))
+
+                        //prepare em for lettering by putting each word in a em tag
+                        elements.children("em").each(function(i,em){
+                          var ems = em.innerText.split(" ");
+                          newem = ""
+                          for (var j = 0 ; j < ems.length ; j++){
+                            if(j>0){
+                              newem += " ";
+                            }
+                            newem += "<em>"
+                            newem += ems[j]
+                            newem += "</em>"
+                          }
+                          console.log(em)
+                          em.innerHTML = newem;
+                        });
 
                         elements
                             .not('.kerningjs')
