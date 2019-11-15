@@ -1,4 +1,4 @@
-# Entretient
+# Entretien
 
 ##### Christian Thuderoz et Aurélien Colsonsont co-directeurs de la revue *Négociations*. Depuis 2004, l’ambition de cette revue est d’instruire la question de la négociation dans la diversité de ses dimensions, en favorisant la confrontation disciplinaire et en faisant se rejoindre plusieurs traditions d’étude.
 
