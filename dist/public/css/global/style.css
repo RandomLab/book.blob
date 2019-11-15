@@ -1,3 +1,11 @@
+@font-face {
+ font-family: "SpaceMonoCustom3";
+ src: url("/css/SpaceMonoCustom3-Italic.otf") format("opentype");
+ src: url("/css/SpaceMonoCustom3-Italic.ttf") format("truetype");
+
+}
+
+
 /* Style not specific to paged.js -----------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------- */
 
@@ -110,6 +118,7 @@ h5 {
     margin-top: 0;
     margin-bottom: 0;
     hyphens: none;
+    text-align: center;
     /*height: calc(var(--lineheight) * 2);
     line-height: calc(var(--lineheight) * 2 + 2px);*/
     /*line-height: calc(var(--lineheight) * 2);*/
@@ -132,12 +141,14 @@ h2{
 }
 
 h6{
-  font-family: "Space Mono";
+  font-family: "SpaceMonoCustom3";
   font-style: italic;
   word-spacing: -3.2px;
   font-weight: normal;
   hyphens: auto;
   text-align: center;
+  font-size: 8.5pt;
+  line-height: var(--lineheight);
   margin-bottom: var(--lineheight);
 }
 
@@ -180,6 +191,7 @@ a {
 .image_container{
   text-indent: 0;
   text-align: center;
+  width: 100% !important;
 }
 p img {
     height: 135px;
@@ -227,7 +239,7 @@ img[alt=full] {
 /* blockquote and list */
 blockquote{
   margin-left: var(--lineheight);
-  margin-right: 22px;
+  margin-right: var(--lineheight);
 }
 
 blockquote, blockquote p{
@@ -242,13 +254,48 @@ section[data-id="interview-with-steve-grand"] blockquote{
 }
 
 
-section[data-id="gulbirra-et-les-anadyomes"] p {
+section[data-id="gulbirra-et-les-anadyomes-test"] p {
+  font-size: 7pt;
+  text-indent: 0;
   width: 50%;
 }
 
-.pagedjs_left_page section[data-id="gulbirra-et-les-anadyomes"] p{
+.pagedjs_left_page section[data-id="gulbirra-et-les-anadyomes-test"] p{
   margin-left: 50%;
 }
+
+section[data-id="courriel-du-coeur"] h6{
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: var(--lineheight)
+}
+
+section[data-id="courriel-du-coeur"] h6 + section[data-id="courriel-du-coeur"] h6{
+  margin-top: var(--lineheight);
+}
+
+.decoration{
+  display: block;
+  text-align: center;
+  text-indent: 0;
+  width: 100%;
+  font-size: 12pt;
+  font-family: 'Inknut Antiqua', sans-serif;
+  font-weight: bold;
+  line-height: var(--lineheight);
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: black;
+  color: white;
+}
+
+
+section[data-id="gurb"] img{
+  width: 100%;
+  height: auto;
+  page-break-before: always;
+}
+
+
 
 /* WHITOUT PAGED.JS */
 
