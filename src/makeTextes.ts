@@ -20,8 +20,9 @@ class MakeTextes {
             const chapitre = this.textId(this.text);
             let section = `<section id="${chapitre}" class="subchapter">`;
             const html: string = this.converter.makeHtml(this.text);
-            let test = this.insertNum(html, indexArticle);
-            section = section.concat(test);
+            //let test = this.insertNum(html, indexArticle);
+            //section = section.concat(test);
+            section = section.concat(html)
             section = section.concat(`</section>`);
             return section;
         } catch (e) {
