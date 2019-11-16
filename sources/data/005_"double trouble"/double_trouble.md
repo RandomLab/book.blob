@@ -1,6 +1,6 @@
 # double trouble
 
-Alain Barthélémy
+<span class="author dontHyphenate">Alain Barthélémy</span>
 
 > Et qui ne sent, dans un moment où une si notable partie du genre humain frémit dans l’espérance de prendre enfin en main ses propres destinées, que le succès où l’insuccès d’une telle entreprise dépendra peut-être d’une simple nuance de sagesse, ou d’un degré de la sincérité, ou de la répartition des zones de cécité ou d’une vision claire du présent et de l’avenir, chez ceux (individus ou groupes) qui joueront par privilège le rôle d’organes principaux et efficients de cette prise en mains&#8239;?
 > <cite>Étienne Souriau, *L’Ombre de Dieu*, 1955</cite>
@@ -10,19 +10,21 @@ Ce texte, incertain autant qu’incomplet, se présente comme la mise en forme s
 
 ## Le disque d’or
 
-Le vingt août 1977 à midi cinquante-six UTC une lueur intense se refléta dans l’oeil de Carl Sagan au centre de lancement de Cap Canaveral. L’excitation du brillant astronome avait certainement atteint son paroxysme au moment de la mise à feu du lanceur Titan-Centaur qui arracha la sonde Voyager II à la gravité terrestre pour la projeter au delà des limites du système solaire. En plus des instruments de mesure et de prise de vue qui devaient permettre aux scientifiques d’étudier au plus près Jupiter, Saturne, Uranus et Neptune, les sondes Voyagers I et II étaient équipées d’un étrange bouclier protégeant un disque en cuivre doré&#8239;: *The Golden Record*. La mission du Pr.&nbsp;Sagan avait été d’établir le contenu de ce disque destiné à celles ou ceux qui se verraient recevoir les sondes par delà l’horizon de tout espace connu. Pour ce faire, Carl Sagan composa une équipe de quatre journalistes et scientifiques qui formèrent ce que l’on aurait pu appeler le comité éditorial¹ de ce message «&#8239;Humain à destination de Intelligence Extraterrestre&#8239;». Le support fut donc celui d’un disque micro-sillon sur lequel furent gravé 90 minutes de musique, 116 images, 21 sons, et 55 messages de salutation dans des langues allant de l’akkadien au wu². Ce disque d’or, au titre évocateur de «&#8239;*The Sounds of Earth*&#8239;», fut délicatement logé dans un coffret circulaire lui-même fixé sur le panneau latéral de chaque sonde. Le couvercle en aluminum plaqué à l’uranium 238 ultra pur³ comportait en outre, un ensemble d’instructions pour lire le disque et en décoder les images. L’unité de temps élémentaire utilisée afin de définir la vitesse de lecture et le séquençage numérique des images fut celle de la période de transition d’un atome d’hydrogène, dans l’idée que l’atome d’hydrogène et les lois physiques qui permettent d’en prédire les états ont une persistance universelle dépassant le champ d’un savoir proprement humain.  
+Le vingt août 1977 à midi cinquante-six UTC une lueur intense se refléta dans l’oeil de Carl Sagan au centre de lancement de Cap Canaveral. L’excitation du brillant astronome avait certainement atteint son paroxysme au moment de la mise à feu du lanceur Titan-Centaur qui arracha la sonde Voyager II à la gravité terrestre pour la projeter au delà des limites du système solaire. En plus des instruments de mesure et de prise de vue qui devaient permettre aux scientifiques d’étudier au plus près Jupiter, Saturne, Uranus et Neptune, les sondes Voyagers I et II étaient équipées d’un étrange bouclier protégeant un disque en cuivre doré&#8239;: *The Golden Record*. La mission du Pr.&nbsp;Sagan avait été d’établir le contenu de ce disque destiné à celles ou ceux qui se verraient recevoir les sondes par delà l’horizon de tout espace connu.
 
-<div class="notes">
+Pour ce faire, Carl Sagan composa une équipe de quatre journalistes et scientifiques qui formèrent ce que l’on aurait pu appeler le comité éditorial¹ de ce message «&#8239;Humain à destination de Intelligence Extraterrestre&#8239;». Le support fut donc celui d’un disque micro-sillon sur lequel furent gravé 90 minutes de musique, 116 images, 21 sons, et 55 messages de salutation dans des langues allant de l’akkadien au wu². Ce disque d’or, au titre évocateur de «&#8239;*The Sounds of Earth*&#8239;», fut délicatement logé dans un coffret circulaire lui-même fixé sur le panneau latéral de chaque sonde. Le couvercle en aluminum plaqué à l’uranium 238 ultra pur³ comportait en outre, un ensemble d’instructions pour lire le disque et en décoder les images. L’unité de temps élémentaire utilisée afin de définir la vitesse de lecture et le séquençage numérique des images fut celle de la période de transition d’un atome d’hydrogène, dans l’idée que l’atome d’hydrogène et les lois physiques qui permettent d’en prédire les états ont une persistance universelle dépassant le champ d’un savoir proprement humain.  
+
 <span class="note" id="note_1">1 Aux cotés de Carl Sagan, cinq personnalités donc&#8239;: Frank Drake (astronome, fondateur du SETI),  Ann Druyan (journaliste), Timothy Ferris (essayiste scientifique), Jon Lomberg (journaliste scientifique) et Linda Salzman Sagan (artiste et écrivaine)</span>
+
 <span class="note" id="note_2">2 Le disque comporte des messages de salutation dans 55 langues qui débute avec un «&#8239;May all be very well&#8239;» en akkadien (langue parlée 4000 ans avant notre ère) et se termine avec un «&#8239;Best wishes to you all&#8239;» en wu (dialecte chinois contemporain)</span>
+
 <span class="note" id="note_3">3  L’emploi de l’uranium 238 a ici pour vocation de constituer une horloge ou un minuteur atomique, permettant au destinataire du message d’en déduire la date d’envoie par une méthode analogue à la datation au carbone 14, dans l’hypothèse ou ce dernier disposerait d’une telle technologie.</span>
-</div>
 
 ![Voyager spacecraft, source&#8239;: wikipedia.org/wiki/Programme_Voyager][Voyager_spacecraft_structure-fr]
-<cite>Voyager spacecraft &#13;&#10;*wikipedia.org/wiki/Programme_Voyager*</cite>
+<cite>*Voyager spacecraft* &#13;&#10;wikipedia.org/wiki/Programme_Voyager</cite>
 
 ![The Golden Record][john-casani-8-4-77_30584323590_o]
-<cite>The Golden Record &#13;&#10;*voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/*</cite>
+<cite>*The Golden Record* &#13;&#10;voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/</cite>
 
 
 La selection d’images encodées sur le Golden Record se voulait représentative du monde en 1977 et en un certain sens, elle l’était. Elle était peut-être même malgré elle, l’archétype d’un regard occidental qui échoue dans la tentative de décrire un monde par delà les contours de sa propre hégémonie. Que penser de cette photographie du sprinter Ukrainien Valeri Borzov remportant la finale du 100m aux Jeux Olympiques de Munich de 1972 en plein contexte de guerre froide&#8239;? Ou encore de cette image d’embouteillage dans une métropole thaïlandaise, où une mustang rutilante se retrouve évidée de sa symbolique de puissance dans l’engorgement du traffic&#8239;? Au delà d’une historicité américano-centrée proéminente, l’origine du malaise provient certainement d’une forme de confession ou d’autocritique livrée en sous-main&#8239;; la portée universelle d’un message envoyé au nom de l’humanité se retrouve ainsi bien vite réduite à l’expression autocentrée d’un comité scientifique américain, dont le désaveu apparent peine à faire croire à une réelle distance critique par rapport aux logiques impérialiste et coloniales dont, en un sens, la NASA en tant qu’organe de propagande politique, n’en est qu’une expression parmi d’autres. Dans cette ambiance où l’enjeu politique d’hégémonie culturelle opposant les deux super-puissances du moment semble dépasser de loin les enjeux scientifiques, on observera avec ironie quelques détails criants tels que la la récurrence du mot paix⁴ dans des messages de salutation adressée à un peuple qui mutatis mutandis, ne se voit pas nécessairement concerné par la guerre.  
@@ -30,36 +32,35 @@ La selection d’images encodées sur le Golden Record se voulait représentativ
 <span class="note" id="note_4">4 Voir sur ce point la liste des messages de salutation, disponibles sur le site de la NASA et dans les éditions de Murmurs of Earth</span>
 
 ![Valeri Borzov-aux JO de Munich][sprinters-valeri-borzov-of-the-ussr-in-lead-history-of-the-olympics_31363259165_o]   
-<cite>Valeri Borzov-aux JO de Munich&#13;&#10;*voyager.jpl.nasa.gov/golden-record/whats-on-the-record/images/*</cite>
+<cite>*Valeri Borzov-aux JO de Munich*</cite>
 ![Rush hour][rush-hour]
-<cite>Rush hour&#13;&#10;*voyager.jpl.nasa.gov/golden-record/whats-on-the-record/images/*</cite>
+<cite>*Rush hour*</cite>
 
 Même s’il est certain que Sagan et son équipe étaient bien conscients de s’adresser au monde occidental tout autant qu’à une éventuelle forme de vie extraterrestre intelligente, nous sommes en droit de nous poser la question de la nature même de cet autre pour lequel le message des sondes Voyager a été conçu. Très certainement, si celui-ci n’est pas muni d’au moins un oeil pour voir⁵ les images, d’oreilles pour écouter sons et musiques, et d’une intelligence très semblable à la notre pour décrypter l’ensemble, il y a de fortes chances que la beauté du présent   que lui fait l’humanité lui échappe quelque peu.
 Alors, pour que nous puissions espérer une réponse digne de celle du *Wow ! Signal* ⁶, il faudrait qu’une forme de vie intelligente, mais d’une intelligence supérieure⁷ à la notre, capte notre bouteille à la mer interstellaire. Dans sa grande sagesse et son omniscience, cette forme de vie saurait se mettre à notre niveau pour formuler une réponse que nous puissions recevoir et comprendre.
 
-<div class="notes">
 <span class="note" id="note_5">5 Il est intéressant d’observer que les anatomies des extraterrestres, tels qu’ils sont représentés dans des fictions d’origines diverses (disons de Wells à Roswell), sont toujours suffisamment familières pour que l’on puisse les identifier à des créatures (éventuellement humanoïdes), et suffisamment étranges pour indiquer que ces créatures ne proviennent pas de notre monde.</span>
 <span class="note" id="note_6">6 Le Wow ! Signal est un signal radio d’une amplitude "extraordinairement importante" captée par le radiotélescope "The Big Ear" de l’université de l’Ohio le 15 août 1977. L’origine de ce signal radio est resté longtemps inexpliquée et a donné lieu à de nombreuse spéculations. Même si aujourd’hui l’hypothèse d’une émission liée au passage d’une comète semble être la plus répandue, elle ne fait toujours pas l’unanimité&#8239;; avis aux amateurs d’exo-crypto...</span>
 <span class="note" id="note_7">7 Il faudrait donc que cette intelligence soit d’une part semblable à la notre (ou en tout cas suffisamment proche pour qu’une "traduction" soit possible), mais de surcroit qu’elle soit qualitativement supérieure afin que notre langage lui soit intelligible et  suffisamment simple pour qu’elle puisse en réaliser la traduction. La définition de l’intelligence et son caractère hautement anthropomorphique pose déjà ici grandement problème. La question d’une qualité ou d’une quantité d’intelligence ne va décemment pas vers sa simplification...</span>
-</div>
 
 ![The Golden Record][the-golden-record_30269492703_o]
-<cite>The Golden Record&#13;&#10;*voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/*</cite>
+<cite>*The Golden Record*</cite>
 
 Il y a donc ici une expérience de l’altérité que l’on peut voir de deux façons. La première est que cette intelligence supérieure n’est autre que ce que la culture occidentale monothéiste appelle Dieu. L’appareil des dispositifs techno-scientifiques visant à nous mettre en communication avec cette intelligence supérieure, se présentant ainsi comme les éléments liturgiques — architectures, artefacts, et cérémoniels — d’un culte qui ne dit pas son nom. La deuxième, est que le désir d’une rencontre avec un alter ego qui nous serait supérieur et donc en capacité de nous soumettre et de nous dominer, n’est autre que l’expression d’un fantasme de la fin du monde présent en occident au moins depuis le début de la tradition judéo-chrétienne. Fantasme s’exprimant sous diverses formes selon les époques&#8239;; on se souviendra en l’occurence que l’exploration spatiale n’aurait été possible sans les des travaux de Wernher von Braun⁸.
 
-<div class="notes">
 <span class="note" id="note_8">8 Wernher von Braun est un ingénieur Allemand né en 1912 qui dédia sa vie à la recherche sur les fusées. Il adhère au parti nazi en 1937, devient officier SS en 1940 et supervise la mise au point des missiles V2 durant la seconde guerre mondiale. Il sera emmené aux Etats-Unis en 45 avec plus d’une centaine de ses collaborateurs afin de participer à la mise au point de missiles balistiques pour l’armée américaine, puis de lanceurs spatiaux pour la NASA.</span>
-</div>
+
 
 <span class="decoration">✴︎</span>
-
+<div class="hard_page_break"></div>
 
 En cette fin d’année 2019 les astrophysiciens Michel Mayor et Didier Queloz se sont vu décerner le Prix Nobel de physique pour la détection de la toute première exoplanète, 51-Pegasis b, en 1995. Cette découverte a ouvert la voie à un champ de recherche autant qu’à une fascination sans précédent pour ces planètes qui gravitent bien loin de notre système solaire. C’est notamment grâce à de nouvelles techniques et instruments d’observation tels que le télescope Kepler, mis en orbite en 2009, qu’en un peu plus d’une vingtaine d’années les scientifiques ont pu recenser près de 4000 planètes et former de nouvelles disciplines telles que l’exobiologie. Car à ne pas s’y méprendre, la recherche des exoplanètes, loin d’une simple volonté taxonomique, a bien pour motivation la découverte de la vie extra-terrestre. Les critères sont donc la zone habitable, l’eau liquide, le dioxygène, et autres biosignatures...
 
 Ce regain d’intérêt pour l’espace lointain, à la forme d’un *space rush II – toward alien life forms*, nous entraine à un retour vers une autre science, celle-ci explicitement fictionnelle&#8239;: la solaristique.
 
+<span class="note" id="note_9">9 On soulignera en outre que Solaris ne se fait pas le dieu des océans, mais est un bien un dieu océan. Ce qui change singulièrement sont statut ontologique, dans une vision qui décentre l’homme d’un théâtre divin&#8239;; le dieu océan lui tournant ici ostensiblement le dos en demeurant inincarné. On remarquera également que les figures générées par l’océan (à sa surface ou en projection) sont toujours des réflection, des reproductions issues d’un imaginaire humain&#8239;; solaris ne s’exprime pour ainsi dire jamais en propre, ce qui ne l’empêche pas d’apparaître comme une entité intelligente aux yeux des hommes qui y voient le reflet de leur propre intelligence.</span>
 
+<div class="hard_page_break"></div>
 ## Dans la tourmente isomorphe
 
 
@@ -67,19 +68,14 @@ Solaris, planète à la fois décor et personnage central du roman éponyme de S
 
 L’intrigue, peut se reconstruire selon trois cercles concentriques. Au centre, le premier cercle, représenté par la planète elle-même, va jouer le rôle d’attracteur&#8239;; elle définira les agencements et polarisera les relations entre les personnages dans  le reste du récit. Gravitant entre deux soleils, cette étrange planète voit sa surface intégralement couverte d’un océan pouvant donner lieu à l’apparition de formes solides, figures hallucinées reflétant une des expressions de ce que les humains comprennent comme étant une forme d’intelligence. La figure poétique de l’océan&#8239;; volume mouvant, communicant, à la continuité et l’unité incommensurables, apparaît ici comme une explicitation formelle de l’inintelligibilité du vivant. Lem fait ainsi montre d’une certaine habilité en donnant forme à une déité qui ne soit ni irreprésentable, ni anthropomorphique. Car même si la fabrique de dieux planètes ou de dieux océans ne représente pas de réelle invention en soi, l’apparition d’un dieu qui ne soit pas médié par une incarnation anthropomorphe⁹ semble ici assez remarquable.
 
-<div class="notes">
-<span class="note" id="note_9">9 On soulignera en outre que Solaris ne se fait pas le dieu des océans, mais est un bien un dieu océan. Ce qui change singulièrement sont statut ontologique, dans une vision qui décentre l’homme d’un théâtre divin&#8239;; le dieu océan lui tournant ici ostensiblement le dos en demeurant inincarné. On remarquera également que les figures générées par l’océan (à sa surface ou en projection) sont toujours des réflection, des reproductions issues d’un imaginaire humain&#8239;; solaris ne s’exprime pour ainsi dire jamais en propre, ce qui ne l’empêche pas d’apparaître comme une entité intelligente aux yeux des hommes qui y voient le reflet de leur propre intelligence.</span>
-</div>
-
+<div class="hard_page_break"></div>
 Le deuxième cercle, est décrit par l’orbite de la station d’étude de Solaris. Lieu principal du récit, celle-ci représente l’espace d’interaction entre Solaris et les hommes. Interaction duplexe ou duale mais non symétrique&#8239;; la planète se trouvant en capacité de lire la mémoire et peut-être l’esprit des habitants, alors que ces derniers ne parviendrons jamais à en pénétrer la psyché. La station spatiale se présente ainsi comme une interface, un plateau de jeu dont Solaris se fera la maîtresse autant que la matrice, produisant des projections vivantes construites à partir des souvenirs des cosmonautes. Ces projections¹⁰ seront autant de nouveaux joueurs exposant ces derniers aux affres d’une confrontation avec l’incarnation de leurs pensées. Néanmoins la métaphore du jeu ne fonctionne qu’à moitié, car la planète ne manifeste jamais de réelle intention. Elle semble agir en permanence au delà du spectre de l’intelligibilité humaine, ne pouvant constituer la figure d’un adversaire ou d’un ennemi, et se dérobant ainsi à la dichotomie d’une morale manichéenne.
 Cette confrontation avec les projections, se verra détaillée dans l’intrigue liant le personnage principal, le psychologue Kris Kelvin, à sa visiteuse Harey, incarnation de son ex-compagne s’étant donnée la mort suite à leur rupture quelques années auparavant. Cette dyade va s’articuler autour d’un miroir à deux faces, rendant impossible toute tentative de constitution d’un «&#8239;nous&#8239;» entre les deux personnages.
 
-<div class="notes">
 <span class="note" id="note_10">10 J’utilise ici le terme de projection pour désigner les avatars générés par Solaris, le terme faisant appel à l’Invention de Morel de Casares, référence qui n’était peut-être pas  étrangère à Lem. A noté que dans le récit les projections sont dénommés une seul fois explicitement «&#8239;créations F&#8239;» par Snaut (p158 dans l’édition référencée en bibliographie)</span>
-</div>
 
 ![I don’t know myself (extrait du Solaris d’Andrei Tarkovski)][Idon’tknowmyself]
-<cite>I don’t know myself (extrait du Solaris d’Andrei Tarkovski)</cite>
+<cite>*I don’t know myself*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</cite>
 
 D’un côté du miroir, se trouve Harey. En tant qu’être qui n’a pas encore conscience d’elle-même, Harey apparaît initialement dans le récit comme un proto-sujet qui n’aura de cesse de chercher à se définir. Mais celle-ci s’est vue littéralement construite — made but not born — à partir de la mémoire d’une seule et unique personne. Bien que l’on puisse imaginer que nos souvenir soient des objets malléables, dont l’origine nous est parfois étrangère, la conscience d’une mémoire exclusivement exogène peut s’avérer pour le moins troublante dans la constitution de soi. Si selon Judith Butler il y a toujours un contexte social au sein duquel s’exerce la constitution du sujet¹¹, l’alienation du personnage de Harey tient certainement au fait que le contexte se voit ici réduit au seul esprit de Kelvin. Ce qui ne l’empêchera pas de l’aimer d’un amour sincère bien que fabriqué, faisant du personnage une figure en totale abnégation.
 Si la relation amoureuse peut tendre à une dissociation entre l’autre dans son autonomie¹² et la représentation que l’un peut en avoir, le personnage de Harey en tant que représentation incarnée, offre une expérience de pensée singulière, questionnant tout autant la part narcissique de l’expérience amoureuse, que les limites de la reconnaissance dans un contexte affectivement chargé. Cette reconnaissance, cette interpellation, pour suivre encore Judith Butler, se présente comme un geste nécessaire dans la formation du sujet&#8239;:
@@ -119,7 +115,7 @@ Ce dernier cercle est donc un cercle qui confronte l’humanité et surtout la s
 > <cite>Solaris, Stanislas Lem, p309, Editions Denoël (col.présence du futur), Paris, 1966</cite>
 
 ![becoming human (extrait du Solaris d’Andrei Tarkovski)][ahumanbeing]
-<cite>becoming human (extrait du Solaris d’Andrei Tarkovski)</cite>
+<cite>*becoming human*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</cite>
 
 
 

@@ -1,6 +1,12 @@
 # Courriel du coeur
 
-##### Pour ceux qui ne le savent pas, dans le hastag #vouspouvezécrirecequevousvoulezauniveaudelagéolocalisationetdelapersonne . exemple je souhaite une femme généreuse sexy a Pontaul-Combault !
+<span class="author dontHyphenate">Ophélie Demurger & Valentin Godard</span>
+
+```
+Pour ceux qui ne le savent pas, dans le hastag
+#vouspouvezécrirecequevousvoulezauniveaudelagéolocalisationetdelapersonne .
+exemple je souhaite une femme généreuse sexy a Pontaul-Combault !
+```
 
 <h3 class="decoration">~</h3>
 
