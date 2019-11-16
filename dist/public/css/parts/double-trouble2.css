@@ -1,7 +1,13 @@
+.author{
+  display: flex;
+  justify-content: space-around;
+  font-family: "space mono";
+}
 
 .notes{
   position: absolute;
-  bottom: 0;
+  /*bottom: 0;*/
+  bottom: calc(0px - var(--lineheight) / 2);
   left: 0;
   width: 100%;
   height: fit-content;
@@ -10,12 +16,17 @@
 .note{
   display: block;
   text-indent: -9px;
-  font-family: "space mono";
+  font-family: "SpaceMonoCustom";
   font-style: italic;
   /*text-align: center;*/
   font-size: 5.6pt;
   word-spacing: -1px;
   line-height: 15px;
+  position: absolute;
+}
+
+.notes .note{
+  position: relative;
 }
 
 .hard_page_break{
@@ -62,12 +73,13 @@ section[data-id="double-trouble"] cite{
   bottom: 0;
   width: 100%;
   left: 0;
-  font-family: "space mono";
+  font-family: "SpaceMonoCustom";
   font-weight: normal;
   white-space: pre-line;
+  font-style: normal;
 }
 section[data-id="double-trouble"] cite em{
-  font-style: normal;
+  font-style: italic;
 }
 
 
@@ -77,7 +89,7 @@ section[data-id="double-trouble"] figcaption{
   bottom: 0;
   width: 100%;
   left: 0;
-  font-family: "space mono";
+  font-family: "SpaceMonoCustom";
   font-weight: normal;
 }
 
@@ -99,8 +111,6 @@ section[data-id="double-trouble"] blockquote > p ::after{
   color: white;
 }*/
 
-section[data-id="double-trouble"] > p{
-  /*width: 75%;
-  text-align: justify;*/
-  /*font-size: 7.5pt;*/
-}
+/*@page :nth(77){
+    height: 80;
+}*/

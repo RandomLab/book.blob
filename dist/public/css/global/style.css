@@ -1,8 +1,7 @@
 @font-face {
- font-family: "SpaceMonoCustom3";
+ font-family: "SpaceMonoCustom";
  src: url("/css/SpaceMonoCustom3-Italic.otf") format("opentype");
  src: url("/css/SpaceMonoCustom3-Italic.ttf") format("truetype");
-
 }
 
 
@@ -140,8 +139,8 @@ h2{
     hyphens: none;
 }
 
-h6{
-  font-family: "SpaceMonoCustom3";
+h6, pre, code{
+  font-family: "SpaceMonoCustom";
   font-style: italic;
   word-spacing: -3.2px;
   font-weight: normal;
@@ -152,11 +151,11 @@ h6{
   margin-bottom: var(--lineheight);
 }
 
-h6 ~ h6{
+h6 ~ h6, pre ~ pre{
   margin-bottom: 0;
 }
 
-h6 em{
+h6 em, pre em{
   /*font-style: normal;*/
   font-weight: bold;
   hyphens: none;
@@ -262,6 +261,12 @@ section[data-id="gulbirra-et-les-anadyomes-test"] p {
 
 .pagedjs_left_page section[data-id="gulbirra-et-les-anadyomes-test"] p{
   margin-left: 50%;
+}
+
+section[data-id="courriel-du-coeur"] code{
+  text-align: left;
+  font-weight: bold;
+  margin-bottom: var(--lineheight)
 }
 
 section[data-id="courriel-du-coeur"] h6{
