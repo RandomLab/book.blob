@@ -2,9 +2,25 @@ class MakeTextes {
 
     /* make textes from file listing, convert md to html */
 
+    private footnote = function () {
+        var footnote1 = {
+            type: 'lang',
+            regex: /\[\^([A-Za-z0-9])+\]: (.*)/g,
+            replace: "<div class='note' id='note_$1'>$1 $2</div>"
+        };
+        var footnote2 = {
+            type: 'lang',
+            regex: /\[\^([A-Za-z0-9])+\][^:]/g,
+            replace: "<a class='note_call' href='#note_$1'>$1</a> "
+        };
+        return [footnote1, footnote2];
+    }
+
+
     public showdown = require('showdown');
     public converter = new this.showdown.Converter(
             { headerLevelStart : 2,
+              extensions: [this.footnote],
               noHeaderId : true } ,
             );
 

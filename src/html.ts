@@ -7,25 +7,28 @@ class Html {
         var footnote1 = {
             type: 'lang',
             regex: /\[\^([A-Za-z0-9])+\]:(.*)/g,
-            replace: "<div class='note' id='$1'>$2</div>"
+            replace: "<div class='note' id='note_$1'>$2</div>"
         };
         var footnote2 = {
             type: 'lang',
             regex: /\[\^([A-Za-z0-9])+\][^:]/g,
-            replace: "<a class='note_call' id='$1'</div>"
+            replace: "<a class='note_call' href='#note_$1'>$1</a>"
         };
         return [footnote1, footnote2];
     }
 
 
+
     /* convert all md to html and build html */
 
     public showdown = require('showdown');
-    /*public footnote = require('./custom-extensions/footnote');*/
+
+
     public converter = new this.showdown.Converter({ extensions: [this.footnote] });
     private srcFolder: string;
 
     constructor(private chapitres: string[]) {
+        //console.log(this.showdown.extension('footnote',this.footnote));
         //this.showdown.extensions('footnote',this.footnote);
 
         this.chapitres = chapitres;
