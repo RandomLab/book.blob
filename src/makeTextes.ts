@@ -5,13 +5,13 @@ class MakeTextes {
     private footnote = function () {
         var footnote1 = {
             type: 'lang',
-            regex: /\[\^([A-Za-z0-9])+\]: (.*)/g,
+            regex: /\[\^([A-Za-z0-9]+)\]: (.*)/g,
             replace: "<div class='note' id='note_$1'>$1 $2</div>"
         };
         var footnote2 = {
             type: 'lang',
-            regex: /\[\^([A-Za-z0-9])+\][^:]/g,
-            replace: "<a class='note_call' href='#note_$1'>$1</a> "
+            regex: /\[\^([A-Za-z0-9]+)\]([^:])/g,
+            replace: "<a class='note_call' href='#note_$1'>$1</a>$2"
         };
         return [footnote1, footnote2];
     }
