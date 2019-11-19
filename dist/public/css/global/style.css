@@ -151,6 +151,21 @@ h6, pre, code{
   margin-bottom: var(--lineheight);
 }
 
+pre, code{
+  text-align: left;
+  white-space: pre-line;
+  text-indent: 0;
+}
+
+.hard_center, .hard_center > *{
+  text-align: center;
+  white-space: pre-line;
+  word-break: break-all;
+  margin-bottom: 0;
+  margin-left: 9.5mm;
+  margin-right: 9.5mm;
+}
+
 h6 ~ h6, pre ~ pre{
   margin-bottom: 0;
 }
@@ -179,7 +194,10 @@ p + h3{
   */
 }
 
-
+.note_call{
+    vertical-align: super;
+    line-height: 0;
+}
 
 a {
     /*font-family: 'Work Sans', sans-serif;*/
@@ -263,16 +281,22 @@ section[data-id="gulbirra-et-les-anadyomes-test"] p {
   margin-left: 50%;
 }
 
+section[data-id="courriel-du-coeur"] p{
+  text-indent: 0;
+}
+
 section[data-id="courriel-du-coeur"] code{
   text-align: left;
   font-weight: bold;
-  margin-bottom: var(--lineheight)
+  margin-bottom: var(--lineheight);
 }
 
 section[data-id="courriel-du-coeur"] h6{
   text-align: left;
   font-weight: bold;
-  margin-bottom: var(--lineheight)
+  margin-bottom: var(--lineheight);
+  width: 75%;
+  margin-left: 25%;
 }
 
 section[data-id="courriel-du-coeur"] h6 + section[data-id="courriel-du-coeur"] h6{
