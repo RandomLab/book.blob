@@ -5,6 +5,8 @@
 > Et qui ne sent, dans un moment où une si notable partie du genre humain frémit dans l’espérance de prendre enfin en main ses propres destinées, que le succès où l’insuccès d’une telle entreprise dépendra peut-être d’une simple nuance de sagesse, ou d’un degré de la sincérité, ou de la répartition des zones de cécité ou d’une vision claire du présent et de l’avenir, chez ceux (individus ou groupes) qui joueront par privilège le rôle d’organes principaux et efficients de cette prise en mains&#8239;?
 > <cite>Étienne Souriau, *L’Ombre de Dieu*, 1955</cite>
 
+<span class="decoration">✴︎</span>
+
 Ce texte, incertain autant qu’incomplet, se présente comme la mise en forme succincte d’une prise de notes concernant deux objets culturels rencontrés lors de ma recherche et ayant trait aux questions de l’altérité, prises sous le scope des rémanences du sacré dans un monde techno-scientifique. Évènement historique au sens le plus démonstratif, mon premier objet est le projet Voyager initié par la NASA dans les années soixante-dix. Sous une apparente vocation exclusivement scientifique, le projet m’a semblé receler une dimension narrative et intimement spirituelle qui a particulièrement retenu mon attention. Il m’a dès lors semblé assez naturel de lui faire côtoyer une oeuvre de fiction dont la parution lui fut contemporaine&#8239;: la bien connue Solaris de Stanislas Lem. Bien que s’hasardant à une forme d’analyse critique de ces objets parents — fait historique et récit fictionnel —, ce texte n’en a pas pour autant la vocation qui se veut plutôt celle d’une pérégrination à proximité d’étrangetés exoplanétaires.
 
 
@@ -21,20 +23,22 @@ Pour ce faire, Carl Sagan composa une équipe de quatre journalistes et scientif
 [^3]: L’emploi de l’uranium 238 a ici pour vocation de constituer une horloge ou un minuteur atomique, permettant au destinataire du message d’en déduire la date d’envoie par une méthode analogue à la datation au carbone 14, dans l’hypothèse ou ce dernier disposerait d’une telle technologie.
 
 ![Voyager spacecraft, source&#8239;: wikipedia.org/wiki/Programme_Voyager][Voyager_spacecraft_structure-fr]
-<cite>*Voyager spacecraft* &#13;&#10;wikipedia.org/wiki/Programme_Voyager</cite>
+<figcaption>*Voyager spacecraft* &#13;&#10;wikipedia.org/wiki/Programme_Voyager</figcaption>
 
 ![The Golden Record][john-casani-8-4-77_30584323590_o]
-<cite>*The Golden Record* &#13;&#10;voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/</cite>
+<figcaption>*The Golden Record* &#13;&#10;voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/</figcaption>
 
 
-La selection d’images encodées sur le Golden Record se voulait représentative du monde en 1977 et en un certain sens, elle l’était. Elle était peut-être même malgré elle, l’archétype d’un regard occidental qui échoue dans la tentative de décrire un monde par delà les contours de sa propre hégémonie. Que penser de cette photographie du sprinter Ukrainien Valeri Borzov remportant la finale du 100m aux Jeux Olympiques de Munich de 1972 en plein contexte de guerre froide&#8239;? Ou encore de cette image d’embouteillage dans une métropole thaïlandaise, où une mustang rutilante se retrouve évidée de sa symbolique de puissance dans l’engorgement du traffic&#8239;? Au delà d’une historicité américano-centrée proéminente, l’origine du malaise provient certainement d’une forme de confession ou d’autocritique livrée en sous-main&#8239;; la portée universelle d’un message envoyé au nom de l’humanité se retrouve ainsi bien vite réduite à l’expression autocentrée d’un comité scientifique américain, dont le désaveu apparent peine à faire croire à une réelle distance critique par rapport aux logiques impérialiste et coloniales dont, en un sens, la NASA en tant qu’organe de propagande politique, n’en est qu’une expression parmi d’autres. Dans cette ambiance où l’enjeu politique d’hégémonie culturelle opposant les deux super-puissances du moment semble dépasser de loin les enjeux scientifiques, on observera avec ironie quelques détails criants tels que la la récurrence du mot paix[^4] dans des messages de salutation adressée à un peuple qui mutatis mutandis, ne se voit pas nécessairement concerné par la guerre.  
+La selection d’images encodées sur le Golden Record se voulait représentative du monde en 1977 et en un certain sens, elle l’était. Elle était peut-être même malgré elle, l’archétype d’un regard occidental qui échoue dans la tentative de décrire un monde par delà les contours de sa propre hégémonie. Que penser de cette photographie du sprinter Ukrainien Valeri Borzov remportant la finale du 100m aux Jeux Olympiques de Munich de 1972 en plein contexte de guerre froide&#8239;? Ou encore de cette image d’embouteillage dans une métropole thaïlandaise, où une mustang rutilante se retrouve évidée de sa symbolique de puissance dans l’engorgement du traffic&#8239;?
+
+Au delà d’une historicité américano-centrée proéminente, l’origine du malaise provient certainement d’une forme de confession ou d’autocritique livrée en sous-main&#8239;; la portée universelle d’un message envoyé au nom de l’humanité se retrouve ainsi bien vite réduite à l’expression autocentrée d’un comité scientifique américain, dont le désaveu apparent peine à faire croire à une réelle distance critique par rapport aux logiques impérialiste et coloniales dont, en un sens, la NASA en tant qu’organe de propagande politique, n’en est qu’une expression parmi d’autres. Dans cette ambiance où l’enjeu politique d’hégémonie culturelle opposant les deux super-puissances du moment semble dépasser de loin les enjeux scientifiques, on observera avec ironie quelques détails criants tels que la la récurrence du mot paix[^4] dans des messages de salutation adressée à un peuple qui *mutatis mutandis*, ne se voit pas nécessairement concerné par la guerre.  
 
 [^4]: Voir sur ce point la liste des messages de salutation, disponibles sur le site de la NASA et dans les éditions de Murmurs of Earth
 
 ![Valeri Borzov-aux JO de Munich][sprinters-valeri-borzov-of-the-ussr-in-lead-history-of-the-olympics_31363259165_o]   
-<cite>*Valeri Borzov-aux JO de Munich*</cite>
+<figcaption>*Valeri Borzov-aux JO de Munich*</figcaption>
 ![Rush hour][rush-hour]
-<cite>*Rush hour*</cite>
+<figcaption>*Rush hour*</figcaption>
 
 Même s’il est certain que Sagan et son équipe étaient bien conscients de s’adresser au monde occidental tout autant qu’à une éventuelle forme de vie extraterrestre intelligente, nous sommes en droit de nous poser la question de la nature même de cet autre pour lequel le message des sondes Voyager a été conçu. Très certainement, si celui-ci n’est pas muni d’au moins un oeil pour voir[^5] les images, d’oreilles pour écouter sons et musiques, et d’une intelligence très semblable à la notre pour décrypter l’ensemble, il y a de fortes chances que la beauté du présent   que lui fait l’humanité lui échappe quelque peu.
 Alors, pour que nous puissions espérer une réponse digne de celle du *Wow ! Signal* [^6], il faudrait qu’une forme de vie intelligente, mais d’une intelligence supérieure[^7] à la notre, capte notre bouteille à la mer interstellaire. Dans sa grande sagesse et son omniscience, cette forme de vie saurait se mettre à notre niveau pour formuler une réponse que nous puissions recevoir et comprendre.
@@ -46,7 +50,7 @@ Alors, pour que nous puissions espérer une réponse digne de celle du *Wow ! Si
 [^7]: Il faudrait donc que cette intelligence soit d’une part semblable à la notre (ou en tout cas suffisamment proche pour qu’une "traduction" soit possible), mais de surcroit qu’elle soit qualitativement supérieure afin que notre langage lui soit intelligible et  suffisamment simple pour qu’elle puisse en réaliser la traduction. La définition de l’intelligence et son caractère hautement anthropomorphique pose déjà ici grandement problème. La question d’une qualité ou d’une quantité d’intelligence ne va décemment pas vers sa simplification...
 
 ![The Golden Record][the-golden-record_30269492703_o]
-<cite>*The Golden Record*</cite>
+<figcaption>*The Golden Record*</figcaption>
 
 Il y a donc ici une expérience de l’altérité que l’on peut voir de deux façons. La première est que cette intelligence supérieure n’est autre que ce que la culture occidentale monothéiste appelle Dieu. L’appareil des dispositifs techno-scientifiques visant à nous mettre en communication avec cette intelligence supérieure, se présentant ainsi comme les éléments liturgiques — architectures, artefacts, et cérémoniels — d’un culte qui ne dit pas son nom. La deuxième, est que le désir d’une rencontre avec un alter ego qui nous serait supérieur et donc en capacité de nous soumettre et de nous dominer, n’est autre que l’expression d’un fantasme de la fin du monde présent en occident au moins depuis le début de la tradition judéo-chrétienne. Fantasme s’exprimant sous diverses formes selon les époques&#8239;; on se souviendra en l’occurence que l’exploration spatiale n’aurait été possible sans les des travaux de Wernher von Braun[^8].
 
@@ -75,7 +79,7 @@ Cette confrontation avec les projections, se verra détaillée dans l’intrigue
 [^10]: J’utilise ici le terme de projection pour désigner les avatars générés par Solaris, le terme faisant appel à l’Invention de Morel de Casares, référence qui n’était peut-être pas  étrangère à Lem. A noté que dans le récit les projections sont dénommés une seul fois explicitement «&#8239;créations F&#8239;» par Snaut (p158 dans l’édition référencée en bibliographie)
 
 ![I don’t know myself (extrait du Solaris d’Andrei Tarkovski)][Idon’tknowmyself]
-<cite>*I don’t know myself*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</cite>
+<figcaption>*I don’t know myself*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption>
 
 D’un côté du miroir, se trouve Harey. En tant qu’être qui n’a pas encore conscience d’elle-même, Harey apparaît initialement dans le récit comme un proto-sujet qui n’aura de cesse de chercher à se définir. Mais celle-ci s’est vue littéralement construite — made but not born — à partir de la mémoire d’une seule et unique personne. Bien que l’on puisse imaginer que nos souvenir soient des objets malléables, dont l’origine nous est parfois étrangère, la conscience d’une mémoire exclusivement exogène peut s’avérer pour le moins troublante dans la constitution de soi. Si selon Judith Butler il y a toujours un contexte social au sein duquel s’exerce la constitution du sujet[^11], l’alienation du personnage de Harey tient certainement au fait que le contexte se voit ici réduit au seul esprit de Kelvin. Ce qui ne l’empêchera pas de l’aimer d’un amour sincère bien que fabriqué, faisant du personnage une figure en totale abnégation.
 Si la relation amoureuse peut tendre à une dissociation entre l’autre dans son autonomie[^12] et la représentation que l’un peut en avoir, le personnage de Harey en tant que représentation incarnée, offre une expérience de pensée singulière, questionnant tout autant la part narcissique de l’expérience amoureuse, que les limites de la reconnaissance dans un contexte affectivement chargé. Cette reconnaissance, cette interpellation, pour suivre encore Judith Butler, se présente comme un geste nécessaire dans la formation du sujet&#8239;:
@@ -101,20 +105,23 @@ Et même s’il elle en vient à critiquer cette approche, selon-elle incomplèt
 
 Le troisième cercle, parachevant la construction de l’intrigue de Solaris, est celui du monde des hommes. Cercle périphérique, décrit par la trajectoire d’une société techno-scientifique lancée à corps perdu dans une quête du progrès par le développement technologique, l’exploration spatiale et la recherche scientifique, qui se voit mise en échec dans son incapacité à sortir des logiques coloniales de l’anthropomorphisme.
 
+<span class="decoration">✴︎</span>
 <div class="hard_page_break"></div>
+
 > Nous ne voulons pas conquérir le cosmos, nous voulons seulement étendre la terre jusqu’aux frontières du cosmos. Telle planète sera aride comme le Sahara, telle autre glaciale comme nos régions polaires, telle autre luxuriante comme l’Amazonie. Nous sommes humanitaires et chevaleresques, nous ne voulons pas asservir d’autres races, nous voulons simplement leur transmettre nos valeurs et en échange nous emparer de leur patrimoine. Nous nous considérons comme les chevaliers du Saint-Contact. C’est un second mensonge. Nous ne cherchons que l’homme. Nous n’avons pas besoin d’autres mondes. Nous avons besoin de miroirs. Nous ne savons que faire d’autres mondes. Un seul monde, notre monde nous suffit, mais nous ne l’encaissons pas tel qu’il est. Nous cherchons une image idéale de notre propre monde&#8239;; nous partons en quête d’une planète, d’une civilisation supérieure à la nôtre, mais développée sur la base d’un prototype de notre passé primitif.
 > <cite>Solaris, Stanislas Lem, p116, Editions Denoël (col.présence du futur), Paris, 1966</cite>
 
 Lem esquisse ainsi une double critique. Celle d’un positivisme scientifique, qui dans son objectivité froide, ne sait qu’échantillonner le réel, et qui l’oeil rivé sur l’optique de son microscope, ne parvient pas à inclure l’existence d’invisibles et d’inconnus, qui sans savoir se soumettre à l’intelligibilité de la raison, ne font pas moins parti du monde. Cette critique kantienne des limites de la raison se double de la critique d’un anthropomorphisme qui transforme toute recherche de l’altérité en une recherche du semblable ou de l’identique. Tel Kelvin qui se voit condamné à se reconnaitre dans un autre qui n’est qu’une projection de lui-même, l’anthropomorphisme critiqué par Lem nous fait façonner l’autre à notre image et condamne l’humanité à un solipsisme délétère.
 Ce dernier cercle est donc un cercle qui confronte l’humanité et surtout la société techno-scientifique, aux limites de son propre système de représentations. Cette crise épistémique, cette limite de l’inintelligible incarné par la planète océan, finira par pousser les esprits philistins des cosmonautes à l’acédie et la déréliction&#8239;; la solaristique représentant à la fois l’aporie de leur démarche et l’échec d’une société prise au piège d’une téléologie circulaire.
 
+<span class="decoration">✴︎</span>
 <div class="hard_page_break"></div>
 
 > [Kris Kelvin&#8239;:] – Non je ne pense pas à un Dieu dont l’imperfection résulte de la candeur de ses créateurs humains, mais dont l’imperfection représente la caractéristique fondamentale, immanente. Un Dieu limité dans son omniscience et dans sa toute puissance, faillible, incapable de prévoir les conséquences de ses actes, créant des phénomènes qui engendrent l’horreur. C’est un Dieu... infirme, dont les ambitions dépassent les forces, et qui ne s’en rend pas compte immédiatement. Un Dieu qui crée des horloges, mais pas le temps qu’elles mesurent.
 > <cite>Solaris, Stanislas Lem, p309, Editions Denoël (col.présence du futur), Paris, 1966</cite>
 
 ![becoming human (extrait du Solaris d’Andrei Tarkovski)][ahumanbeing]
-<cite>*becoming human*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</cite>
+<figcaption>*becoming human*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption>
 
 ## index des illustrations et bibliographie ##
 

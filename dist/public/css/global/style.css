@@ -211,11 +211,12 @@ a {
     /* text-decoration: underline; */
 }
 
-.image_container{
+figure{
   text-indent: 0;
   text-align: center;
-  width: 100% !important;
+  width: 100%;
 }
+
 p img {
     height: 135px;
     width: auto;
@@ -244,7 +245,6 @@ img[alt=adapt] {
     top: calc(var(--margin-top)*-1);
     left: calc(var(--margin-left)*-1);
     z-index: 0;
-    page-break-before: always;
 }
 
 img[alt=full] {
@@ -255,7 +255,6 @@ img[alt=full] {
     top: calc(var(--margin-top)*-1);
     left: calc(var(--margin-left)*-1);
     z-index: 0;
-    page-break-before: always;
 }
 
 
@@ -330,7 +329,9 @@ section[data-id="gurb"] img{
   page-break-before: always;
 }
 
-
+.no-break{
+  page-break-inside: avoid;
+}
 
 /* WHITOUT PAGED.JS */
 

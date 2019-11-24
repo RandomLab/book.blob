@@ -33,13 +33,14 @@
   page-break-before: always;
 }
 
-section[data-id="double-trouble"] .image_container{
+section[data-id="double-trouble"] figure{
   height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   page-break-before: always;
   page-break-after: always;
+  page-break-inside: avoid;
 }
 
 section[data-id="double-trouble"] img{
@@ -64,11 +65,21 @@ section[data-id="double-trouble"] blockquote{
   display: flex;
 }
 
+section[data-id="double-trouble"] p,
+section[data-id="double-trouble"] p > .decoration + p
+{
+  text-indent: 0;
+}
+
+section[data-id="double-trouble"] p + p{
+  text-indent: 10mm;
+}
+
 section[data-id="double-trouble"] blockquote > p{
   margin: auto;
 }
 
-section[data-id="double-trouble"] cite{
+section[data-id="double-trouble"] cite, figcaption{
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -77,20 +88,22 @@ section[data-id="double-trouble"] cite{
   font-weight: normal;
   white-space: pre-line;
   font-style: normal;
+  font-size: 8pt;
+  line-height: var(--lineheight);
 }
 section[data-id="double-trouble"] cite em{
   font-style: italic;
 }
 
+/*
+section[data-id="double-trouble"] figcaption + img ~ figcaption{
+  top:0;
+}
+*/
 
-
-section[data-id="double-trouble"] figcaption{
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  left: 0;
-  font-family: "SpaceMonoCustom";
-  font-weight: normal;
+section[data-id="double-trouble"] h3{
+  margin-top: var(--lineheight);
+  margin-bottom: var(--lineheight);
 }
 
 /*
@@ -110,7 +123,7 @@ section[data-id="double-trouble"] blockquote > p ::after{
   -webkit-text-stroke-color: black;
   color: white;
 }*/
-
-/*@page :nth(77){
-    height: 80;
+/*
+@page :nth(74){
+    margin-bottom: 170px;
 }*/
