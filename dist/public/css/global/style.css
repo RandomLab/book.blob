@@ -4,6 +4,12 @@
  src: url("/css/SpaceMonoCustom3-Italic.ttf") format("truetype");
 }
 
+@font-face {
+ font-family: "Inknut Antiqua";
+ src: url("/css/InknutAntiqua-Regular.ttf") format("truetype");
+ src: url("/css/InknutAntiqua-Bold.ttf") format("truetype");
+ src: url("/css/InknutAntiqua-Medium.ttf") format("truetype");
+}
 
 /* Style not specific to paged.js -----------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------- */
