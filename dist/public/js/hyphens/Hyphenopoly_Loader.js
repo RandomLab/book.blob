@@ -91,7 +91,8 @@
             H.setup.timeout = H.setup.timeout || 1000;
             H.setup.hide = H.setup.hide || "all";
         } else {
-            H.setup = {
+
+           H.setup = {
                 "hide": "all",
                 "selectors": {".hyphenate": {}},
                 "timeout": 1000
@@ -135,7 +136,7 @@
                 stylesNode.parentNode.removeChild(stylesNode);
             }
         } else {
-            const vis = " {visibility: hidden !important}\n";
+            const vis = "";
             const sc = d.createElement("style");
             let myStyle = "";
             sc.id = "H9Y_Styles";
