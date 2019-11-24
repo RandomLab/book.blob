@@ -19,7 +19,13 @@ var Hyphenopoly = {
         ".hyphenate": {
             minWordLength: 12
         }
-    }
+    },
+    handleEvent: {
+       hyphenopolyEnd: function (e) {
+         window.PagedPolyfill.preview();
+       }
+     }
+
 };
 
 console.log("preprocess");
@@ -27,10 +33,45 @@ console.log("preprocess");
 /* do things on the HTML doc before pagedjs */
 
 function image_container(){ // juste add class on image_container for style
-  images = document.querySelectorAll("p img");
+  var images = document.querySelectorAll("img");
   for(var i = 0; i < images.length ;  i++){
-    image = images[i]
-    image.parentElement.classList.add("image_container");
+    //console.log(images[i].parentElement.tagName.localeCompare("P"));
+    if(images[i].parentElement.tagName.localeCompare("P") == 0){
+      var para = images[i].parentElement;
+      //console.log(para)
+      var fig = document.createElement('figure');
+      fig.innerHTML = para.innerHTML;
+      fig.classList.add("image_container");
+      console.log(fig)
+      var next = para.nextElementSibling;
+      if(next){
+        if (next.tagName.localeCompare("FIGCAPTION") == 0){
+          fig.appendChild(next);
+        }
+      }
+      para.parentElement.replaceChild(fig, para);
+      var next = fig.nextElementSibling;
+      //console.log(next);
+      if(next){
+        if(next.tagName.localeCompare("P") != -1 && next.innerText == "" && next.children.length == 0){
+            fig.parentElement.removeChild(next);
+            //console.log("remove")
+        }
+      }
+    }else{
+      var secondImage = images[i]
+      if(secondImage.previousElementSibling.tagName.localeCompare("FIGURE") == 0){
+        var next = false;
+        if(secondImage.nextElementSibling.tagName.localeCompare("FIGCAPTION") == 0){
+          next = secondImage.nextElementSibling;
+        }
+        fig = secondImage.previousElementSibling;
+        fig.appendChild(secondImage);
+        if(next){
+          fig.appendChild(next);
+        }
+      }
+    }
   }
 }
 
@@ -57,5 +98,5 @@ function veuves(){
 $(document).ready(function(){
   image_container();
   hard_justify();
-  veuves();
+  //veuves();
 });
