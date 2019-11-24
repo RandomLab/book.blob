@@ -8,37 +8,12 @@
             <meta name="copyright" content="MIT License (MIT)" />
             <meta name="DC.Date.created" scheme="W3CDTF" content="2018-03-18" />
 
-
-            <script>
-              var Hyphenopoly = {
-                  require: {
-                      "fr": "FORCEHYPHENOPOLY"
-                  },
-                  setup: {
-                    dontHyphenate: {
-                      h6: true,
-                      cite: true,
-                      figcaption: true
-                    },
-                    minWordLength: 12
-                  },
-                  paths: {
-                       patterndir: "./js/hyphens/patterns/",
-                       maindir: "./js/hyphens/"
-                   },
-                  selectors: {
-                      ".hyphenate": {
-                          minWordLength: 12
-                      }
-                  }
-              };
-            </script>
-            <script src="js/hyphens/Hyphenopoly_Loader.js"></script>
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-            <!--<script src="js/kerning.js"></script>-->
             <script src="js/preprocess.js"></script>
-
+            <script src="js/hyphens/Hyphenopoly_Loader.js"></script>
+            <script src="js/paged.polyfill.js"></script>
+            <script src="js/process.js"></script>
             <link rel="stylesheet" href="css/kerning.css">
             <link href="css/book.css" rel="stylesheet" type="text/css">
 
-</head><body class="hyphenate" lang="fr">
+</head><body id="hyphenateme" class="hyphenate" lang="fr">
