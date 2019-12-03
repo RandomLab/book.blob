@@ -1,7 +1,3 @@
-function show() {
-  pagedjs();
-  document.querySelector("#render").style.display = "none";
-}
 
 console.log("postprocess");
 
@@ -17,6 +13,3 @@ function interface(){
     page.appendChild(span)
   }
 }
-
-
-show();

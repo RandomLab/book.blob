@@ -17,7 +17,7 @@
 
 /* Style not specific to paged.js */
 @import "global/reset.css";
-@import "global/style.css"; 
+@import "global/style.css";
 
 /* Specific to paged.js */
 @import "global/layout.css";
@@ -28,15 +28,19 @@
 @import "parts/table-of-content.css";
 @import "parts/frontmatter.css";
 @import "parts/backmatter.css";
-@import "parts/figures.css";
+/*@import "parts/figures.css";*/
+
+/*@import "parts/double-trouble1.css";*/
+@import "parts/double-trouble2.css";
 
 
 
-
-/* 
-Book design on Chrome on Mac OSX 
+/*
+Book design on Chrome on Mac OSX
 (baseline and line-height is not the same on other web browser and on other OS)
 */
 
-
-
+@font-face {
+ font-family: "SpaceMonoCustom";
+ src: url("/css/SpaceMonoCustom3-Italic.otf") format("otf"),
+}

@@ -1,0 +1,50 @@
+
+.note{
+  text-indent: 0;
+  position: absolute;
+  line-height: 6.1pt;
+  font-size: 6pt;
+  font-family: "space mono";
+  font-style: italic;
+  text-align: center;
+  bottom: 0;
+  right: 0;
+  width: 20%;
+}
+
+section[data-id="double-trouble"] img{
+  width: 100%;
+  height: auto;
+}
+
+section[data-id="double-trouble"] blockquote{
+  font-weight: bold;
+  float: left;
+}
+
+section[data-id="double-trouble"] blockquote > p{
+  margin-bottom: 0;
+}
+
+section[data-id="double-trouble"] blockquote > p ::before{
+  content:"«";
+  float:left;
+  font-size: 23pt;
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: black;
+  color: white;
+}
+section[data-id="double-trouble"] blockquote > p ::after{
+  content:"»";
+  float: right;
+  font-size: 23pt;
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: black;
+  color: white;
+}
+
+section[data-id="double-trouble"] > p{
+  width: 75%;
+  text-align: justify;
+  /*font-size: 7.5pt;*/
+}

@@ -1,4 +1,6 @@
-
+.interface{
+  display: none;
+}
 
 /* Change the look */
 :root{
@@ -11,6 +13,9 @@
 
 /* To define how the book look on the screen: */
 @media screen {
+  .interface{
+    display: block;
+  }
   body {
       background-color: var(--color-background);
   }
@@ -33,7 +38,7 @@
       margin-left: var(--width);
   }
 
-  .pagedjs_page:last-of-type{ 
+  .pagedjs_page:last-of-type{
       margin-bottom: 10mm;
   }
 
@@ -64,6 +69,3 @@
   }
 
 }
-
-
-

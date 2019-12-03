@@ -14,11 +14,6 @@
     #colophon{ break-before: right; }
     #project-gutenberg{ break-before: page; }
 
-    pre{
-        position: absolute;
-        bottom: -8mm;
-        left: -22mm;
-    }
 
 
 
@@ -32,8 +27,3 @@
     }
 
     #colophon p{ text-indent: 0; }
-
-    pre{
-        font-size: 0.6rem;
-        line-height: calc(var(--baseline)*0.5);
-    }

@@ -5,6 +5,7 @@
     font-weight: 600;
 } */
 
+
 #toc a[href]::after {
     content: target-counter(attr(href), page);
     float: right;
@@ -12,8 +13,10 @@
 
 
 #toc li{
-    overflow-x: hidden;
-    display: flex; 
+    /*overflow-x: hidden;*/
+    display: flex;
+    margin-left: 5mm;
+    text-indent: -5mm;
 }
 
 #toc li::after{
@@ -41,8 +44,8 @@
 /* list-counter */
 #toc { counter-reset: numtoc; }
 #toc .chap { counter-increment: numtoc; }
-/* #toc .chap::before { 
-    content: counter(numtoc, decimal) ". "; 
+/* #toc .chap::before {
+    content: counter(numtoc, decimal) ". ";
     padding-right: 5px;
     /* display: inline-block;
     width: 45px; */

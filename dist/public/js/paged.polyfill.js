@@ -27543,7 +27543,7 @@ img {
 		}
 
 		if(config.auto !== false) {
-			done = await previewer.preview();
+			//done = await previewer.preview();
 		}
 
 
