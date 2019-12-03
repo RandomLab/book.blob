@@ -20,8 +20,9 @@ class Html {
         const introduction = this.introduction();
         const body = this.body();
         const colophon = this.colophon();
-        //const footer = this.footer();
-        const result = head.concat(cover + toc + introduction + body + colophon + '</body>');
+        const footer = this.footer();
+        const result = head.concat(cover + toc + introduction + body + colophon + footer);
+        console.log(result);
         return result;
     }
     chapitresHtml() {
@@ -87,6 +88,10 @@ class Html {
     colophon() {
         const colophon = fs.readFileSync(this.srcFolder + 'colophon.html', 'utf8');
         return colophon;
+    }
+    footer() {
+        const footer = fs.readFileSync(this.srcFolder + 'footer.html', 'utf8');
+        return footer;
     }
     toc() {
         const introduction = fs.readFileSync(this.srcFolder + 'preface.md', 'utf8');
