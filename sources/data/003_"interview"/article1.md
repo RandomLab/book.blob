@@ -4,6 +4,8 @@
 
 ##### Steve travaille désormais sur un nouveau projet intitulé *Grandroids* au sein desquelles évoluent les Gloops, quadrupèdes modélisés en trois dimensions disposant de cerveaux maintenant capables de mouvements moteurs là où *Creatures* se déroulait sur un plan en deux dimensions, et où les Norns étaient conçus à partir d’un rapport verbe-objet-stimulis à leur monde.
 
+<div class="hard_page_break"></div>
+
 > Is there a difference for you between your work, what could be called artificial life (a-life) and other virtual life simulations?
 
 Technically speaking, a-life is just a kind of theoretical biology - the use of computer simulation to explore biological ideas like evolution and growth. Different people mean different things by it and have different levels of comfort with some of its stranger ideas. But one central idea that most can agree on is that life is a process, not a thing or a substance or a property. Processes are independent of their substrate. And so, if a process occurs in a different substrate from normal (inside a computer, say), is it still the same process? If not, why not? But if it is, and if the processes of life are made to exist inside a computer, are those processes real life?
@@ -18,9 +20,7 @@ Or indeed any code that does those things at all. If I write code to simulate a 
 
 > What’s your way of seeing consciousness? Can we talk about “zophenia” as life emerging from game systems and artificial life as a phenomenon? (Zo as from old greek life and phenia from old greek “to reveal”, “appear”)
 
-Zophenia sounds like a very good word for what I just described!
-
-As for consciousness, that’s a really tough question. For one thing nobody can agree on what the word should mean. For another, we are very prone to making mistakes in our thinking when it comes to this topic, because many of us really don’t want to believe that consciousness is a process that can be replicated.
+Zophenia sounds like a very good word for what I just described! As for consciousness, that’s a really tough question. For one thing nobody can agree on what the word should mean. For another, we are very prone to making mistakes in our thinking when it comes to this topic, because many of us really don’t want to believe that consciousness is a process that can be replicated.
 
 We’d rather believe that it’s some kind of magical ingredient, no matter how much we try to pretend we believe nothing of the kind!
 
