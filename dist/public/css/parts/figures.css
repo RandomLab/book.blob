@@ -18,7 +18,7 @@ figure img {
     padding-bottom: 2px;
 }
 
-figure figcaption{ 
+figure figcaption{
     width: 100%;
     display: block;
     font-family: 'Work Sans', sans-serif;
@@ -30,14 +30,14 @@ figure figcaption{
     padding-top: calc(var(--baseline)*0.5);
 }
 
- 
+
 figure + p {
     text-indent: 0;
         /* set on baseline*/
         padding-bottom: 3px;
 }
-    
- 
+
+
 
 /* SOME HACK ---------------------------------------------------------------------- */
 
@@ -45,7 +45,7 @@ figure + p {
     .pagedjs_left_page figure {
         left: -26%;
     }
-   
+
     /* fill the rest of the page because the figure is at the end of the page  */
     #figure-3 img {
         height: calc(var(--baseline)*13.5 + 8px);
