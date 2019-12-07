@@ -24,7 +24,7 @@ class Html {
     public showdown = require('showdown');
 
 
-    public converter = new this.showdown.Converter({ extensions: [this.footnote] });
+    public converter = new this.showdown.Converter({ extensions: [this.footnote], metadata: true});
     private srcFolder: string;
 
     constructor(private chapitres: string[]) {
@@ -73,6 +73,8 @@ class Html {
             if (parsedName) {
                 return parsedName.trim();
             }
+            //console.log(this.converter.getMetadata())
+            //return this.converter.getMetadata().title
         } catch (e) {
             console.log(e);
         }

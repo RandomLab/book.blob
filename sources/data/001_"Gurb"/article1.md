@@ -1,4 +1,7 @@
-# Gurb
+---
+title: Gurb
+authors: Valentin
+---
 
 ![](images/gurb/gurb_01.jpg)
 

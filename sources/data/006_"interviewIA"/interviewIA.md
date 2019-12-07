@@ -1,4 +1,7 @@
-# Interview with Jeremy Bailey
+---
+title: Interview with Jeremy Bailey
+authors: Alix Desaubliaux
+---
 
 <span class="decoration"> </span>
 

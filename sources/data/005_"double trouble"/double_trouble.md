@@ -1,6 +1,7 @@
-# double trouble
-
-<span class="author dontHyphenate">Alain Barthélémy</span>
+---
+title: Double trouble
+authors: Alain Barthélémy
+---
 
 <span class="decoration"> </span>
 <span class="decoration"> </span>
