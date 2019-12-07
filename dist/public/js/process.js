@@ -43,7 +43,7 @@ function footnote(page){
             //console.log($(page).find(".notes").children(":first"));
             words = $(page).find(".notes").children(":first").text().split(" ");
             var word_to_move = words[0];
-            $(page).find(".notes").children(":first").text(words.slice(1,-1).join(" "));
+            $(page).find(".notes").children(":first").text(words.slice(1).join(" "));
             //console.log(word_to_move);
 
             new_note_text = new_note.text() + word_to_move + " "
