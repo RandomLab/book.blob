@@ -17,6 +17,7 @@ class MakeChapitres {
         <h1>${title}</h1></section>`;*/
 
         const section = `<section id="${id}" class="chapter" data-chapter="${this.chapNum}"></section>`;
+        //const section = ""
         return section;
     }
 

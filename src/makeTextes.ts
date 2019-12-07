@@ -20,9 +20,11 @@ class MakeTextes {
     public showdown = require('showdown');
     public converter = new this.showdown.Converter(
             { headerLevelStart : 2,
+              metadata: true,
               extensions: [this.footnote],
               noHeaderId : true } ,
             );
+    public metadata:object = {};
 
     constructor(private text: string, private chapNum: number, private fileNum: number) {
         this.text = text;
@@ -33,11 +35,24 @@ class MakeTextes {
     public textesBody(): string {
         try {
             const indexArticle =  this.chapNum + '.' + this.fileNum + ' ';
-            const chapitre = this.textId(this.text);
-            let section = `<section id="${chapitre}" class="subchapter">`;
             const html: string = this.converter.makeHtml(this.text);
+            const metadata = this.converter.getMetadata();
+            console.log(metadata)
+            const chapitre = this.textId(metadata.title);
+            let section = `<section id="${chapitre}" class="subchapter">`;
+            let title = `<h2>${metadata.title}</h2>`
+
             //let test = this.insertNum(html, indexArticle);
             //section = section.concat(test);
+            section = section.concat(title)
+
+            if (metadata.authors){
+              let authors = metadata.authors.split(",")
+              for(let i = 0; i< authors.length ; i++){
+                  let authorspan = `<span class="author dontHyphenate">${authors[i]}</span>`
+                  section = section.concat(authorspan)
+              }
+            }
             section = section.concat(html)
             section = section.concat(`</section>`);
             return section;
@@ -50,22 +65,11 @@ class MakeTextes {
         return main.slice(0, 4) + ins + main.slice(4);
     }
 
-    private textName(name: string): string {
-        try {
-            const re = /.*/m;
-            const str = name.match(re);
-            const parsedName = str[0].slice(2);
-            if (parsedName) {
-                return parsedName.trim();
-            }
-        } catch (e) {
-            console.log(e);
-        }
-    }
 
     private textId(name: string): string {
         try {
-            const chapitre = this.textName(name);
+            const chapitre = name;
+            //console.log(chapitre)
             const re = /(\s)/gi;
             const str = chapitre.replace(re, '-').toLowerCase();
             if (str) {

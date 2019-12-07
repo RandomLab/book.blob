@@ -153,7 +153,6 @@ h5 {
 h1,
 h2{
     text-align: center;
-    page-break-before: always;
     hyphens: none;
 }
 
@@ -399,7 +398,7 @@ margin-right: 0!important;
   /*text-align: center;*/
   font-size: 5.6pt;
   word-spacing: -1px;
-  line-height: 12px;
+  line-height: 11px;
   position: absolute;
 }
 

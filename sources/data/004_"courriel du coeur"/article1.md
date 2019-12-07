@@ -1,7 +1,7 @@
-# Courriel du coeur
-
-<span class="author dontHyphenate">Ophélie Demurger</span>
-<span class="author dontHyphenate">Valentin Godard</span>
+---
+title: Courriel du coeur
+authors: Ophélie Demurger, Valentin Godard
+---
 
 <span class="decoration"> </span>
 

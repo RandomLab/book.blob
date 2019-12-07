@@ -104,11 +104,11 @@
       -webkit-text-stroke-width: 0.9px;
       -webkit-text-stroke-color: black;
     }
-/*
+
     .chapter {
-        break-before: right;
+        break-before: left;
     }
-*/
+
     figure {
         break-inside: avoid;
     }

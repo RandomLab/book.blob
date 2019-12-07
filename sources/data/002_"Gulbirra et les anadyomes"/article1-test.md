@@ -1,5 +1,7 @@
-# Gulbirra et les anadyomes
-<span class="author dontHyphenate">Alix Desaubliaux</span>
+---
+title: Gulbirra et les anadyomes
+authors: Alix Desaubliaux
+---
 
 <span class="decoration"> </span>
 
