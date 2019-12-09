@@ -17,8 +17,6 @@ class Html {
         return [footnote1, footnote2];
     }
 
-
-
     /* convert all md to html and build html */
 
     public showdown = require('showdown');
@@ -47,6 +45,7 @@ class Html {
         const colophon: string = this.colophon();
         const footer: string = this.footer();
         const result = head.concat(cover + toc + introduction + body + colophon + footer);
+        // console.log(result)
         return result;
     }
 

@@ -1,3 +1,10 @@
+# index
+dist/index.html
+
+# sources
+sources/chapitres
+
+# général
 node_modules/
 .node_modules/
 **/.DS_Store
@@ -10,6 +17,12 @@ yarn-error.log
 yarn-error.log
 package-lock.json
 
+# js
+dist/*.js
+
+# map
+dist/*.map
+
 # JPEG
 *.jpg
 *.jpeg
@@ -17,6 +30,9 @@ package-lock.json
 *.jif
 *.jfif
 *.jfi
+
+# png
+*.png
 
 # JPEG 2000
 *.jp2
@@ -57,3 +73,6 @@ pids
 
 # Optional npm cache directory
 .npm
+
+# scribus
+*.sla

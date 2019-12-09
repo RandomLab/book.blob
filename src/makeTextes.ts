@@ -37,7 +37,7 @@ class MakeTextes {
             const indexArticle =  this.chapNum + '.' + this.fileNum + ' ';
             const html: string = this.converter.makeHtml(this.text);
             const metadata = this.converter.getMetadata();
-            console.log(metadata)
+            // console.log(metadata)
             const chapitre = this.textId(metadata.title);
             let section = `<section id="${chapitre}" class="subchapter">`;
             let title = `<h2>${metadata.title}</h2>`
@@ -69,7 +69,7 @@ class MakeTextes {
     private textId(name: string): string {
         try {
             const chapitre = name;
-            //console.log(chapitre)
+            console.log(chapitre)
             const re = /(\s)/gi;
             const str = chapitre.replace(re, '-').toLowerCase();
             if (str) {
