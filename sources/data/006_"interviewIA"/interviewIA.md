@@ -1,11 +1,9 @@
 ---
-title: Interview with Jeremy Bailey
-authors: Alix Desaubliaux
+title: Jeremy Bailey, the Famous New Media Artist
+authors:
 ---
 
-<span class="decoration"> </span>
-
-Jeremy Bailey, the Famous New Media Artist,
+![Amazon Echo Gag](images/JB-amazonEchoGag.jpg)
 
 Hi,
 Following the listening of episode 3 about IA from your podcast Good Point
