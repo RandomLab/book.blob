@@ -1,3 +1,6 @@
+# index
+dist/index.html
+
 # général
 node_modules/
 .node_modules/
