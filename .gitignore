@@ -70,3 +70,6 @@ pids
 
 # Optional npm cache directory
 .npm
+
+# scribus
+*.sla
