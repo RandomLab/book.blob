@@ -39,8 +39,3 @@
 Book design on Chrome on Mac OSX
 (baseline and line-height is not the same on other web browser and on other OS)
 */
-
-@font-face {
- font-family: "SpaceMonoCustom";
- src: url("/css/SpaceMonoCustom3-Italic.otf") format("otf"),
-}
