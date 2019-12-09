@@ -136,7 +136,7 @@ h2{
     hyphens: none;
 }
 
-section[data-id="interview-with-jeremy-bailey"] p{
+section[data-id="jeremy-bailey,-the-famous-new-media-artist"] p{
   font-family: "SpaceMonoCustom";
   font-style: italic;
   word-spacing: -3.2px;
@@ -146,7 +146,7 @@ section[data-id="interview-with-jeremy-bailey"] p{
   font-size: 8.5pt;
 }
 
-section[data-id="interview-with-jeremy-bailey"] blockquote > p{
+section[data-id="jeremy-bailey,-the-famous-new-media-artist"] blockquote > p{
   font-family: "Inknut Antiqua";
   font-weight: bold;
   color: black;
@@ -159,7 +159,7 @@ section[data-id="interview-with-jeremy-bailey"] blockquote > p{
   page-break-inside: avoid;
 }
 
-section[data-id="interview-with-jeremy-bailey"] blockquote > p::before{
+section[data-id="jeremy-bailey,-the-famous-new-media-artist"] blockquote > p::before{
   content: counter(countbailey) ".";
   position: absolute;
   left: -23px;
