@@ -1,6 +1,9 @@
 # index
 dist/index.html
 
+# sources
+sources/chapitres
+
 # général
 node_modules/
 .node_modules/
