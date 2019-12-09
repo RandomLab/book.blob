@@ -1,8 +1,13 @@
-# Interview with Steve Grand
+---
+title: Interview with Steve Grand
+authors:
+---
 
 ##### Développeur du jeu *Creatures* et fondateur de *Cyberlife Research*, Steve Grand vit et travaille en Arizona. Autodidacte, il passe six années à expérimenter les réseaux neuronaux, les organismes évolutifs et l’intelligence artificielle afin de simuler l’évolution et l’activité cérébrale par ordinateur en Angleterre, où il fut gratifié d’un doctorat honorifique de l’Open University d’Angleterre, devenant ainsi membre de l’ordre des chevaliers de la Reine. Il structure et développe *Creatures*, un jeu de simulation de vie artificielle prenant place sur la planète Albia où le joueur est confronté à la tâche d’élever avec des Norns, créatures bipèdes pouvant interagir avec leur environnement, et devant vivre, apprendre et parler au sein d’un écosystème entièrement simulé. Les enzymes, les réactions chimiques, les neurones, l’ADN et les gènes des créatures, l’activité neuronale et les systèmes d’apprentissage sont accessibles au joueur, qui est chargé de la lourde responsabilité de leur apprentissage et leur maintient physiologique. Le premier opus sorti en 1996 et la dernière version du dernier épisode, *Creatures Exodus*, fut réalisé en 2004.
 
 ##### Steve travaille désormais sur un nouveau projet intitulé *Grandroids* au sein desquelles évoluent les Gloops, quadrupèdes modélisés en trois dimensions disposant de cerveaux maintenant capables de mouvements moteurs là où *Creatures* se déroulait sur un plan en deux dimensions, et où les Norns étaient conçus à partir d’un rapport verbe-objet-stimulis à leur monde.
+
+<div class="hard_page_break"></div>
 
 > Is there a difference for you between your work, what could be called artificial life (a-life) and other virtual life simulations?
 
@@ -18,9 +23,7 @@ Or indeed any code that does those things at all. If I write code to simulate a 
 
 > What’s your way of seeing consciousness? Can we talk about “zophenia” as life emerging from game systems and artificial life as a phenomenon? (Zo as from old greek life and phenia from old greek “to reveal”, “appear”)
 
-Zophenia sounds like a very good word for what I just described!
-
-As for consciousness, that’s a really tough question. For one thing nobody can agree on what the word should mean. For another, we are very prone to making mistakes in our thinking when it comes to this topic, because many of us really don’t want to believe that consciousness is a process that can be replicated.
+Zophenia sounds like a very good word for what I just described! As for consciousness, that’s a really tough question. For one thing nobody can agree on what the word should mean. For another, we are very prone to making mistakes in our thinking when it comes to this topic, because many of us really don’t want to believe that consciousness is a process that can be replicated.
 
 We’d rather believe that it’s some kind of magical ingredient, no matter how much we try to pretend we believe nothing of the kind!
 

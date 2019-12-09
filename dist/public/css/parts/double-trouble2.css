@@ -1,36 +1,8 @@
-.author{
-  display: flex;
-  justify-content: space-around;
-  font-family: "space mono";
-}
 
-.notes{
-  position: absolute;
-  /*bottom: 0;*/
+section[data-id="double-trouble"] notes{
   bottom: calc(0px - var(--lineheight) / 2);
   left: 0;
   width: 100%;
-  height: fit-content;
-}
-
-.note{
-  display: block;
-  text-indent: -9px;
-  font-family: "SpaceMonoCustom";
-  font-style: italic;
-  /*text-align: center;*/
-  font-size: 5.6pt;
-  word-spacing: -1px;
-  line-height: 15px;
-  position: absolute;
-}
-
-.notes .note{
-  position: relative;
-}
-
-.hard_page_break{
-  page-break-before: always;
 }
 
 section[data-id="double-trouble"] figure{

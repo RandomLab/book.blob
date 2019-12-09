@@ -12,8 +12,10 @@ class MakeChapitres {
         const name = this.getChapitreName(this.folder);
         const title = this.makeTitle(name, ' ');
         const id = this.makeTitle(name, '-');
-        const section = `<section id="${id}" class="chapter" data-chapter="${this.chapNum}">
-        <h1>${title} <br> (${this.chapNum})</h1></section>`;
+        /*const section = `<section id="${id}" class="chapter" data-chapter="${this.chapNum}">
+        <h1>${title}</h1></section>`;*/
+        const section = `<section id="${id}" class="chapter" data-chapter="${this.chapNum}"></section>`;
+        //const section = ""
         return section;
     }
     // private getChapitreNum(name: string): string {

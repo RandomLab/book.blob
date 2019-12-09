@@ -4,12 +4,21 @@ var Hyphenopoly = {
         "fr": "FORCEHYPHENOPOLY"
     },
     setup: {
+      exceptions: {
+          "global": "Gulbirra, Kelvin, Solaris, Jupiter",
+      },
       dontHyphenate: {
+        h2: true,
         h6: true,
         cite: true,
         figcaption: true
       },
-      minWordLength: 12
+      selectors: {
+        ".hyphenate":{
+          minWordLength: 7,
+          orphanControl: 2
+        }
+      }
     },
     paths: {
          patterndir: "./js/hyphens/patterns/",
@@ -29,13 +38,14 @@ var Hyphenopoly = {
 };
 
 console.log("preprocess");
-
+const lineheight = 15;
 /* do things on the HTML doc before pagedjs */
 
-function image_container(){ // juste add class on image_container for style
+function image_container(){ // met les images dans des balises figure pour intégrer les légendes.
   var images = document.querySelectorAll("img");
   for(var i = 0; i < images.length ;  i++){
     //console.log(images[i].parentElement.tagName.localeCompare("P"));
+
     if(images[i].parentElement.tagName.localeCompare("P") == 0){
       var para = images[i].parentElement;
       //console.log(para)
@@ -85,6 +95,7 @@ function hard_justify(){
         inject += '<span class=char_"'+(j)+'" aria-hidden="true">'+letters[j]+'</span>';
     }
     span.innerHTML = inject;
+    $(span).parent().addClass("authors");
   });
 }
 
@@ -95,8 +106,23 @@ function veuves(){
   });
 }
 
+function no_hyphen_last_word(){
+  $("p").each(function(i, para){
+    lastw = para.innerHTML.split(" ").slice(-1)[0];
+    nlastw = lastw.replace(/\u00AD/g, '');
+    para.innerHTML = para.innerHTML.replace(lastw, nlastw);
+  });
+}
+
+function specific_size(){
+  $(document).find('img[src$="images/Idontknowmyself.png"]').height(195);
+
+}
+
 $(document).ready(function(){
   image_container();
   hard_justify();
+  $( 'p:empty' ).remove();
+  //no_hyphen_last_word();
   //veuves();
 });
