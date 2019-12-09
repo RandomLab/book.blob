@@ -61,9 +61,9 @@ class MakeTextes {
         }
     }
 
-    private insertNum(main: string, ins: string): string {
-        return main.slice(0, 4) + ins + main.slice(4);
-    }
+    // private insertNum(main: string, ins: string): string {
+    //     return main.slice(0, 4) + ins + main.slice(4);
+    // }
 
 
     private textId(name: string): string {

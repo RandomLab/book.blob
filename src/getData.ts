@@ -1,6 +1,8 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
+// TODO: nettoyer les fichiers html de chapitres / dist .js .map .html
+
 class GetData {
     private srcFolder: string;
 

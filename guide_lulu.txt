@@ -1,0 +1,44 @@
+Lors de la création d'un PDF avec les produits Adobe y compris Adobe Acrobat Pro, utilisez les options de travail Adobe Acrobat de Lulu (Lulu.joboptions).
+
+ 
+
+Après les avoir téléchargés sur votre ordinateur, faites un double clic sur l'icône et ce sera installé dans tous les produits Adobe.
+
+ 
+
+Si vous utilisez Apache OpenOffice, suivez les instructions :
+
+Comment faire un PDF en utilisant Apache OpenOffice ?
+
+ 
+
+ Si vous téléchargez votre propre PDF, suivez ces directives :
+
+ 
+
+Incorporez complètement toutes les polices utilisées dans le document. Faites attention à ce que toutes les polices ne soient incorporées qu'une seule fois.
+Positionnez vos pages correctement dans votre fichier source. La première page de votre fichier PDF prêt à l'impression se trouve à droite dans votre livre imprimé à l'opposé de la deuxième de couverture. Par conséquent, les pages impaires dans votre fichier s'imprimeront à droite et les pages paires s'imprimeront à gauche dans votre livre. Cliquez ici pour plus d'informations.
+Si vous désirez des images qui touchent les bords ou des fonds de couleur de page, il vous faut intégrer des bords perdus. Cliquez ici pour apprendre comment créer des bords perdus.
+Fixez le mode de compatibilité sur PDF 1.3 (PDF 1.3 ne supporte pas les calques et va les aplatir en créant le PDF).
+Nos imprimeurs utilisent l'espace colorimétrique CMJN pour toute impression en couleurs. Nous recommandons que vous utilisiez l'espace colorimétrique CMJN quand vous générez des fichiers destinés à une impression en couleurs. Si vous utilisez l'espace colorimétrique RVB, nous convertirons votre fichier en CMJN quand nous créons le PDF prêt à l'impression. Il est donc important de vérifier le fichier prêt à l'impressionavant que le fichier ne soit envoyé aux presses au cas où la conversion cause des divergences de couleurs. 
+Les noirs solides seront imprimés solides à 100% sans autre ajout de couleur. Si vous n'ajoutez pas de couleur pour enrichir le noir, le TAC (total area coverage) ne devrait pas excéder 270 %.
+Évitez les constructions de couleurs très légères de moins de 20 %. En-dessous de 20 % la variation de teinte est très difficile à contrôler sur une base consistante.
+Désactiver la Surimpression et Simuler la Surimpression
+La taille du PDF ne devrait pas excéder 1Go.
+Si les DPI de votre image sont supérieurs à 300, descendez la résolution à 300 DPI.
+Aplatissez vos images.
+Aplatissez toutes les transparences (calques).
+N'utilisez pas de protection par sécurité/mot de passe. L'imprimeur ne serait pas en mesure d'imprimer le PDF.
+La compression d'image devrait être fixée sur ZIP si vous voulez des images sans pertes (pas d'artefacts/pas de distorsions). Pour réduire la taille des fichiers, utilisez JPEG -> Haut. N'utilisez pas la compression CCITT ou LZW. la compression LZW crée des images multi-bandes, qui peuvent présenter des lignes blanches à l'impression.
+Si vous imprimez un livre en couleurs qui a des images en noir et blanc à l'intérieur, les images en noir & blanc devraient avoir le code couleur fixé sur échelle de gris.
+Le gamma d'une image en échelle de gris devrait être entre 2.2 et 2.4.
+ 
+
+Pour plus d'informations, consultez l'article des Programmes de création de PDF recommandés.
+
+ 
+
+Note: Lulu ne recommande PAS la création d'un PDF à l'aide du bouton PDF trouvé dans le menu d'impression d'un Mac. Mac Quartz / Aperçu (technologie graphique Mac qui produit facilement des PDF) n'a pas été créé dans le but de produire des PDF de qualité professionnelle et ne convient pas à la publication sur Lulu.
+
+
+Vous trouverez aussi une liste en anglais de convertisseurs et de lecteurs PDF générée par la communauté Lulu dans les Forums Lulu.
