@@ -1,6 +1,6 @@
 ---
-title: Gurb
-authors: Valentin
+title: Angoisse Universelle
+authors: Valentin Godard
 ---
 
 ![](images/gurb/gurb_01.jpg)
