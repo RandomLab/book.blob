@@ -1,6 +1,6 @@
 ---
 title: Jeremy Bailey, the Famous New Media Artist
-authors:
+authors: Ophélie Démurger
 ---
 
 ![Amazon Echo Gag](images/JB-amazonEchoGag.jpg)
