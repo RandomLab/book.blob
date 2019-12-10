@@ -1,5 +1,5 @@
 ---
-title: Double trouble
+title: Double Trouble
 authors: Alain Barthélémy
 ---
 
