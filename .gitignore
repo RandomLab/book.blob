@@ -24,38 +24,38 @@ dist/*.js
 dist/*.map
 
 # JPEG
-*.jpg
-*.jpeg
-*.jpe
-*.jif
-*.jfif
-*.jfi
+# *.jpg
+# *.jpeg
+# *.jpe
+# *.jif
+# *.jfif
+# *.jfi
 
 # png
-*.png
+# *.png
 
 # JPEG 2000
-*.jp2
-*.j2k
-*.jpf
-*.jpx
-*.jpm
-*.mj2
+# *.jp2
+# *.j2k
+# *.jpf
+# *.jpx
+# *.jpm
+# *.mj2
 
 # JPEG XR
-*.jxr
-*.hdp
-*.wdp
+# *.jxr
+# *.hdp
+# *.wdp
 
 # Graphics Interchange Format
-*.gif
+# *.gif
 
 # Tagged Image File Format
-*.tiff
-*.tif
+# *.tiff
+# *.tif
 
 # Portable Document Format
-*.pdf
+# *.pdf
 
 # Logs
 logs
