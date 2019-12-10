@@ -3,7 +3,7 @@ title: Jeremy Bailey, the Famous New Media Artist
 authors: Ophélie Demurger
 ---
 
-![Amazon Echo Gag](images/JB-amazonEchoGag.jpg)
+![Amazon Echo Gag](images/amazonEchoGag.jpg)
 
 Hi,
 Following the listening of episode 3 about IA from your podcast Good Point

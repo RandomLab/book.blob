@@ -359,10 +359,11 @@ margin-right: 0!important;
 .author{
   font-style: normal;
   font-weight: normal;
-  display: flex;
-  justify-content: space-around;
+  /* display: flex; */
+  /* justify-content: space-around; */
   font-family: "space mono";
-  font-size: 8.5pt;
+  /* font-size: 10.5pt; */
+  text-align: center;
 }
 
 .no-break{
