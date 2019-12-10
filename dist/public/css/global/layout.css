@@ -110,6 +110,11 @@
 
     figure {
         break-inside: avoid;
+        /* width: 80%; */
+    }
+
+    figure img {
+        width: 100mm;
     }
 
     #colophon {
