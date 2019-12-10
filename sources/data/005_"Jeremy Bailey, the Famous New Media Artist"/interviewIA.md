@@ -6,7 +6,7 @@ authors: Ophélie Demurger
 ![Amazon Echo Gag](images/JB-amazonEchoGag.jpg)
 
 Following the listening of episode 3 about IA from his podcast Good Point
-with Rafael Rozendaal, I asked few questions to Jeremy Bailey,self-proclaimed Famous New Media Artist.
+with Rafael Rozendaal, I asked few questions to Jeremy Bailey, self-proclaimed "Famous New Media Artist".
 
 > Do you remember the first meet with an IA?
 
