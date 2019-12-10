@@ -1,5 +1,5 @@
 ---
-title: Jeremy Bailey, the Famous New Media Artist
+title: Jeremy Bailey, Famous New Media Artist
 authors: Ophélie Demurger
 ---
 
