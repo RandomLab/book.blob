@@ -1,5 +1,5 @@
 ---
-title: Interview with Steve Grand
+title: Conversation avec Steve Grand
 authors: Alix Désaubliaux
 ---
 

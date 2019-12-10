@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------- */
 
 :root {
-    --lineheight:15px;
+    --lineheight:20px;
 }
 
 * {
@@ -40,7 +40,7 @@ a {
     /* font-weight: 600; */
     text-transform: uppercase;
     line-height: var(--lineheight);
-    text-align: center;
+    text-align: left;
     /* margin-bottom: 12px; */
     /* margin-top: calc(var(--baseline)*6); */
     /* margin-bottom: calc(var(--baseline)*2); */
