@@ -4,12 +4,12 @@
 
     @page {
         --bordsperdus: 1cm;
-        --grid: 15px;
+        --grid: 20px;
         /*size: calc(120mm + var(--bordsperdus)) calc(180mm + var(--bordsperdus));*/
         size:152mm 228mm;
         /*margin-top: calc(var(--grid) * 1.5);*/
         margin-top: 15mm;
-        margin-bottom: 15mm;
+        margin-bottom: 20mm;
         /*background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));*/
         /*marks: crop;
         bleed: 1cm;*/
@@ -71,11 +71,11 @@
           content: string(chapTitle);
           font-family: "Space Mono";
           font-size: 8pt;
-          right: 10mm;
+          right: 8mm;
           position: absolute;
-          bottom: 9mm;
+          bottom: 8mm;
           text-align: right;
-          width: 50mm;
+          width: 70mm;
         }
     }
 
@@ -106,6 +106,10 @@
 
     .chapter {
         break-before: left;
+    }
+
+    img{
+      filter: grayscale(100%);
     }
 
     figure {
