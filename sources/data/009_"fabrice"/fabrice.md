@@ -27,23 +27,23 @@ La série de drapeaux *Bien mieux que les humains par tous les moyens possibles*
 
 [^1]: *Vi(c)e organique* est également un site web : www.viceorganique.com
 
-[^2]: La singularité est une théorie selon laquelle l’IA deviendra une « intelligence artificielle générale » et s’autonomisera avec le risque qu’elle se retourne contre les humains. Jean-Gabriel Ganascia, Le mythe de la Singularité. Faut-il craindre l’intelligence artificielle ? Paris : Seuil, 2017.
+[^2]: La singularité est une théorie selon laquelle l’IA deviendra une « intelligence artificielle générale » et s’autonomisera avec le risque qu’elle se retourne contre les humains. Jean-Gabriel Ganascia, *Le mythe de la Singularité. Faut-il craindre l’intelligence artificielle ?*, Seuil, 2017.
 
-[^3]: La création sonore est de Gaël Moissonnier. Ce travail a été prolongé sous la forme d’un album : Luminophores. https://zerojardins.bandcamp.com/album/luminophores
+[^3]: La création sonore est de Gaël Moissonnier. Ce travail a été prolongé sous la forme d’un album : *Luminophores*. https://zerojardins.bandcamp.com/album/luminophores
 
 [^4]: À la base des pratiques magiques, se trouve pour James George Frazer, le principe d’association d’idées. C’est également un aspect de la magie de Giordano Bruno, lui-même philosophe et mage, incarnation flamboyante de la magie comme « science de l’imaginaire » à la Renaissance et qui fait le lien entre magie, association d’idées et art de la mémoire. Ce principe est moteur dans la création de liens entre les images de la pièce, dans la création du sens et du dialogue avec elle comme il l’a été lors de la fabrication de la base de données d’images.
 
-[^5]: Ce signe a également été repris par la culture New Age et le mouvement hippie de la Silicon Valley, qui sont eux-même à l’origine du capitalisme high-tech comme le raconte Rémi Durand, dans L’évangélisme technologique. De la révolte hippie au capitalisme high-tech de la Silicon Valley, Paris : FYP éditions, 2018.
+[^5]: Ce signe a également été repris par la culture New Age et le mouvement hippie de la Silicon Valley, qui sont eux-même à l’origine du capitalisme high-tech comme le raconte Rémi Durand, dans *L’évangélisme technologique. De la révolte hippie au capitalisme high-tech de la Silicon Valley*, FYP éditions, 2018.
 
-[^6]: Si l’importance de Frazer dans l’histoire de l’anthropologie est indéniable, ses théories évolutionnistes opposant les sociétés primitives, superstitieuses, fondées sur des croyances magiques, dominées par la nature et dans un état d’évolution infantile aux sociétés modernes adultes, rationnelles, fondées sur la science et la religion, sont aujourd’hui disqualifiées. Sa définition du totem est cependant restée valide, à condition de bien situer le vocabulaire dans son époque. James George Frazer, Le Rameau d’Or, tome 1. Paris : Robert Laffont, 1981.
+[^6]: Si l’importance de Frazer dans l’histoire de l’anthropologie est indéniable, ses théories évolutionnistes opposant les sociétés primitives, superstitieuses, fondées sur des croyances magiques, dominées par la nature et dans un état d’évolution infantile aux sociétés modernes adultes, rationnelles, fondées sur la science et la religion, sont aujourd’hui disqualifiées. Sa définition du totem est cependant restée valide, à condition de bien situer le vocabulaire dans son époque. James George Frazer, *Le Rameau d’Or*, tome 1, Robert Laffont, 1981.
 
-[^7]: Manuela De Barros, Magie et technologie. Paris : Supernova, 2015.
+[^7]: Manuela De Barros, *Magie et technologie*, Supernova, 2015.
 
-[^8]: Sylvain Piron, L’Occupation du monde. Bruxelles : Zones sensibles, 2018.
+[^8]: Sylvain Piron, *L’Occupation du monde*, Zones sensibles, 2018.
 
-[^9]: W.J.T. Mitchell qualifie la position philosophique du totem d’animiste ou vitaliste. W.J.T. Mitchell, Que veulent les images ? Une critique de la culture visuelle. Paris : Les presses du réel, 2014.
+[^9]: W.J.T. Mitchell qualifie la position philosophique du totem d’animiste ou vitaliste. W.J.T. Mitchell, *Que veulent les images ? Une critique de la culture visuelle*, Paris, Les presses du réel, 2014.
 
-[^10]: « Qu’est-ce que l’intelligence artificielle ? », Mission Villani sur l’intelligence artificielle, Mars 2018. En ligne : https://www.aiforhumanity.fr/pdfs/MissionVillani_Vulgarisation_FR-VF.pdf
+[^10]: *Qu’est-ce que l’intelligence artificielle ?* Mission Villani sur l’intelligence artificielle, Mars 2018. En ligne : https://www.aiforhumanity.fr/pdfs/MissionVillani_Vulgarisation_FR-VF.pdf
 
 [^11]: Thomas Berns, Gouverner sans gouverner : une archéologie politique de la statistique. Paris : PUF, 2009.
 
