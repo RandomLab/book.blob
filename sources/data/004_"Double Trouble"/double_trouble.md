@@ -1,6 +1,7 @@
 ---
 title: Double Trouble
 authors: Alain Barthélémy
+runningTitle: Double Trouble
 ---
 
 <span class="decoration"> </span>
