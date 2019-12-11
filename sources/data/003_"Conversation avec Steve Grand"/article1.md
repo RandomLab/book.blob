@@ -1,6 +1,7 @@
 ---
 title: Conversation avec Steve Grand
 authors: Alix Desaubliaux
+runningTitle: Steve Brand
 ---
 
 ##### Développeur du jeu *Creatures* et fondateur de *Cyberlife Research*, Steve Grand vit et travaille en Arizona. Autodidacte, il passe six années à expérimenter les réseaux neuronaux, les organismes évolutifs et l’intelligence artificielle afin de simuler l’évolution et l’activité cérébrale par ordinateur en Angleterre, où il fut gratifié d’un doctorat honorifique de l’Open University d’Angleterre, devenant ainsi membre de l’ordre des chevaliers de la Reine. Il structure et développe *Creatures*, un jeu de simulation de vie artificielle prenant place sur la planète Albia où le joueur est confronté à la tâche d’élever avec des Norns, créatures bipèdes pouvant interagir avec leur environnement, et devant vivre, apprendre et parler au sein d’un écosystème entièrement simulé. Les enzymes, les réactions chimiques, les neurones, l’ADN et les gènes des créatures, l’activité neuronale et les systèmes d’apprentissage sont accessibles au joueur, qui est chargé de la lourde responsabilité de leur apprentissage et leur maintient physiologique. Le premier opus sorti en 1996 et la dernière version du dernier épisode, *Creatures Exodus*, fut réalisé en 2004.
