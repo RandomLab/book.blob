@@ -294,7 +294,7 @@ blockquote, blockquote p{
 }
 
 /* specific style */
-section[data-id="interview-with-steve-grand"] blockquote{
+section[data-id="conversation-avec-steve-grand"] blockquote, section[data-id="conversation-avec-an-mertens"] blockquote{
   font-weight: bold;
 }
 
