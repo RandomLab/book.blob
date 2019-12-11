@@ -1,4 +1,4 @@
 ---
-title: rnn
-authors: Jérémie
+title: Nothing wild in particular
+authors: Jérémie Nuel
 ---
