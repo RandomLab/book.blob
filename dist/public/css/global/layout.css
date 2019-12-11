@@ -81,8 +81,8 @@
 
     /*  running header (book title)
         way 2 : copy an HTML element into running header, don't keep HTML and style  */
-    h2 { string-set: chapTitle content(text); }
 
+    .runningTitle { string-set: chapTitle content(text); }
 
     /* PAGE BREAKS --------------------------------------------------------------------- */
 
