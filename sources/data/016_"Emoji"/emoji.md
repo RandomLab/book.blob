@@ -1,4 +1,4 @@
 ---
-title: Emoji
+title: U+1F355
 authors: Nicolas Frespech
 ---

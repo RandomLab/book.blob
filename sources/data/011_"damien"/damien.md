@@ -1,4 +1,4 @@
 ---
-title: damien
-authors: damien
+title: Coco's memories
+authors: Damien Baïs
 ---
