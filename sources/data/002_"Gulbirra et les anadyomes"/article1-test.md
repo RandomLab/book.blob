@@ -1,9 +1,8 @@
 ---
 title: Gulbirra et les anadyomes
 authors: Alix Desaubliaux
+runningTitle: Gulbirra et les anadyomes
 ---
-
-<span class="decoration"> </span>
 
 Alors que mon avatar se réveille pour la première fois sur la plage au milieu des ronflements nasiques des parasaures, il se découvre un implant inséré dans l’avant-bras directement planté dans la chair. Le soleil brûle tandis que des roucoulements des dodos et le bruit des vagues symphonisent une bande-son triassique. Il ne tarde pas à se faire dévorer par un dilophosaure sifflant qui commence par lui cracher au visage un mucus verdâtre qui occulte son champ de vision avant de mourir.
 
