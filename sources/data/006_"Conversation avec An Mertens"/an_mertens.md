@@ -1,10 +1,8 @@
-﻿---
+---
 title: Conversation avec An Mertens
 authors: An Mertens avec Maëva Borg, Anna Diop-Dubois et Jérémie Nuel
+runningTitle: An Mertens
 ---
-
-<span class="decoration"> </span>
-<span class="decoration"> </span>
 
 An Mertens est artiste, auteure et membre active de Constant, une association sans but lucratif gérée par des artistes, basée à Bruxelles depuis 1997 et active dans les domaines de l’art, des médias et de la technologie. Constant développe, questionne et expérimente, avec comme point de départ les féminismes, le copyleft, les logiciels Free/Libre + Open Source. Par conséquent, les pratiques artistiques numériques développées par Constant sont souvent collectives. 
 
