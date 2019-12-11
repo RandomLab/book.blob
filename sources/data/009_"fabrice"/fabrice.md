@@ -41,12 +41,12 @@ La série de drapeaux *Bien mieux que les humains par tous les moyens possibles*
 
 [^8]: Sylvain Piron, *L’Occupation du monde*, Zones sensibles, 2018.
 
-[^9]: W.J.T. Mitchell qualifie la position philosophique du totem d’animiste ou vitaliste. W.J.T. Mitchell, *Que veulent les images ? Une critique de la culture visuelle*, Paris, Les presses du réel, 2014.
+[^9]: W.J.T. Mitchell qualifie la position philosophique du totem d’animiste ou vitaliste. W.J.T. Mitchell, *Que veulent les images ? Une critique de la culture visuelle*, Les presses du réel, 2014.
 
-[^10]: *Qu’est-ce que l’intelligence artificielle ?* Mission Villani sur l’intelligence artificielle, Mars 2018. En ligne : https://www.aiforhumanity.fr/pdfs/MissionVillani_Vulgarisation_FR-VF.pdf
+[^10]: Mission Villani sur l’intelligence artificielle, *Qu’est-ce que l’intelligence artificielle ? : Livret de vulgarisation*, 2018. En ligne : https://www.aiforhumanity.fr/pdfs/MissionVillani_Vulgarisation_FR-VF.pdf
 
-[^11]: Thomas Berns, Gouverner sans gouverner : une archéologie politique de la statistique. Paris : PUF, 2009.
+[^11]: Thomas Berns, *Gouverner sans gouverner : une archéologie politique de la statistique*, PUF, 2009.
 
 [^12]: Parmi lesquel.le.s Antonio Casilli, Dominique Cardon, Fredric Jameson, Antoinette Rouvroy, Thomas Berns, Jean-Gabriel Ganascia et Eric Sadin.
 
-[^13]: W.J.T. Mitchell s’intéresse aux totems comme « un type de relation aux choses » et écrit que « totems, fétiches et idoles sont finalement des choses qui veulent quelque chose, qui demandent, désirent ou exigent quelque chose ». W.J.T. Mitchell, Que veulent les images ? Une critique de la culture visuelle. Paris : les Presses du réel, 2014.
+[^13]: W.J.T. Mitchell s’intéresse aux totems comme « un type de relation aux choses » et écrit que « totems, fétiches et idoles sont finalement des choses qui veulent quelque chose, qui demandent, désirent ou exigent quelque chose ». W.J.T. Mitchell, *op. cit.*, 2014.
