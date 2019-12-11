@@ -1,6 +1,7 @@
 ---
 title: Courriel du coeur
 authors: Ophélie Demurger, Valentin Godard
+runningTitle: Courriel du coeur
 ---
 
 <span class="decoration"> </span>
