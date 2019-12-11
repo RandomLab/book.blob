@@ -5,6 +5,10 @@
     --lineheight:20px;
 }
 
+.runningTitle{
+  display: none;
+}
+
 * {
     /*line-height: 22px;*/
     margin: 0;
@@ -84,8 +88,8 @@ p {
     text-align: left;
     font-family: 'Inknut Antiqua', sans-serif;
     /*font-style: italic;*/
-    font-size: 8pt;
-    line-height: 15px ;
+    font-size: 10pt;
+    line-height: var(--lineheight);
     text-indent: 10mm;
     margin-bottom: var(--lineheight);
 }
@@ -109,7 +113,7 @@ h2,
 h3,
 h4,
 h5 {
-    font-size: 12pt;
+    font-size: 15pt;
     font-family: 'Inknut Antiqua', sans-serif;
     font-weight: bold;
     margin-top: 0;
@@ -143,7 +147,7 @@ section[data-id="conversation-avec-jeremy-bailey"] p{
   font-weight: normal;
   hyphens: none;
   text-align: left;
-  font-size: 8.5pt;
+  font-size: 10pt;
 }
 
 section[data-id="conversation-avec-jeremy-bailey"] blockquote > p{
@@ -151,7 +155,7 @@ section[data-id="conversation-avec-jeremy-bailey"] blockquote > p{
   font-weight: bold;
   color: black;
   -webkit-text-stroke-width : 0;
-  font-size: 12pt;
+  font-size: 15pt;
   text-transform: uppercase;
   word-spacing: normal;
   text-align: center;
@@ -172,7 +176,7 @@ h6, pre, code{
   font-weight: normal;
   hyphens: auto;
   text-align: center;
-  font-size: 8.5pt;
+  font-size: 10pt;
   line-height: var(--lineheight);
   margin-bottom: var(--lineheight);
 }
@@ -335,7 +339,7 @@ section[data-id="courriel-du-coeur"] h6 + section[data-id="courriel-du-coeur"] h
   text-indent: 0;
   width: 100%;
   height: var(--lineheight);
-  font-size: 12pt;
+  font-size: 15pt;
   font-family: 'Inknut Antiqua', sans-serif;
   font-weight: bold;
   line-height: var(--lineheight);
@@ -349,6 +353,15 @@ section[data-id="gurb"] img{
   width: 100%;
   height: auto;
   page-break-before: always;
+}
+
+section[data-id="mutations,-algorithme-génétique-(426-générations)"] pre, section[data-id="mutations,-algorithme-génétique-(426-générations)"] code{
+  text-align: right;
+  font-family: "Roboto";
+  font-weight: 350;
+  line-height: normal;
+  font-size: 10pt;
+  width: 100%;
 }
 
 .authors{
@@ -381,7 +394,7 @@ margin-right: 0!important;
   font-family: "SpaceMonoCustom";
   font-style: italic;
   /*text-align: center;*/
-  font-size: 5.6pt;
+  font-size: 7pt;
   word-spacing: -1px;
   line-height: 11px;
   position: absolute;
