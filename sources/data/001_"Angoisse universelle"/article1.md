@@ -1,6 +1,7 @@
 ---
 title: Angoisse universelle
 authors: Valentin Godard
+runningTitle:
 ---
 
 ![](images/gurb/gurb_01.jpg)
