@@ -30,7 +30,7 @@ function footnote(page){
     //console.log($(page).find(".notes"));
     var chap = $(page).find(".subchapter").attr("data-id")
     if(chap){
-      if(chap.localeCompare("double-trouble")==0 && $(page).find(".notes").height() > $(page).find(".pagedjs_area").height()){
+      if($(page).find(".notes").height() > $(page).find(".pagedjs_area").height()){
         if($(page).hasClass("pagedjs_right_page")){
           console.log($(page))
           var num_left_page = $(page).attr("data-page-number")-1;

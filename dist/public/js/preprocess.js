@@ -38,7 +38,7 @@ var Hyphenopoly = {
 };
 
 console.log("preprocess");
-const lineheight = 15;
+const lineheight = 18;
 /* do things on the HTML doc before pagedjs */
 
 function image_container(){ // met les images dans des balises figure pour intégrer les légendes.
@@ -95,7 +95,7 @@ function hard_justify(){
         inject += '<span class=char_"'+(j)+'" aria-hidden="true">'+letters[j]+'</span>';
     }
     span.innerHTML = inject;
-    $(span).parent().addClass("authors");
+    $(span).wrap("<div class='authors'></div>");
   });
 }
 

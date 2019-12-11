@@ -4,13 +4,13 @@
 
     @page {
         --bordsperdus: 1cm;
-        --grid: 20px;
+        --grid: 18px;
         /*size: calc(120mm + var(--bordsperdus)) calc(180mm + var(--bordsperdus));*/
         size:152mm 228mm;
         /*margin-top: calc(var(--grid) * 1.5);*/
-        margin-top: 15mm;
-        margin-bottom: 20mm;
-        /*background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));*/
+        margin-top: 52px;
+        margin-bottom: 72px;
+        background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));
         /*marks: crop;
         bleed: 1cm;*/
 
@@ -24,8 +24,8 @@
     /* LEFT PAGES ---------------------------------------------------------------------- */
 
     @page :left {
-        margin-left: 20mm;
-        margin-right: 20mm;
+        margin-left: 72px;
+        margin-right: 72px;
 
         @bottom-center{
             content: counter(page);
@@ -53,8 +53,8 @@
     /* RIGHT PAGES --------------------------------------------------------------------- */
 
     @page :right {
-        margin-left: 20mm;
-        margin-right: 20mm;
+        margin-left: 72px;
+        margin-right: 72px;
 
         /* page number */
         @bottom-center {

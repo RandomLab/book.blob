@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------- */
 
 :root {
-    --lineheight:20px;
+    --lineheight: 18px;
 }
 
 .runningTitle{
@@ -88,7 +88,7 @@ p {
     text-align: left;
     font-family: 'Inknut Antiqua', sans-serif;
     /*font-style: italic;*/
-    font-size: 10pt;
+    font-size: 9pt;
     line-height: var(--lineheight);
     text-indent: 10mm;
     margin-bottom: var(--lineheight);
@@ -140,17 +140,17 @@ h2{
     hyphens: none;
 }
 
-section[data-id="conversation-avec-jeremy-bailey"] p{
+section[data-id="conversation-avec-jeremy-bailey"] p, section[data-id="conversation-avec-an-mertens"] p{
   font-family: "SpaceMonoCustom";
   font-style: italic;
-  word-spacing: -3.2px;
+  word-spacing: -3.6px;
   font-weight: normal;
   hyphens: none;
   text-align: left;
   font-size: 10pt;
 }
 
-section[data-id="conversation-avec-jeremy-bailey"] blockquote > p{
+section[data-id="conversation-avec-jeremy-bailey"] blockquote > p, section[data-id="conversation-avec-an-mertens"] blockquote > p{
   font-family: "Inknut Antiqua";
   font-weight: bold;
   color: black;
@@ -172,7 +172,7 @@ section[data-id="conversation-avec-jeremy-bailey"] blockquote > p::before{
 h6, pre, code{
   font-family: "SpaceMonoCustom";
   font-style: italic;
-  word-spacing: -3.2px;
+  word-spacing: -3.6px;
   font-weight: normal;
   hyphens: auto;
   text-align: center;
@@ -228,7 +228,7 @@ p + h3{
     vertical-align: super;
     line-height: 0;
     font-family: "space mono";
-    font-size: 6pt;
+    font-size: 7pt;
 
 }
 
@@ -361,6 +361,7 @@ section[data-id="mutations,-algorithme-génétique-(426-générations)"] pre, se
   font-weight: 350;
   line-height: normal;
   font-size: 10pt;
+  font-style: normal;
   width: 100%;
 }
 
@@ -372,8 +373,9 @@ margin-right: 0!important;
 .author{
   font-style: normal;
   font-weight: normal;
-  /* display: flex; */
-  /* justify-content: space-around; */
+  line-height: var(--lineheight);
+  display: flex;
+  justify-content: space-around;
   font-family: "space mono";
   /* font-size: 10.5pt; */
   text-align: center;
@@ -390,13 +392,13 @@ margin-right: 0!important;
 
 .note{
   display: block;
-  text-indent: -9px;
+  text-indent: -11px;
   font-family: "SpaceMonoCustom";
   font-style: italic;
   /*text-align: center;*/
   font-size: 7pt;
   word-spacing: -1px;
-  line-height: 11px;
+  line-height: 12px;
   position: absolute;
 }
 
