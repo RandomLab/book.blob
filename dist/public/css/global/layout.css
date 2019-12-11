@@ -141,9 +141,9 @@
     /* NAMED PAGE (chapter) ------------------------------------------------------------ */
 
     .chapter { page: chapter; }
-
-    @page chapter :first {
-        @top-right { content: none; }
+    .subchapter { page: subchapter; }
+    @page subchapter :first {
+        @bottom-right-corner { content: none; }
     }
 
 
