@@ -114,11 +114,6 @@ function no_hyphen_last_word(){
   });
 }
 
-function specific_size(){
-  $(document).find('img[src$="images/Idontknowmyself.png"]').height(195);
-
-}
-
 $(document).ready(function(){
   image_container();
   hard_justify();

@@ -127,10 +127,9 @@
 
     @page :blank {
 
-        @top-left-corner { content: none; }
-        @top-left { content: none; }
-        @top-right-corner { content: none; }
-        @top-right { content: none; }
+        @bottom-right-corner{
+          content:none;
+        }
 
     }
 
