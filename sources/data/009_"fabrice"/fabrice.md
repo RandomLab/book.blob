@@ -1,6 +1,7 @@
 ---
 title: Des choses qui attendent de nous : totems et intelligences artificielles
 authors: Fabrice Sabatier (.CORP)
+runningTitle: Des choses qui attendent ...
 ---
 
 ## Une lecture de deux pièces de .CORP
