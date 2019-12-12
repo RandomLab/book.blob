@@ -13,25 +13,9 @@ class MakeChapitres {
         const title = this.makeTitle(name, ' ');
         const id = this.makeTitle(name, '-');
 
-        /*const section = `<section id="${id}" class="chapter" data-chapter="${this.chapNum}">
-        <h1>${title}</h1></section>`;*/
-
         const section = `<section id="${id}" class="chapter" data-chapter="${this.chapNum}"></section>`;
-        //const section = ""
         return section;
     }
-
-
-    // private getChapitreNum(name: string): string {
-    //     try {
-    //         const re = /^([0-9]+)/g;
-    //         const data = name.match(re);
-    //         const numero = data[0];
-    //         return numero;
-    //     } catch (e) {
-    //         console.log(e);
-    //     }
-    // }
 
     private getChapitreName(name: string): string[] {
         const re = /".*?"/g;
@@ -44,7 +28,6 @@ class MakeChapitres {
         const str = data.join(separator).replace(re, '');
         return str;
     }
-
 }
 
 export default MakeChapitres;

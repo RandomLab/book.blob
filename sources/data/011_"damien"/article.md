@@ -1,5 +1,5 @@
 ---
 title: Coco's memories
 authors: Damien Baïs
-runningTitle:
+runningTitle: coco's memories
 ---

@@ -22,17 +22,19 @@ class Html {
     public showdown = require('showdown');
 
 
-    public converter = new this.showdown.Converter({ extensions: [this.footnote], metadata: true});
+    public converter = new this.showdown.Converter(
+        { headerLevelStart : 2,
+          metadata: true,
+          extensions: [this.footnote],
+          noHeaderId : true } ,
+        );
+    public metadata:object = {};
     private srcFolder: string;
 
     constructor(private chapitres: string[]) {
-        //console.log(this.showdown.extension('footnote',this.footnote));
-        //this.showdown.extensions('footnote',this.footnote);
-
         this.chapitres = chapitres;
         this.converter.setOption('noHeaderId', 'true');
         this.converter.setFlavor('github');
-
         this.srcFolder = path.join(__dirname + '../../sources/');
     }
 
@@ -45,7 +47,6 @@ class Html {
         const colophon: string = this.colophon();
         const footer: string = this.footer();
         const result = head.concat(cover + toc + introduction + body + colophon + footer);
-        // console.log(result)
         return result;
     }
 
@@ -72,8 +73,6 @@ class Html {
             if (parsedName) {
                 return parsedName.trim();
             }
-            //console.log(this.converter.getMetadata())
-            //return this.converter.getMetadata().title
         } catch (e) {
             console.log(e);
         }
@@ -126,6 +125,16 @@ class Html {
         return footer;
     }
 
+
+
+    private getMetadataFromMd(folder: string): { title: string; authors: string; runningTitle: string } {
+        const md: string = fs.readFileSync(this.srcFolder + 'data/' + folder + '/article.md', 'utf8');
+        this.converter.makeHtml(md);
+        const metadata = this.converter.getMetadata()
+        return metadata;
+ 
+    } 
+
     private toc(): string {
 
         const introduction: string = fs.readFileSync(this.srcFolder + 'preface.md', 'utf8');
@@ -137,10 +146,13 @@ class Html {
         const liste: string[] = [];
 
         for (const c of this.chapitres) {
+            const meta = this.getMetadataFromMd(c);
+            console.log(meta.title)
             const name = this.getChapitreName(c);
             const title = this.makeTitle(name, ', ');
             const id = this.makeTitle(name, '-');
-            const chapitre = `<li class="chap"><a href="#${id}">${title}</a></li>`;
+            const chapitre = `<li class="chap"><a href="#${id}">${meta.title}</a></li>`;
+            // const chapitre = `<li class="chap">test</a>`;
             liste.push(chapitre);
         }
 
