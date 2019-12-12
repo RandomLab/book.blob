@@ -147,7 +147,7 @@ class Html {
 
         for (const c of this.chapitres) {
             const meta = this.getMetadataFromMd(c);
-            console.log(meta.title)
+            // console.log(meta.title)
             const name = this.getChapitreName(c);
             const title = this.makeTitle(name, ', ');
             const id = this.makeTitle(name, '-');
