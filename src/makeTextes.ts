@@ -41,6 +41,13 @@ class MakeTextes {
             const chapitre = this.textId(metadata.title);
             let section = `<section id="${chapitre}" class="subchapter">`;
             let title = `<h2>${metadata.title}</h2>`
+            let runningTitle = ""
+            console.log(metadata.runningTitle)
+            if (metadata.runningTitle) {
+              runningTitle = `<span class="runningTitle">${metadata.runningTitle}</span>`
+            }else{
+              runningTitle = `<span class="runningTitle"></span>`
+            }
 
             //let test = this.insertNum(html, indexArticle);
             //section = section.concat(test);
@@ -53,6 +60,7 @@ class MakeTextes {
                   section = section.concat(authorspan)
               }
             }
+            section = section.concat(runningTitle)
             section = section.concat(html)
             section = section.concat(`</section>`);
             return section;

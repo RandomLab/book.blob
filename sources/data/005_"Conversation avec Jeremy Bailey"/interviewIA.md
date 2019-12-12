@@ -1,6 +1,7 @@
 ---
 title: Conversation avec Jeremy Bailey
 authors: Ophélie Demurger
+runningTitle: Jeremy Bailey
 ---
 
 ![Amazon Echo Gag](images/amazonEchoGag.jpg)

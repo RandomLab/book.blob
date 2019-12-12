@@ -4,13 +4,13 @@
 
     @page {
         --bordsperdus: 1cm;
-        --grid: 15px;
+        --grid: 18px;
         /*size: calc(120mm + var(--bordsperdus)) calc(180mm + var(--bordsperdus));*/
         size:152mm 228mm;
         /*margin-top: calc(var(--grid) * 1.5);*/
-        margin-top: 15mm;
-        margin-bottom: 15mm;
-        /*background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));*/
+        margin-top: 52px;
+        margin-bottom: 72px;
+        background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));
         /*marks: crop;
         bleed: 1cm;*/
 
@@ -24,8 +24,8 @@
     /* LEFT PAGES ---------------------------------------------------------------------- */
 
     @page :left {
-        margin-left: 20mm;
-        margin-right: 20mm;
+        margin-left: 72px;
+        margin-right: 72px;
 
         @bottom-center{
             content: counter(page);
@@ -53,8 +53,8 @@
     /* RIGHT PAGES --------------------------------------------------------------------- */
 
     @page :right {
-        margin-left: 20mm;
-        margin-right: 20mm;
+        margin-left: 72px;
+        margin-right: 72px;
 
         /* page number */
         @bottom-center {
@@ -71,18 +71,18 @@
           content: string(chapTitle);
           font-family: "Space Mono";
           font-size: 8pt;
-          right: 10mm;
+          right: 8mm;
           position: absolute;
-          bottom: 9mm;
+          bottom: 8mm;
           text-align: right;
-          width: 50mm;
+          width: 70mm;
         }
     }
 
     /*  running header (book title)
         way 2 : copy an HTML element into running header, don't keep HTML and style  */
-    h2 { string-set: chapTitle content(text); }
 
+    .runningTitle { string-set: chapTitle content(text); }
 
     /* PAGE BREAKS --------------------------------------------------------------------- */
 
@@ -106,6 +106,10 @@
 
     .chapter {
         break-before: left;
+    }
+
+    img{
+      filter: grayscale(100%);
     }
 
     figure {
@@ -137,9 +141,9 @@
     /* NAMED PAGE (chapter) ------------------------------------------------------------ */
 
     .chapter { page: chapter; }
-
-    @page chapter :first {
-        @top-right { content: none; }
+    .subchapter { page: subchapter; }
+    @page subchapter :first {
+        @bottom-right-corner { content: none; }
     }
 
 

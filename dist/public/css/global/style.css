@@ -2,7 +2,11 @@
 --------------------------------------------------------------------------------------------------------- */
 
 :root {
-    --lineheight:20px;
+    --lineheight: 18px;
+}
+
+.runningTitle{
+  display: none;
 }
 
 * {
@@ -84,8 +88,8 @@ p {
     text-align: left;
     font-family: 'Inknut Antiqua', sans-serif;
     /*font-style: italic;*/
-    font-size: 8pt;
-    line-height: 15px ;
+    font-size: 9pt;
+    line-height: var(--lineheight);
     text-indent: 10mm;
     margin-bottom: var(--lineheight);
 }
@@ -109,7 +113,7 @@ h2,
 h3,
 h4,
 h5 {
-    font-size: 12pt;
+    font-size: 15pt;
     font-family: 'Inknut Antiqua', sans-serif;
     font-weight: bold;
     margin-top: 0;
@@ -136,22 +140,22 @@ h2{
     hyphens: none;
 }
 
-section[data-id="conversation-avec-jeremy-bailey"] p{
+section[data-id="conversation-avec-jeremy-bailey"] p, section[data-id="conversation-avec-an-mertens"] p{
   font-family: "SpaceMonoCustom";
   font-style: italic;
-  word-spacing: -3.2px;
+  word-spacing: -3.6px;
   font-weight: normal;
   hyphens: none;
   text-align: left;
-  font-size: 8.5pt;
+  font-size: 10pt;
 }
 
-section[data-id="conversation-avec-jeremy-bailey"] blockquote > p{
+section[data-id="conversation-avec-jeremy-bailey"] blockquote > p, section[data-id="conversation-avec-an-mertens"] blockquote > p{
   font-family: "Inknut Antiqua";
   font-weight: bold;
   color: black;
   -webkit-text-stroke-width : 0;
-  font-size: 12pt;
+  font-size: 15pt;
   text-transform: uppercase;
   word-spacing: normal;
   text-align: center;
@@ -168,11 +172,11 @@ section[data-id="conversation-avec-jeremy-bailey"] blockquote > p::before{
 h6, pre, code{
   font-family: "SpaceMonoCustom";
   font-style: italic;
-  word-spacing: -3.2px;
+  word-spacing: -3.6px;
   font-weight: normal;
   hyphens: auto;
   text-align: center;
-  font-size: 8.5pt;
+  font-size: 10pt;
   line-height: var(--lineheight);
   margin-bottom: var(--lineheight);
 }
@@ -224,7 +228,7 @@ p + h3{
     vertical-align: super;
     line-height: 0;
     font-family: "space mono";
-    font-size: 6pt;
+    font-size: 7pt;
 
 }
 
@@ -294,7 +298,7 @@ blockquote, blockquote p{
 }
 
 /* specific style */
-section[data-id="interview-with-steve-grand"] blockquote{
+section[data-id="conversation-avec-steve-grand"] blockquote, section[data-id="conversation-avec-an-mertens"] blockquote{
   font-weight: bold;
 }
 
@@ -335,7 +339,7 @@ section[data-id="courriel-du-coeur"] h6 + section[data-id="courriel-du-coeur"] h
   text-indent: 0;
   width: 100%;
   height: var(--lineheight);
-  font-size: 12pt;
+  font-size: 15pt;
   font-family: 'Inknut Antiqua', sans-serif;
   font-weight: bold;
   line-height: var(--lineheight);
@@ -351,6 +355,16 @@ section[data-id="gurb"] img{
   page-break-before: always;
 }
 
+section[data-id="mutations,-algorithme-génétique-(426-générations)"] pre, section[data-id="mutations,-algorithme-génétique-(426-générations)"] code{
+  text-align: right;
+  font-family: "Roboto";
+  font-weight: 350;
+  line-height: normal;
+  font-size: 10pt;
+  font-style: normal;
+  width: 100%;
+}
+
 .authors{
 width: 100% !important;
 margin-left: 0!important;
@@ -359,8 +373,9 @@ margin-right: 0!important;
 .author{
   font-style: normal;
   font-weight: normal;
-  /* display: flex; */
-  /* justify-content: space-around; */
+  line-height: var(--lineheight);
+  display: flex;
+  justify-content: space-around;
   font-family: "space mono";
   /* font-size: 10.5pt; */
   text-align: center;
@@ -377,13 +392,13 @@ margin-right: 0!important;
 
 .note{
   display: block;
-  text-indent: -9px;
+  text-indent: -11px;
   font-family: "SpaceMonoCustom";
   font-style: italic;
   /*text-align: center;*/
-  font-size: 5.6pt;
+  font-size: 7pt;
   word-spacing: -1px;
-  line-height: 11px;
+  line-height: 12px;
   position: absolute;
 }
 
