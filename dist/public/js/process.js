@@ -32,22 +32,29 @@ function footnote(page){
     if(chap){
       if($(page).find(".notes").height() > $(page).find(".pagedjs_area").height()){
         if($(page).hasClass("pagedjs_right_page")){
-          console.log($(page))
+          //console.log($(page))
           var num_left_page = $(page).attr("data-page-number")-1;
-          console.log(num_left_page);
+          //console.log(num_left_page);
           var left_page = $("#page-"+num_left_page.toString());
-          console.log(left_page);
-          new_note = $("<span class=note></span>")
+          //console.log(left_page);
+          var new_note = $("<span class='note'></span>")
+          var i = 0;
 
           while($(page).find(".notes").height() > $(page).find(".pagedjs_area").height()+lineheight){
             //console.log($(page).find(".notes").children(":first"));
-            words = $(page).find(".notes").children(":first").text().split(" ");
+            var first_note = $(page).find(".notes").children()[i]
+            var words = $(first_note).text().split(" ");
             var word_to_move = words[0];
-            $(page).find(".notes").children(":first").text(words.slice(1).join(" "));
+            $(first_note).text(words.slice(1).join(" "));
             //console.log(word_to_move);
 
-            new_note_text = new_note.text() + word_to_move + " "
+            var new_note_text = new_note.text() + word_to_move + " "
             new_note.text(new_note_text)
+
+            if (words.length == 1){
+              i ++;
+              $(notesOverflow).append("<span class='note'></span>")
+            }
           }
           console.log(new_note)
           if(left_page.find(".notes").length > 0){
@@ -55,6 +62,28 @@ function footnote(page){
           }else{
             left_page.find(".subchapter").append("<span class=notes>"+new_note[0].outerHTML+"</span>")
           }
+        }
+
+        if($(page).hasClass("pagedjs_left_page") && $(page).find(".notes").height() > $(page).find(".pagedjs_area").height()+lineheight){
+          var notesOverflow = $("<span class='notesOverflow'></span>");
+
+          $(notesOverflow).append("<span class='note'></span>")
+          var i = 0;
+
+          while($(page).find(".notes").height() > $(page).find(".pagedjs_area").height()+lineheight){
+            var first_note = $(page).find(".notes").children()[i]
+            var words = $(first_note).text().split(" ");
+            var word_to_move = words[0];
+            $(first_note).text(words.slice(1).join(" "));
+            console.log($(notesOverflow).children()[i]);
+            var notesOverflow_text = $(notesOverflow.children()[i]).text() + word_to_move + " "
+            $(notesOverflow.children()[i]).text(notesOverflow_text)
+            if (words.length == 1){
+              i ++;
+              $(notesOverflow).append("<span class='note'></span>")
+            }
+          }
+          $(page).find(".subchapter").append(notesOverflow)
         }
       }
     }

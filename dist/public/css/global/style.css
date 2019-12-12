@@ -369,6 +369,7 @@ section[data-id="mutations,-algorithme-génétique-(426-générations)"] pre, se
 width: 100% !important;
 margin-left: 0!important;
 margin-right: 0!important;
+margin-bottom: var(--lineheight);
 }
 .author{
   font-style: normal;
@@ -390,6 +391,13 @@ margin-right: 0!important;
   height: fit-content;
 }
 
+.notes > .note{
+  position: relative;
+}
+.notesOverflow > .note{
+  position: relative;
+}
+
 .note{
   display: block;
   text-indent: -11px;
@@ -402,9 +410,8 @@ margin-right: 0!important;
   position: absolute;
 }
 
-
-.notes .note{
-  position: relative;
+.note + .note {
+  margin-top: 12px;
 }
 
 .hard_page_break{
