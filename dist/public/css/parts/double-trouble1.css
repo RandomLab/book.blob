@@ -56,8 +56,11 @@ section[data-id="double-trouble"] .full-page{
   justify-content: center;
 }
 
-section[data-id="double-trouble"] #note_12{
-  margin-bottom: 354px;
+section[data-id="double-trouble"] .notesOverflow{
+  position: absolute;
+  width: 22%;
+  left: 50%;
+  bottom: 0;
 }
 
 /*
@@ -77,8 +80,3 @@ section[data-id="double-trouble"] blockquote > p ::after{
   -webkit-text-stroke-color: black;
   color: white;
 }*/
-@page :nth(70){
-    img{
-      max-height: 195px;
-    }
-}
