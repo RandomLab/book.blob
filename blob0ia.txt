@@ -1,0 +1,103 @@
+État du sommaire :
+
+Ce que j'ai : 
+
+	1. Angoisse universelle : taille des textes + différences d'épaisseur de trait entre les strips, une introduction ?
+	1. Gulbirra et les anadyomes : emphases ?
+	1. interview Steve Grand : version FR plz !!! Icono de son travail ?
+	1. Courriel du coeur : emphases ? saut de lignes précis ? 
+	1. Double Trouble : un chouille trop de note à un endroit... tailles images. 
+	1. interview Jeremy Bailey : version FR plz !!!, une introduction ?
+
+Ce que je viens de recevoir, en cour de traitement :
+
+Fabien Zocco
+Fabrice Sabatier
+
+Ce que je n'ai pas et est-ce que je l'aurais un jour ?
+
+	1. entretien Marion Balac bérénice
+	1. BD Lorène 
+	1. Kévin > Hollowgarchy$$
+	1. Nicolas Frespech > emoji U+1F355  une création dans ce type là 
+http://frespech.com/art/codepoetry001.php?$%E2%9D%A4=%F0%9F%92%94 autour des if else etc ... 
+	1. Guillaume Seyller > red redemption
+	1. Dol -> Brainiac
+	1. Damien (couleur ?)
+	1. Jérémie > texte rnn
+
+
+---------------------------------
+édition
+---------------------------------
+
+Traduction française / anglaise
+
+couleur
+n/b
+
+Version de livre :
+- anglais
+- français
+
+http://www.lulu.com/create/books
+
+Ligne de produit: Livre à couverture souple premium
+Reliure: Livre à couverture souple en dos carré collé
+Format du produit: Roman (6x9) 15.24 x 22.86 cm
+Intérieur Couleur: Noir & Blanc
+Qualité du papier: 89 g/m²
+Fini de couverture: Brillant
+Origine de l'expédition: Mondial
+
+papier crème
+
+compte lulu : 
+random@esadse.fr
+!77BS.F#yJD7vWu
+
+------------------------------------
+développement workflow
+------------------------------------
++ style pour passer les images en noir et blanc
++ nettoyer les dossiers html/js/map
+
+-------------------------------------
+web / backoffice
+-------------------------------------
+
+super utilisateur > modification
+un compte par contributeur > possibilité d'inviter
+inviter lire écrire
+room > numéro
+editeur markdown > titre, sous-titre, texte
+editeur css
+
+conversations
+https://conversations.e-flux.com/
+
+espace de discussion type forum
+nombre de votes > ajouter dans une room
+
+https://www.lowtechmagazine.com/
+
+plusieurs topics > 
+système d'invitations
+
+un numéro c'est un sujet
+
+sous chapitre 
+
+dischord / chat 
+
+raisonné un sujet
+
+https://www.futureofthebook.org/gamertheory2.0/index.html@cat=6.html
+http://readingclub.fr/
+
+--------------------------------------
+
+
+
+
+
