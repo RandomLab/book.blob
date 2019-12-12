@@ -8,8 +8,8 @@
         /*size: calc(120mm + var(--bordsperdus)) calc(180mm + var(--bordsperdus));*/
         size:152mm 228mm;
         /*margin-top: calc(var(--grid) * 1.5);*/
-        margin-top: 52px;
-        margin-bottom: 72px;
+        margin-top: 54px;
+        margin-bottom: 68px;
         background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));
         /*marks: crop;
         bleed: 1cm;*/
