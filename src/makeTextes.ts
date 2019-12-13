@@ -21,6 +21,7 @@ class MakeTextes {
     public converter = new this.showdown.Converter(
             { headerLevelStart : 2,
               metadata: true,
+              strikethrough: true,
               extensions: [this.footnote],
               noHeaderId : true } ,
             );
@@ -39,7 +40,7 @@ class MakeTextes {
             const metadata = this.converter.getMetadata();
             const chapitre = this.textId(metadata.title);
             let section = `<section id="${chapitre}" class="subchapter">`;
-            let title = `<h2>${metadata.title}</h2>`
+            let title = `<h2>${this.makeTitle(metadata.title)}</h2>`
             let runningTitle = ""
 
             if (metadata.runningTitle) {
@@ -81,6 +82,14 @@ class MakeTextes {
         } catch (e) {
             console.log(e);
         }
+    }
+
+    private makeTitle(data: string): string {
+      const htmldata = this.converter.makeHtml(data);
+      const re1 = /<p>(.+)<\/p>/g;
+      const re2 = /"/g;
+      let str = htmldata.replace(re1,"$1");
+      return str;
     }
 }
 

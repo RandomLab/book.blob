@@ -25,6 +25,10 @@ a {
     text-decoration: none;
 }
 
+del {
+  text-decoration: line-through double;
+}
+
 
 /* img {
     width: 100%;
