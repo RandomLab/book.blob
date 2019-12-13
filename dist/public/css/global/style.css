@@ -244,17 +244,6 @@ figure{
   width: 100%;
 }
 
-p img {
-    height: 135px;
-    width: auto;
-    /* padding: 3%; */
-    /*margin-top: var(--lineheight);
-    margin-bottom: var(--lineheight);*/
-    margin-left: auto;
-    margin-right: auto;
-    filter: grayscale(100%);
-}
-
 .logo img {
     width: 50%;
     /* padding: 3%; */
@@ -427,6 +416,5 @@ margin-bottom: var(--lineheight);
     }
     figure,
     figure img {
-        max-width: 500px;
     }
 }

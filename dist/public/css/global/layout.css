@@ -10,7 +10,7 @@
         /*margin-top: calc(var(--grid) * 1.5);*/
         margin-top: 54px;
         margin-bottom: 68px;
-        background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));
+        /*background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));*/
         /*marks: crop;
         bleed: 1cm;*/
 
@@ -118,7 +118,8 @@
     }
 
     figure img {
-        width: 100mm;
+        width: 100%;
+        height: auto;
     }
 
     #colophon {
