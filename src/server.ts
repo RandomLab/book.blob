@@ -5,12 +5,36 @@ import Html from './html';
 import ReadData from './readData';
 import GetData from './getData';
 import MakeChapitres from './makeChapitres';
+import CleanFiles from './cleanFiles';
 
 /* merge all html to index and serve it */
 
+const chapitresPath = '../sources/chapitres';
 const port = 8000;
 const folders = new GetData('../sources/data');
+const devChapitresFiles = new CleanFiles(chapitresPath);
 let chapNum = 0;
+
+devChapitresFiles.readMainFolder().then((items) => {
+    
+    for (const item of items) {
+        try {
+            fs.unlink(path.resolve(__dirname, `${chapitresPath}/${item}`), (err) => {
+                if (err) {
+                    console.error(err);
+                    return;
+                }
+                console.log(`file ${item} removed`);
+            });
+        } catch(err) {  
+            console.error(err);
+        }
+    }
+
+}).catch((err) => {
+    console.error(err);
+});
+
 
 folders.readMainFolder().then((items) => {
 
@@ -26,6 +50,7 @@ folders.readMainFolder().then((items) => {
                     console.error(err);
                 }
                 fs.writeFileSync(path.join(__dirname, 'index.html'), html.page());
+                console.log('all files writed!');
             });
         }).catch((err) => {
             console.log(err);

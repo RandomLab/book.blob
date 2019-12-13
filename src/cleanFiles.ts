@@ -1,9 +1,9 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
-// get the list of folders inside the data folder
+// TODO: nettoyer les fichiers html de chapitres / dist .js .map .html
 
-class GetData {
+class CleanFiles {
     private srcFolder: string;
 
     constructor( private pathToFolder: string) {
@@ -24,4 +24,4 @@ class GetData {
 
 }
 
-export default GetData;
+export default CleanFiles;

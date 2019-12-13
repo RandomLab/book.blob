@@ -41,6 +41,7 @@ class MakeTextes {
             let section = `<section id="${chapitre}" class="subchapter">`;
             let title = `<h2>${metadata.title}</h2>`
             let runningTitle = ""
+
             if (metadata.runningTitle) {
               runningTitle = `<span class="runningTitle">${metadata.runningTitle}</span>`
             }else{
@@ -69,6 +70,7 @@ class MakeTextes {
     private textId(name: string): string {
         try {
             const chapitre = name;
+            // console.log(chapitre)
             const re = /(\s)/gi;
             const str = chapitre.replace(re, '-').toLowerCase();
             if (str) {
