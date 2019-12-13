@@ -20,15 +20,12 @@ section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-arti
   margin-bottom: calc(var(--lineheight) * 2);
 }
 
-section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] img{
-  width: 100%;
-  height: auto;
+/*
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] .full-page .vertical{
+  height: 100%;
+  width: auto;
 }
-
-section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] img + img{
-  margin-top: var(--lineheight);
-}
-
+*/
 section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] blockquote{
   font-weight: bold;
   float: left;

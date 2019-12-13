@@ -4,6 +4,8 @@ authors: Damien Baïs
 runningTitle: coco's memories
 ---
 
+<div class="hard_page_break"></div>
+
 ![](images/IA_souvenir_v2/pageOf_men_result15_23_44_.png)
 
 ![](images/IA_souvenir_v2/pageOf_men_result15_25_58_.png)

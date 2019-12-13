@@ -257,6 +257,11 @@ figure{
     filter: grayscale(100%);
 }
 
+figure > img {
+    width: 100%;
+    height: auto;
+}
+
 img[alt=adapt] {
     height: var(--height);
     width: var(--width);
@@ -420,5 +425,6 @@ margin-bottom: var(--lineheight);
     }
     figure,
     figure img {
+      max-width: 500px;
     }
 }

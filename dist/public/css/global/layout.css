@@ -117,11 +117,6 @@
         /* width: 80%; */
     }
 
-    figure img {
-        width: 100%;
-        height: auto;
-    }
-
     #colophon {
         break-before: right;
         break-after: left;
