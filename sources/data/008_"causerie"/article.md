@@ -181,7 +181,7 @@ Laura paraît que Jason Dill a raison que vous ne la croyez pas !
 — Pourtant, les autres milliers d'endroits ont été torsionnés.
 Elle le fixait de toute sa vie.
 
-Ces échanges sont composés de fragments de texte générés pendant du développement d'un programme [1] : une adaptation de l'implémentation de Carlos Lara [2] d'un modèle de réseau de neurones conçu par Andrej Karpathy [3], entraîné  avec les traductions françaises de Philip K Dick et testé avec différents réglages et paramêtres. 
+Ces échanges sont composés de fragments de texte générés pendant le développement d'un programme [1] de machine learning : une adaptation de l'implémentation de Carlos Lara [2] d'un modèle de réseau de neurones conçu par Andrej Karpathy [3]. Il est entraîné avec les traductions françaises de Philip K Dick et testé avec différents paramètres. 
 
 [1](https://github.com/jeremien/character_level_LSTM)
 [1](https://github.com/LeanManager/NLP-PyTorch/blob/master/Character-Level%20LSTM%20with%20PyTorch.ipynb)
