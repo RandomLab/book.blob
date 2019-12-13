@@ -2,6 +2,9 @@
 à vérifier
 ----------
 
+> ponctuation dans le header > erreur undefined
 > pagination dans le sommaire
 > nom des dossiers
 > lien sommaire
+> qualité image n/b
+> pdf check lulu

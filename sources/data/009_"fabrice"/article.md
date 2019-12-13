@@ -1,5 +1,5 @@
 ---
-title: Des choses qui attendent de nous ; totems et intelligences artificielles
+title: "Des choses qui attendent de nous : totems et intelligences artificielles"
 authors: Fabrice Sabatier (.CORP)
 runningTitle: Des choses qui attendent ...
 ---

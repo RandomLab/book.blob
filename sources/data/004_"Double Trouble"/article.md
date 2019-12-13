@@ -87,7 +87,7 @@ Cette confrontation avec les projections, se verra détaillée dans l’intrigue
 
 
 ![I don’t know myself (extrait du Solaris d’Andrei Tarkovski)](images/Idontknowmyself.png =300x190)
-<figcaption>*I don’t know myself*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption>
+<!-- <figcaption>*I don’t know myself*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption> -->
 
 
 [^11]: "Quand le «&#8239;je&#8239;» cherche à se définir, il peu commencer par lui-même, mais il découvrira que ce soi est déjà impliqué dans une temporalité sociale qui excède ses propres capacités de narration" Le récit de soi, Judith Butler, p7, Presses Universitaires de France, Paris, 2007
