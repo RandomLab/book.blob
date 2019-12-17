@@ -4,19 +4,28 @@ authors: Damien Baïs
 runningTitle: coco's memories
 ---
 
-![](images/IA_souvenir_v2/pageOf_men_result15_23_44_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_25_58_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_27_5_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_28_12_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_29_19_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_30_27_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_31_35_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_32_41_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_33_49_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_34_56_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_36_8_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_37_20_.png)
-![](images/IA_souvenir_v2/pageOf_men_result15_38_32_.png)
-![](images/IA_souvenir_v2/pageOf_menresult15_24_51_.png)
-![](images/IA_souvenir_v2/pageOf_women_result16_4_30_.png)
-![](images/IA_souvenir_v2/pageOf_women_result16_5_36_.png)
+<div class="hard_page_break"></div>
+
+![](images/IA-souvenir/pageOf_banana.png)
+
+![](images/IA-souvenir/pageOf_cat.png)
+
+![](images/IA-souvenir/pageOf_dog.png)
+
+![](images/IA-souvenir/pageOf_food.png)
+
+![](images/IA-souvenir/pageOf_woman.png)
+
+![](images/IA-souvenir/pageOf_man.png)
+
+![](images/IA-souvenir/pageOf_plane.png)
+
+![](images/IA-souvenir/pageOf_sign.png)
+
+![](images/IA-souvenir/pageOf_traffic.png)
+
+![](images/IA-souvenir/pageOf_train.png)
+
+![](images/IA-souvenir/pageOf_truck.png)
+
+![](images/IA-souvenir/pageOf_zebra.png)

@@ -1,45 +1,42 @@
 
-section[data-id="undefined"] h2 + p {
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] h2 + p {
  width: 100%;
 }
 
-section[data-id="undefined"] > p{
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] > p{
   width: 74%;
   text-indent: 0;
   text-align: justify;
   /*font-size: 7.5pt;*/
 }
 
-section[data-id="undefined"] .notes{
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] .notes{
   bottom: 0;
   right: 0;
   width: 22%;
 }
 
-section[data-id="undefined"] figure{
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] figure{
   margin-bottom: calc(var(--lineheight) * 2);
 }
 
-section[data-id="undefined"] img{
-  width: 100%;
-  height: auto;
+/*
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] .full-page .vertical{
+  height: 100%;
+  width: auto;
 }
-
-section[data-id="undefined"] img + img{
-  margin-top: var(--lineheight);
-}
-
-section[data-id="undefined"] blockquote{
+*/
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] blockquote{
   font-weight: bold;
   float: left;
   margin-bottom: calc(var(--lineheight) * 2);
 }
 
-section[data-id="undefined"] blockquote > p{
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] blockquote > p{
   margin-bottom: 0;
 }
 
-section[data-id="undefined"] cite, figcaption{
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] cite, figcaption{
   display: block;
   font-family: "SpaceMonoCustom";
   font-weight: normal;
@@ -49,7 +46,7 @@ section[data-id="undefined"] cite, figcaption{
   line-height: var(--lineheight);
 }
 
-section[data-id="undefined"] .full-page{
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] .full-page{
   height: 100%;
   display: flex;
   flex-direction: column;

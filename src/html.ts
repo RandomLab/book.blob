@@ -25,6 +25,7 @@ class Html {
     public converter = new this.showdown.Converter(
         { headerLevelStart : 2,
           metadata: true,
+          strikethrough: true,
           extensions: [this.footnote],
           noHeaderId : true } ,
         );
@@ -99,10 +100,29 @@ class Html {
         return data;
     }
 
-    private makeTitle(data: string[], separator: string): string {
-        const re = /"/g;
-        const str = data.join(separator).replace(re, '');
+    private makeTitle(data: string, separator: string): string {
+        const htmldata = this.converter.makeHtml(data);
+        const re1 = /<p>(.+)<\/p>/g;
+        const re2 = /"/g;
+        let str = htmldata.replace(re1,"$1")
+        //str = str.join(separator).replace(re2, '');
         return str;
+    }
+
+    private textId(name: string): string {
+        try {
+            const chapitre = name;
+            // console.log(chapitre)
+            const re = /(\s)/gi;
+            const str = chapitre.replace(re, '-').toLowerCase();
+            if (str) {
+                return str;
+            } else {
+                return name;
+            }
+        } catch (e) {
+            console.log(e);
+        }
     }
 
     private head(): string {
@@ -132,8 +152,8 @@ class Html {
         this.converter.makeHtml(md);
         const metadata = this.converter.getMetadata()
         return metadata;
- 
-    } 
+
+    }
 
     private toc(): string {
 
@@ -148,10 +168,11 @@ class Html {
         for (const c of this.chapitres) {
             const meta = this.getMetadataFromMd(c);
             // console.log(meta.title)
-            const name = this.getChapitreName(c);
-            const title = this.makeTitle(name, ', ');
-            const id = this.makeTitle(name, '-');
-            const chapitre = `<li class="chap"><a href="#${id}">${meta.title}</a></li>`;
+            const title = this.makeTitle(meta.title, ', ');
+            const name = this.getChapitreName(meta.title);
+            const id = this.textId(meta.title);
+
+            const chapitre = `<li class="chap"><a href="#${id}">${title}</a></li>`;
             // const chapitre = `<li class="chap">test</a>`;
             liste.push(chapitre);
         }

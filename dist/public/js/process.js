@@ -106,9 +106,11 @@ function image_pleine_page(page){
 
 function image_sur_grille(page,breakToken){
   var images = $(page).find("img");
-  for(var i = 0; i < images.length ; i++){
-    console.log(breakToken);
-    console.log(images[i]);
-    images[i].style.height = (Math.round(images[i].height / lineheight)*lineheight) + "px";
+  if ($(images).parent().hasClass("full-page") == false){
+    for(var i = 0; i < images.length ; i++){
+      console.log(breakToken);
+      console.log(images[i]);
+      images[i].style.height = (Math.round(images[i].height / lineheight)*lineheight) + "px";
+    }
   }
 }

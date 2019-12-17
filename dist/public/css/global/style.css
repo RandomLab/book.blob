@@ -25,6 +25,10 @@ a {
     text-decoration: none;
 }
 
+del {
+  text-decoration: line-through double;
+}
+
 
 /* img {
     width: 100%;
@@ -244,17 +248,6 @@ figure{
   width: 100%;
 }
 
-p img {
-    height: 135px;
-    width: auto;
-    /* padding: 3%; */
-    /*margin-top: var(--lineheight);
-    margin-bottom: var(--lineheight);*/
-    margin-left: auto;
-    margin-right: auto;
-    filter: grayscale(100%);
-}
-
 .logo img {
     width: 50%;
     /* padding: 3%; */
@@ -262,6 +255,11 @@ p img {
     margin-bottom: 6mm;
     margin-left: 8mm;
     filter: grayscale(100%);
+}
+
+figure > img {
+    width: 100%;
+    height: auto;
 }
 
 img[alt=adapt] {
@@ -427,6 +425,6 @@ margin-bottom: var(--lineheight);
     }
     figure,
     figure img {
-        max-width: 500px;
+      max-width: 500px;
     }
 }

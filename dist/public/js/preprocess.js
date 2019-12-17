@@ -47,6 +47,13 @@ function image_container(){ // met les images dans des balises figure pour inté
     //console.log(images[i].parentElement.tagName.localeCompare("P"));
 
     if(images[i].parentElement.tagName.localeCompare("P") == 0){
+
+      if(images[i].width > images[i].height){
+        $(images[i]).addClass("horizontal");
+      }else{
+        $(images[i]).addClass("vertical");
+      }
+
       var para = images[i].parentElement;
       //console.log(para)
       var fig = document.createElement('figure');
