@@ -262,6 +262,12 @@ figure > img {
     height: auto;
 }
 
+.tooHeight{
+  height: 100%;
+  width: auto;
+  object-fit: contain;
+}
+
 img[alt=adapt] {
     height: var(--height);
     width: var(--width);
@@ -406,6 +412,7 @@ margin-bottom: var(--lineheight);
   word-spacing: -1px;
   line-height: 12px;
   position: absolute;
+  word-break: break-word;
 }
 
 .note + .note {

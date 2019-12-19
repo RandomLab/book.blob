@@ -96,10 +96,17 @@ function footnote(page){
 }
 
 function image_pleine_page(page){
+  console.log(page)
   if($(page).find("figure").length>0){
-    fig = $(page).find("figure")
+    var ratio_page = $(page).find(".pagedjs_page_content")[0].offsetHeight / $(page).find(".pagedjs_page_content")[0].offsetWidth
+    var fig = $(page).find("figure")
     if(fig[0].nextElementSibling == null && fig[0].previousElementSibling == null ){
       fig.addClass("full-page");
+      var img = $(fig).find("img")[0]
+      var ratio_img = img.height / img.width
+      if (ratio_img > ratio_page){
+        $(img).addClass("tooHeight");
+      }
     }
   }
 }
