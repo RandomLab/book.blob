@@ -374,6 +374,9 @@ section[data-id="courriel-du-coeur"] h6 + section[data-id="courriel-du-coeur"] h
   color: white;
 }
 
+section[data-id="causerie"] p {
+  white-space: pre-wrap;
+}
 
 section[data-id="gurb"] img{
   width: 100%;
