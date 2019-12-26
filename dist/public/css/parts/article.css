@@ -1,0 +1,67 @@
+.article h2 + p {
+ width: 100%;
+}
+
+.article > p{
+  width: 74%;
+  text-indent: 0;
+  text-align: justify;
+  /*font-size: 7.5pt;*/
+}
+
+.article .notes{
+  bottom: 0;
+  right: 0;
+  width: 22%;
+}
+
+.article figure{
+  margin-bottom: calc(var(--lineheight) * 2);
+}
+
+/*.article img{
+  width: 100%;
+  height: auto;
+}*/
+
+.article img + img{
+  margin-top: var(--lineheight);
+}
+
+.article blockquote{
+  font-weight: bold;
+  float: left;
+  margin-bottom: calc(var(--lineheight) * 2);
+}
+
+.article blockquote > p{
+  margin-bottom: 0;
+}
+
+.article cite, figcaption{
+  display: block;
+  font-family: "SpaceMonoCustom";
+  font-weight: normal;
+  white-space: pre-line;
+  font-style: normal;
+  font-size: 10pt;
+  line-height: var(--lineheight);
+}
+
+.article .full-page{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.article .notesOverflow{
+  position: absolute;
+  width: 22%;
+  left: 50%;
+  bottom: 0;
+}
+
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] #note_5{
+  padding-bottom: 358px;
+}
