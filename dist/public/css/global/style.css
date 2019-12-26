@@ -93,9 +93,11 @@ body {
 
 /* TEXT ---------------------------------------------------- */
 
-p {
+p, h6 {
     text-align: left;
     font-family: 'Inknut Antiqua', sans-serif;
+    font-style: normal;
+    font-weight: normal;
     /*font-style: italic;*/
     font-size: 9pt;
     line-height: var(--lineheight);
@@ -149,46 +151,12 @@ h2{
     hyphens: none;
 }
 
-section[data-id="conversation-avec-jeremy-bailey"] p, section[data-id="conversation-avec-an-mertens"] p, section[data-id="conversation-avec-an-mertens"] li{
-  font-family: "SpaceMonoCustom";
-  font-style: italic;
-  word-spacing: -3.6px;
-  font-weight: normal;
-  hyphens: none;
-  text-align: left;
-  font-size: 10pt;
+
+h6 {
+
 }
 
-section[data-id="conversation-avec-jeremy-bailey"] p em, section[data-id="conversation-avec-an-mertens"] p em{
-  font-family: "Space Mono";
-  font-style: normal;
-  word-spacing: -3.6px;
-  font-weight: normal;
-  hyphens: none;
-  text-align: left;
-  font-size: 10pt;
-}
-
-section[data-id="conversation-avec-jeremy-bailey"] blockquote > p, section[data-id="conversation-avec-an-mertens"] blockquote > p, section[data-id="conversation-avec-an-mertens"] blockquote > p em{
-  font-family: "Inknut Antiqua";
-  font-weight: bold;
-  color: black;
-  -webkit-text-stroke-width : 0;
-  font-size: 15pt;
-  text-transform: uppercase;
-  word-spacing: normal;
-  text-align: center;
-  counter-increment: countbailey;
-  page-break-inside: avoid;
-}
-
-section[data-id="conversation-avec-jeremy-bailey"] blockquote > p::before{
-  content: counter(countbailey) ".";
-  position: absolute;
-  left: -23px;
-}
-
-h6, pre, code{
+pre, code{
   font-family: "SpaceMonoCustom";
   font-style: italic;
   word-spacing: -3.6px;
@@ -215,7 +183,8 @@ pre, code{
   margin-right: 9.5mm;
 }
 
-h6 ~ h6, pre ~ pre{
+
+pre ~ pre{
   margin-bottom: 0;
 }
 
@@ -317,16 +286,6 @@ blockquote, blockquote p{
 }
 
 /* specific style */
-section[data-id="conversation-avec-steve-grand"] blockquote, section[data-id="conversation-avec-an-mertens"] blockquote{
-  font-weight: bold;
-}
-
-section[data-id="conversation-avec-steve-grand"] blockquote em, section[data-id="conversation-avec-an-mertens"] blockquote > p > em{
-  -webkit-text-stroke-width: 0.9px;
-  -webkit-text-stroke-color: black;
-  color: white;
-  font-style: italic;
-}
 
 
 section[data-id="gulbirra-et-les-anadyomes"] p {
