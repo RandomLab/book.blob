@@ -1,13 +1,13 @@
 ---
 title: Conversation avec Jeremy Bailey
-authors: Ophélie Demurger
+authors: avec Ophélie Demurger
 runningTitle: Jeremy Bailey
+type: interview
 ---
 
 ![Amazon Echo Gag](images/amazonEchoGag.jpg)
 
-Following the listening of episode 3 about IA from his podcast Good Point
-with Rafael Rozendaal, I asked few questions to Jeremy Bailey, self-proclaimed "Famous New Media Artist".
+##### Following the listening of episode 3 about IA from his podcast Good Point with Rafael Rozendaal, I asked few questions to Jeremy Bailey, self-proclaimed "Famous New Media Artist".
 
 > Do you remember the first meet with an IA?
 

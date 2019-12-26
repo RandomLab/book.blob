@@ -2,6 +2,7 @@
 title: Double Trouble
 authors: Alain Barthélémy
 runningTitle: Double Trouble
+type: article
 ---
 
 <span class="decoration"> </span>

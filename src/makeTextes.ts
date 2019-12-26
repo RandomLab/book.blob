@@ -49,7 +49,7 @@ class MakeTextes {
             const html: string = this.converter.makeHtml(this.text);
             const metadata = this.converter.getMetadata();
             const chapitre = this.textId(metadata.title);
-            let section = `<section id="${chapitre}" class="subchapter">`;
+            let section = `<section id="${chapitre}" class="subchapter ${metadata.type}">`;
             let title = `<h2>${this.makeTitle(metadata.title)}</h2>`
             let runningTitle = ""
 

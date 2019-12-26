@@ -1,7 +1,8 @@
 ---
 title: Des choses qui attendent de nous ; totems et intelligences artificielles
 authors: Fabrice Sabatier (.CORP)
-runningTitle: Des choses qui attendent ...
+runningTitle: Des choses qui attendent…
+type: article
 ---
 
 ## Une lecture de deux pièces de .CORP
@@ -17,10 +18,10 @@ L’intelligence artificielle qui a intéressé .CORP n’est pas celle de la sc
 
 [^3]: La création sonore est de Gaël Moissonnier. Ce travail a été prolongé sous la forme d’un album : *Luminophores*. https://zerojardins.bandcamp.com/album/luminophores
 
-[^4]: À la base des pratiques magiques, se trouve pour James George Frazer, le principe d’association d’idées. C’est également un aspect de la magie de Giordano Bruno, lui-même philosophe et mage, incarnation flamboyante de la magie comme « science de l’imaginaire » à la Renaissance et qui fait le lien entre magie, association d’idées et art de la mémoire. Ce principe est moteur dans la création de liens entre les images de la pièce, dans la création du sens et du dialogue avec elle comme il l’a été lors de la fabrication de la base de données d’images.
 
 *Une relation intime et tout à fait spéciale* se présente comme une structure verticale en bois et métal sur laquelle est fixée plusieurs écrans. Il est possible d’en faire le tour. Elle est plus haute que nous. De ses entrailles émane du son[^3]. Sur sa face avant, les écrans font défiler des images à des rythmes variables. Parfois certains mots ou expressions apparaissent : « décision algorithmique », « gestion de l’incertitude », « causalité », « apprentissage non supervisé », « raisonnement », « recommandation » et d’autres. Quant aux images, pour la plupart photographiques, elles mêlent des motifs et des genres hétérogènes : une scène de la vie quotidienne, une montre connectée au poignet d’un fringant jeune homme, une marmotte qui succède à un essaim de drones, un coucher de soleil sur une mégalopole suivie d’une scène de travail dans une mine d’extraction de minerais, un pangolin. Puis un chercheur face à un robot dans un laboratoire, un portrait d’Alan Turing, une pomme[^4]. Ces photos, aux couleurs filtrées, semblent parfois provenir de banques d’images commerciales, elles sont rassurantes, les animaux sauvages ont la vitalité de bêtes empaillées, ils sont « parfaits ». Mais l’instant d’après, une image moins lisse en remplaçant une autre, l’inquiétude surgit. Quelques mètres devant la structure, une composition géométrique est dessinée au sol. C’est un Métatron, symbole de la géométrie sacrée, dans lequel apparaissent les cinq solides de Platon[^5]. Posé sur le socle, lui-même au centre de la figure, un instrument percussif métallique, un chime, permet d’entrer en interaction avec le totem. La note aiguë de 3638,88Hz que produit l’instrument fait gronder le totem en réponse et fige, pour un instant, les images. Le visiteur qui aura osé le contact, n’aura plus qu’à interpréter la combinaison qui se présente à lui comme un oracle.
 
+[^4]: À la base des pratiques magiques, se trouve pour James George Frazer, le principe d’association d’idées. C’est également un aspect de la magie de Giordano Bruno, lui-même philosophe et mage, incarnation flamboyante de la magie comme « science de l’imaginaire » à la Renaissance et qui fait le lien entre magie, association d’idées et art de la mémoire. Ce principe est moteur dans la création de liens entre les images de la pièce, dans la création du sens et du dialogue avec elle comme il l’a été lors de la fabrication de la base de données d’images.
 [^5]: Ce signe a également été repris par la culture New Age et le mouvement hippie de la Silicon Valley, qui sont eux-même à l’origine du capitalisme high-tech comme le raconte Rémi Durand, dans *L’évangélisme technologique. De la révolte hippie au capitalisme high-tech de la Silicon Valley*, FYP éditions, 2018.
 
 ![](images/Fabrice/iso-document-s1.jpg)

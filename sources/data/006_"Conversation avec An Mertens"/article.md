@@ -2,14 +2,18 @@
 title: Conversation avec An Mertens
 authors: avec Maëva Borg, Anna Diop-Dubois, et Jérémie Nuel
 runningTitle: An Mertens
+type: interview
 ---
 
-An Mertens est artiste, auteure et membre active de Constant, une association sans but lucratif gérée par des artistes, basée à Bruxelles depuis 1997 et active dans les domaines de l’art, des médias et de la technologie. Constant développe, questionne et expérimente, avec comme point de départ les féminismes, le *copyleft*, les logiciels *Free/Libre + Open Source*. Par conséquent, les pratiques artistiques numériques développées par Constant sont souvent collectives.
+##### An Mertens est artiste, auteure et membre active de Constant, une association sans but lucratif gérée par des artistes, basée à Bruxelles depuis 1997 et active dans les domaines de l’art, des médias et de la technologie. Constant développe, questionne et expérimente, avec comme point de départ les féminismes, le *copyleft*, les logiciels *Free/Libre + Open Source*. Par conséquent, les pratiques artistiques numériques développées par Constant sont souvent collectives.
 
-Dans ses recherches, An porte un regard attentif à comment les algorithmes et le code, avec leur personnalités et de ses formes diverses et ambiguës, peuvent transformer les créations (littéraires) dites physiques, en publications numériques, installations, marches et performances. Son amour des pratiques Oulipiennes l’a amenée en 2012 à créer Algolit avec Catherine Lenoble, comme un projet au sein de Constant. Algolit est un groupe de travail autour du code et la littérature libres.
-Son roman expérimental *Tot Later* est paru en 2013 dans les éditions De Bezige Bij, Antwerpen. Depuis lors, avec le groupe de recherche artistique Algolit, elle a créé des situations et des œuvres qui montrent la perspective narrative des algorithmes, et notamment les algorithmes d’apprentissage automatique. La dernière exposition s’appelait *Data Workers* et a eu lieu au Mundaneum à Mons en mars/avril 2019.
-[https://www.algolit.net](https://www.algolit.net)
-[https://www.paramoulipist.be/](https://www.algolit.net)
+##### Dans ses recherches, An porte un regard attentif à comment les algorithmes et le code, avec leur personnalités et de ses formes diverses et ambiguës, peuvent transformer les créations (littéraires) dites physiques, en publications numériques, installations, marches et performances. Son amour des pratiques Oulipiennes l’a amenée en 2012 à créer Algolit avec Catherine Lenoble, comme un projet au sein de Constant. Algolit est un groupe de travail autour du code et la littérature libres.
+
+##### Son roman expérimental *Tot Later* est paru en 2013 dans les éditions De Bezige Bij, Antwerpen. Depuis lors, avec le groupe de recherche artistique Algolit, elle a créé des situations et des œuvres qui montrent la perspective narrative des algorithmes, et notamment les algorithmes d’apprentissage automatique. La dernière exposition s’appelait *Data Workers* et a eu lieu au Mundaneum à Mons en mars/avril 2019.
+
+[https://www.algolit.net](https://www.algolit.net) [https://www.paramoulipist.be/](https://www.algolit.net)
+
+<div class="hard_page_break"></div>
 
 > Est-ce que ces expérimentations algolittéraires sont pensées pour révéler des questions politiques, sociétales ?
 
