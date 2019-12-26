@@ -104,7 +104,7 @@ class Html {
         const htmldata = this.converter.makeHtml(data);
         const re1 = /<p>(.+)<\/p>/g;
         const re2 = /"/g;
-        let str = htmldata.replace(re1,"$1")
+        let str = htmldata.replace(re1,"$1");
         //str = str.join(separator).replace(re2, '');
         return str;
     }

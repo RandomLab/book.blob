@@ -3,7 +3,7 @@
 ----------
 
 > ponctuation dans le header > erreur undefined
-> balise markdown dans les notes
+> balise markdown dans les notes [x]
 > pagination dans le sommaire
 > nom des dossiers
 > lien sommaire

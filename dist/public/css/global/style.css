@@ -440,6 +440,14 @@ margin-bottom: var(--lineheight);
   word-break: break-word;
 }
 
+.note em{
+  font-family: "Space Mono";
+  font-style: normal;
+  word-spacing: -1px;
+  font-size: 7pt;
+  text-decoration: underline;
+}
+
 .note + .note {
   margin-top: 12px;
 }

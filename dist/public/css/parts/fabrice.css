@@ -52,3 +52,7 @@ section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-arti
   flex-direction: column;
   justify-content: center;
 }
+
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] #note_5{
+  padding-bottom: 358px;
+}

@@ -5,8 +5,18 @@ class MakeTextes {
     private footnote = function () {
         var footnote1 = {
             type: 'lang',
-            regex: /\[\^([A-Za-z0-9]+)\]: (.*)/g,
-            replace: "<div class='note' id='note_$1'>$1 $2</div>"
+            filter: function( text: string, converter: any, options: any){
+              var reg = /\[\^([A-Za-z0-9]+)\]: (.*)/g;
+
+              var result = reg.exec(text);
+              while (result){
+                var note_html = converter.makeHtml(result[2]).replace(/<p>(.+)<\/p>/g,"$1");
+                text = text.replace(result[0], "<div class='note' id='note_"+result[1]+"'>"+result[1] +" "+ note_html+"</div>");
+                result = reg.exec(text);
+              }
+
+              return text;
+            }
         };
         var footnote2 = {
             type: 'lang',
