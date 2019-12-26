@@ -15,6 +15,7 @@ class MyHandler extends Paged.Handler {
     image_pleine_page(pageElement);
     image_sur_grille(pageElement,breakToken);
     section_auteurs(pageElement);
+    section_introduction(pageElement);
     //console.log(pageElement);
     //console.log(page);
   }
@@ -119,6 +120,14 @@ function image_sur_grille(page,breakToken){
       console.log(breakToken);
       console.log(images[i]);
       images[i].style.height = (Math.round(images[i].height / lineheight)*lineheight) + "px";
+    }
+  }
+}
+
+function section_introduction(page){
+  if($(page).find(".subchapter")[0]){
+    if($(page).find(".subchapter")[0].classList.contains("interview")){
+     $(page).find(".authors").nextAll().wrapAll("<div class='introduction'></div>")
     }
   }
 }
