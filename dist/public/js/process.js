@@ -14,6 +14,7 @@ class MyHandler extends Paged.Handler {
     footnote(pageElement);
     image_pleine_page(pageElement);
     image_sur_grille(pageElement,breakToken);
+    section_auteurs(pageElement);
     //console.log(pageElement);
     //console.log(page);
   }
@@ -120,4 +121,8 @@ function image_sur_grille(page,breakToken){
       images[i].style.height = (Math.round(images[i].height / lineheight)*lineheight) + "px";
     }
   }
+}
+
+function section_auteurs(page){
+  $(page).find(".author").wrapAll("<div class='authors'></div>")
 }

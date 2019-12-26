@@ -102,7 +102,6 @@ function hard_justify(){
         inject += '<span class=char_"'+(j)+'" aria-hidden="true">'+letters[j]+'</span>';
     }
     span.innerHTML = inject;
-    $(span).wrap("<div class='authors'></div>");
   });
 }
 
