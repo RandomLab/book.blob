@@ -2,8 +2,9 @@
 à vérifier
 ----------
 
-> ponctuation dans le header > erreur undefined
+> ponctuation dans le header > erreur undefined (seulement avec les ":")
 > balise markdown dans les notes [x]
+> balise markdown indésirables dans les url
 > pagination dans le sommaire
 > nom des dossiers
 > lien sommaire
