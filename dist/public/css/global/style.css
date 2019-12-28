@@ -41,8 +41,21 @@ del {
 
 #toc a{
   font-size: 12pt;
+  line-height: var(--lineheight);
 }
-
+#toc li{
+  margin-bottom: 0;
+  font-size: 15pt;
+  font-family: 'Inknut Antiqua', sans-serif;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  hyphens: none;
+  text-transform: uppercase;
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: black;
+  color: white;
+}
 
 /* CHAPTER TITLE ----------------------------------------- */
 
@@ -119,7 +132,6 @@ blockquote + p{
 }
 
 h1,
-#toc li,
 h2,
 h3,
 h4,
@@ -131,24 +143,21 @@ h5 {
     margin-bottom: 0;
     hyphens: none;
     text-align: center;
-    /*height: calc(var(--lineheight) * 2);
-    line-height: calc(var(--lineheight) * 2 + 2px);*/
-    /*line-height: calc(var(--lineheight) * 2);*/
-    line-height: var(--lineheight);
     text-transform: uppercase;
-
+    line-height: var(--lineheight);
+    margin-bottom: var(--lineheight);
     /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
-    -webkit-text-stroke-width: 0.9px;
-    -webkit-text-stroke-color: black;
-    /*text-shadow: 0px 0px 1px black ;*/
-    color: white;
+
     /* line-height: var(--baseline) - 1; */
 }
 
 h1,
 h2{
-    text-align: center;
-    hyphens: none;
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: black;
+  /*text-shadow: 0px 0px 1px black ;*/
+  color: white;
+  font-size: 20pt;
 }
 
 
@@ -192,16 +201,6 @@ h6 em, pre em{
   /*font-style: normal;*/
   font-weight: bold;
   hyphens: none;
-}
-
-h3, h2{
-  margin-bottom: var(--lineheight);
-}
-
-p + h3{
-  margin-top: calc(var(--lineheight) / -2);
-  margin-bottom: calc(var(--lineheight) / 2);
-
 }
 
 * em, * strong{
@@ -293,7 +292,7 @@ section[data-id="gulbirra-et-les-anadyomes"] p {
   width: 50%;
 }
 
-section[data-id="gulbirra-et-les-anadyomes"] .author{
+section[data-id="gulbirra-et-les-anadyomes"] hr{
   margin-bottom: calc(var(--lineheight) * 13);
 }
 
@@ -335,6 +334,7 @@ section[data-id="courriel-du-coeur"] h6 + section[data-id="courriel-du-coeur"] h
 
 section[data-id="causerie"] p {
   white-space: pre-wrap;
+  text-indent: 0;
 }
 
 section[data-id="gurb"] img{
@@ -368,6 +368,10 @@ margin-bottom: var(--lineheight);
   font-family: "space mono";
   /* font-size: 10.5pt; */
   text-align: center;
+}
+
+hr{
+  margin-bottom: var(--lineheight);
 }
 
 .no-break{

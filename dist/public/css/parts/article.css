@@ -30,8 +30,9 @@
 
 .article blockquote{
   font-weight: bold;
+  hyphens: none;
   float: left;
-  margin-bottom: calc(var(--lineheight) * 2);
+  margin-bottom: calc(var(--lineheight) * 1);
 }
 
 .article blockquote > p{
@@ -63,5 +64,9 @@
 }
 
 section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] #note_5{
-  padding-bottom: 358px;
+  padding-bottom: 314px;
+}
+
+section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] h2{
+  font-size: 18pt;
 }

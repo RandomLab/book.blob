@@ -127,7 +127,7 @@ function image_sur_grille(page,breakToken){
 function section_introduction(page){
   if($(page).find(".subchapter")[0]){
     if($(page).find(".subchapter")[0].classList.contains("interview")){
-     $(page).find(".authors").nextAll().wrapAll("<div class='introduction'></div>")
+     $(page).find("hr").nextAll().wrapAll("<div class='introduction'></div>")
     }
   }
 }

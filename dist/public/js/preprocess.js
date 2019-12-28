@@ -99,7 +99,7 @@ function hard_justify(){
     var letters = span.innerText
     //console.log(letters)
     for(var j=0; j<letters.length;j++){
-        inject += '<span class=char_"'+(j)+'" aria-hidden="true">'+letters[j]+'</span>';
+        inject += '<span class="char_'+j+'" aria-hidden="true">'+letters[j]+'</span>';
     }
     span.innerHTML = inject;
   });

@@ -50,26 +50,26 @@ class MakeTextes {
             const metadata = this.converter.getMetadata();
             const chapitre = this.textId(metadata.title);
             let section = `<section id="${chapitre}" class="subchapter ${metadata.type}">`;
-            let title = `<h2>${this.makeTitle(metadata.title)}</h2>`
-            let runningTitle = ""
+            let title = `<h2>${this.makeTitle(metadata.title)}</h2>`;
+            let runningTitle = "";
 
             if (metadata.runningTitle) {
-              runningTitle = `<span class="runningTitle">${metadata.runningTitle}</span>`
+              runningTitle = `<span class="runningTitle">${metadata.runningTitle}</span>`;
             }else{
-              runningTitle = `<span class="runningTitle"></span>`
+              runningTitle = `<span class="runningTitle"></span>`;
             }
-
-            section = section.concat(title)
+            section = section.concat(title);
 
             if (metadata.authors){
-              let authors = metadata.authors.split(",")
+              let authors = metadata.authors.split(",");
               for(let i = 0; i< authors.length ; i++){
-                  let authorspan = `<span class="author dontHyphenate">${authors[i]}</span>`
-                  section = section.concat(authorspan)
+                  let authorspan = `<span class="author dontHyphenate">${authors[i]}</span>`;
+                  section = section.concat(authorspan);
               }
             }
-            section = section.concat(runningTitle)
-            section = section.concat(html)
+            section = section.concat(runningTitle);
+            section = section.concat("<hr>");
+            section = section.concat(html);
             section = section.concat(`</section>`);
             return section;
         } catch (e) {
