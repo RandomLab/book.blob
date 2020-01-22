@@ -6,7 +6,6 @@ type: article
 ---
 
 <span class="decoration"> </span>
-<span class="decoration"> </span>
 
 > Et qui ne sent, dans un moment où une si notable partie du genre humain frémit dans l’espérance de prendre enfin en main ses propres destinées, que le succès où l’insuccès d’une telle entreprise dépendra peut-être d’une simple nuance de sagesse, ou d’un degré de la sincérité, ou de la répartition des zones de cécité ou d’une vision claire du présent et de l’avenir, chez ceux (individus ou groupes) qui joueront par privilège le rôle d’organes principaux et efficients de cette prise en mains&#8239;?
 > <cite>Étienne Souriau, *L’Ombre de Dieu*, 1955</cite>
@@ -130,20 +129,19 @@ Ce dernier cercle est donc un cercle qui confronte l’humanité et surtout la s
 
 <div class="hard_page_break"></div>
 
-## index des illustrations et bibliographie ##
-
-bibliographie
+### bibliographie
 
 - L’Ombre de Dieu, Etienne Souriau, Presses Universitaires de France, 1955
 - Murmurs of Earth: The Voyager Interstellar Record, Ballantine Books, NY, 1978 pour la première édition.
 - Solaris, Stanislas Lem, Editions Denoël (col. présence du futur), Paris, 1966
 - Le récit de soi, Judith Butler, Presses Universitaires de France, Paris, 2007
 
-webographie
+### webographie
 
-https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/greetings/
-https://www.nationalgeographic.fr/espace/recherche-de-vie-extraterrestre-la-revolution-des-exoplanetes
+- https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/greetings/
+- https://www.nationalgeographic.fr/espace/recherche-de-vie-extraterrestre-la-revolution-des-exoplanetes
 
+### inconographie
 
 [Voyager_spacecraft_structure-fr]: images/Voyager_spacecraft_structure-fr.png
 
@@ -157,5 +155,3 @@ https://www.nationalgeographic.fr/espace/recherche-de-vie-extraterrestre-la-revo
 
 
 [ahumanbeing]: images/ahumanbeing.png
-
-qzd [Idon’tknowmyself]:

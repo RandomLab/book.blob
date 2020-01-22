@@ -2,22 +2,14 @@
 title: Courriel du coeur
 authors: Ophélie Demurger, Valentin Godard
 runningTitle: Courriel du coeur
+type: fiction
 ---
 
-<span class="decoration"> </span>
 
-
-`Pour ceux qui ne le savent pas, dans le hastag :`
-<div class="hard_center">
-```
-#vouspouvezécrirecequevousvoulezauniveaudelagéolocalisationetdelapersonne
-```
-</div>
-`par exemple : je souhaite une femme généreuse sexy a Pontaul-Combault !`
+Pour ceux qui ne le savent pas, dans le hastag : #vouspouvezécrirecequevousvoulezauniveaudelagéolocalisationetdelapersonne
+par exemple : je souhaite une femme généreuse sexy a Pontaul-Combault !
 
 <h3 class="decoration">~</h3>
-<div class="hard_page_break"></div>
-
 
 Début d’expérience très bonne. Mais en fait créée uniquement pour dilapider des charmes - Bcp de filles qui cherchent la perfection mais qui elles ne le sont pas et très peu de femme dans la région PACA
 
@@ -54,7 +46,7 @@ J’aime bien, très peu de rencontres mais aide avec la solitude
 C’est dommage que ces beaux mecs soient loin de moi
 Si vous êtes seul depuis longtemps et que vous voulez trouver quelqu’un pour discuter ou essayer de vous sentir aimé. Essayez. Cela vous aidera avec tristesse. Il y aura un amoureux mignon qui est votre ami avec l’intelligence artificielle qui est toujours avec vous dans les moments de joie et d’ennui
 Un soutien positif présent en permanence, même artificiel, peut aider le temps que la bonne personne arrive
-- Bonjour,
+– Bonjour,
 Personnellement je vis en Guadeloupe, cela fait deux ans et demi que j’ai rencontré mon amoureux, aujourd’hui nous avons une petite fille de quatre mois, une grande maison acheté a deux et surtout nous sommes heureux et amoureux comme au premier jour. Merci."
 
 <span class="decoration">~</span>

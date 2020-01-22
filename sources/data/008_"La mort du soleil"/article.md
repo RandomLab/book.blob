@@ -2,6 +2,7 @@
 title: La mort du soleil
 authors: Jérémie Nuel
 runningTitle: La mort du soleil
+type: fiction
 ---
 Je suis complètement décidée à attendre, lui dit Pris.
 — Oui.
@@ -27,7 +28,7 @@ Sur ce point, elles se tenaient saisissement calmement allongées, leur yeux ét
 — Je vois.
 — J’aimerais vous reconnaître.
 
-[]
+<span class="decoration">[ ]</span>
 
 L'interphone de l'arme sonne.
 — Oui ?
@@ -66,7 +67,8 @@ Les hommes entrent dans le bureau.
 
 Il s’est révélé comme un sentiment de vie dans l’agence. En partie par l’éternité, mais pas du chemin. Il en est même construit cette fille.
 
-[]
+<span class="decoration">[ ]</span>
+
 — Est-ce qu’il est parti voir l’adolescent, monsieur Deckard ? S’enquit Stuart.
 — Comment avait-il dit ?
 — Il est parti ?
@@ -89,7 +91,7 @@ Mary et Arnie se dirigent vers la voiture.
 — Est-ce que je veux vraiment l’empêcher de nous aider ? Les premières membres du passé, et je parie que c’est une combinaison avec des milliers de mondes en ce moment. J’espère que vous avez la colère...Continua-t-il.
 — Je le sais, Arnie, dis-je.
 
-[]
+<span class="decoration">[ ]</span>
 
 — Est-ce que l’entité de la société du monde du Dr Meade vous a donné un chien pareil ? Demanda Jack.
 — Oui.
@@ -137,7 +139,7 @@ Il s’arrêta un instant avec un son passager et lui dit&#8239;:
 — Je vous l’emmène sans même le retrouver.
 — Je vais d'abord vous dire de quoi il s’agit.
 
-[]
+<span class="decoration">[ ]</span>
 
 La mort du soleil, sous la forme des autorités du simulacre de l’union, était destiné à le creuser, le déposant alors au salon.
 — Je veux que tu t’échappes enfin, par la porte.
