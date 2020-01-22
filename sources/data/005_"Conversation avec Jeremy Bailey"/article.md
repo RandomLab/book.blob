@@ -7,108 +7,66 @@ type: interview
 
 ![Amazon Echo Gag](images/amazonEchoGag.jpg)
 
-##### Following the listening of episode 3 about IA from his podcast Good Point with Rafael Rozendaal, I asked few questions to Jeremy Bailey, self-proclaimed "Famous New Media Artist".
+##### Après avoir écouté l’épisode 03 de son podcast «&#8239;Good Point&#8239;» avec Rafael Rozendaal sur les Intelligences Artificielles, j’ai posé quelques questions à Jeremy Bailey, qui s'est autoproclamé «&#8239;Famous New Media Artist&#8239;».
 
-> Do you remember the first meet with an IA?
+> Vous rappelez-vous de votre première rencontre avec une IA&nbsp;?
 
-The first time I met with some form of AI was probably using Eliza, the therapist chatbot. It
-wasn’t AI behind the scenes but to my teenage brain who was spending most of his day on
-internet messaging apps it was exciting to consider talking to a computer to find mental
-health advice - especially as I was just developing my own identity and uncertain if I had any
-choice in who I would become.
+La première fois que j’ai rencontré une IA c’était probablement en utilisant Eliza, le chatbot thérapeute. Ce n’était pas une IA à proprement parler mais pour mon cerveau d’adolescent  habitué à passer le plus clair de ses journées sur des applications de messagerie instantanée, c’était excitant de me retrouver à parler avec un ordinateur pour recevoir des conseils psychologiques – surtout parce que j’étais justement en train de développer ma propre identité et que je n’étais pas sûr de pouvoir choisir la personne que j’allais devenir.
 
-> Can you consider an IA like a real human, even if it is in a smartphone or computer?
+> Considéreriez-vous une IA comme une véritable personne, même si elle se trouve dans un smartphone ou un ordinateur&nbsp;?
 
-I think it is what humans demand from anything they interact with. We often think of the world as
-man overcoming nature. When you consider AI the promise looks something like “look we have
-created life from metal and silicon!” This extends to the current applications for AI where we have
-re-invented free labour (slavery) as a device. In increasingly problematic ways we order our
-(mostly) female ai assistants to turn on the lights and feed our pets - never hesitating to consider
-what this might mean in the context of human history. That it feels normal to order a woman
-around and the laugh at it or get angry when it gets the command wrong is sadly very close to the
-way we have treated lives of many who have lived on this planet.
+Je pense que c’est ce que les humains exigent de tout ce avec quoi ils interagissent. Nous envisageons souvent le monde comme la victoire de l’homme sur la nature. Quand on se penche sur une IA, elle semble contenir cette promesse&#8239;: «&#8239;Regardez, nous avons créé la vie à partir de métal et de silicone&nbsp;!&#8239;» Cela s’étend à l’utilisation actuelle de l’IA, pour laquelle nous avons réinventé le travail gratuit (l’esclavage) en tant qu’outil. De façons de plus en plus problématiques, nous avons programmé nos assistantes (pour la plupart féminines) artificielles pour allumer la lumière et nourrir nos animaux domestiques – en ne pensant jamais à nous demander ce que cela peut signifier dans le contexte de l’histoire humaine. Le fait de considérer comme normal de donner des ordres à une femme, de se moquer d’elle ou de s’énerver quand l’ordre est mal exécuté est malheureusement très proche de la manière dont nous avons traité les vies de nombreuses personnes qui ont vécu sur cette planète.
 
-> Do you think that a daily contact with an IA can make humans better?
+> Pensez-vous qu’un contact quotidien avec des IA puisse rendre l’humanité meilleure&nbsp;?
 
-If my life living with smart assistants is any indication, no. My smart home has become the site of
-daily techno-misogyny. I yell at Alexa to dim the lights, I bark at her to play music I like and urge
-her to remember to feed my cat. When she makes a mistake I yell loudly and chastise her for
-never getting things right. I can’t imagine this isn’t having some kind of cognitive bias effect on
-me. That said, I believe we have the opportunity to design AI to help and nudge us toward
-positive behaviours. We could be reminded of income inequality when our stock portfolios drop
-or informed about climate change when the weather is abnormal.
+Si je m’en réfère à ma vie auprès des assistants intelligents, alors tout indique que non. Ma maison intelligente est devenue le foyer d’une techno-misogynie quotidienne. Je crie sur Alexia pour qu’elle tamise la lumière, je lui aboie dessus pour qu’elle mette de la musique et je lui ordonne de se rappeler de nourrir mon chat. Quand elle se trompe je hurle et je l’accuse de ne jamais bien faire les choses. Je ne peux pas imaginer que ça n’a pas d’effet secondaire cognitif sur moi. Maintenant, je pense que nous avons l’opportunité de concevoir des IA pour nous aider et nous orienter vers des comportements positifs. Elles pourraient nous rappeler les inégalités de salaire quand nos actions en bourse chutent ou nous informer des changements climatiques quand le temps est anormal.
 
-> Do you need or do you want an IA assistant in your artist life?
+> Avez-vous besoin ou désirez-vous un assistant IA dans votre vie artistique&nbsp;?
 
-I’d like a collaborator. I have never liked the idea of assistance without collaboration. In fact I’d
-love to help an AI collaborator advance their career and reach new heights. To nurture a
-computer’s career, I think that would be really cool.
+J’aimerais un collaborateur. Je n’ai jamais aimé l’idée d’assistanat sans collaboration. En fait, j’aimerais beaucoup aider un collaborateur IA à faire progresser sa carrière et à atteindre de nouveaux sommets. Cultiver la carrière d’un ordinateur, je pense que ça serait vraiment cool.
 
-> Do you think that an IA knows love and can fall in love?
+> Pensez-vous qu’une IA connaisse l’amour et puisse tomber amoureuse&nbsp;?
 
-Love is an expression of deep respect for another that is reciprocated. A river is capable of love
-when you drink from it and later protect it from chemicals, a tree is capable of love when it shades
-you from the sun and you later protect it from fire. IA is capable of love by this definition, but only
-if we allow it to learn to respect us and create opportunities for us to do the same. Another way of
-thinking of it might be to ask whether we are capable of loving AI?
+L’amour est l’expression d’un respect pour quelqu’un d’autre, profond et réciproque. Une rivière est capable d’amour quand on boit son eau et qu’on la protège ensuite des produits chimiques, un arbre est capable d’amour quand il nous offre son ombre pour nous abriter du soleil et qu’ensuite, nous le protégeons du feu. D’après cette définition, une IA est capable d’amour, mais seulement si nous lui permettons d’apprendre à nous respecter et à nous laisser l’opportunité de faire de même. Une autre façon d’aborder le problème serait de nous demander si nous sommes capables d’aimer une IA&nbsp;?
 
-> Is it possible for you to fall in love with an IA?
+> Pensez-vous qu'il soit possible de tomber amoureux d’une IA&nbsp;?
 
-We must first learn to respect it.
+Nous devons d’abord apprendre à la respecter.
 
-> Do you think that can exist an IA’s sexuality?
+> Pensez-vous qu’une sexualité puisse exister pour les IA&nbsp;?
 
-I don’t see why not. So much of sex is about self-affirmation that I look forward to an AI that is self
-assured about how they experience pleasure. I don’t know if it will look like our sexuality but I’m
-open to queering my understanding of sex beyond my body’s limitations.
+Je ne vois pas pourquoi ce ne serait pas possible. Une grande partie de la sexualité consiste à affirmer ce dont on a envie, j'ai hâte de voir une IA qui est consciente de la façon dont elle expérimente le plaisir. Je ne sais pas si cela ressemblerait à notre sexualité mais je suis prêt à ouvrir ma compréhension du sexe au-delà des limites de mon corps.
 
-> Do you think IA, bots, humanoids, can redefine the question of gender?
+> Pensez-vous que les IA, les robots, les humanoïdes, puissent redéfinir la conception du genre&nbsp;?
 
-Absolutely! see last question. Queer computers are the future.
+Complètement&nbsp;! C'est ce que dit ma réponse à la question précédente. Les ordinateurs queers sont le futur.
 
-> Why do you think people are afraid about bots and IA?
+> Pourquoi pensez-vous que les gens ont peur des robots et des IA&nbsp;?
 
-People are generally afraid of what they don’t know and can’t control. I wouldn’t invite a wolf into
-my bedroom either. Part of it is that we are afraid of the trojan horse of security, letting
-corporations into our homes is scary because they don’t have a great record of acting responsibly.
-If AI was acting altruistically we would beg for it as a bed partner.
+Les gens ont généralement peur de ce qu’ils ne connaissent pas et de ce qu’ils ne peuvent pas contrôler. Je n’inviterais jamais un loup à entrer dans ma chambre non plus. C’est en partie parce que nous avons peur des chevaux de Troie. Laisser les corporations entrer dans nos foyers est terrifiant parce qu’elles n'ont pas la réputation d'agir de manière responsable. Si les IA agissaient de manière altruiste, on les supplierait de devenir nos compagnons de lit.
 
-> Bots should they do a seduction campaign to be more accepted?
+> Les robots devraient-ils faire une campagne de séduction pour être mieux acceptés&nbsp;?
 
-I believe a lot of advertising is already doing that.
+Je pense que beaucoup de campagnes de pub accomplissent déjà ça.
 
-> In your opinion, what IA think about humans?
+> À votre avis, que pensent les IA des humains&nbsp;?
 
-I believe very similarly to the way frogs think about us and we think about the lives of trees or
-stars. As an unknowable reality completely different but parallel to our own.
+Je pense que ça doit être très similaire à ce que les grenouilles pensent de nous et à ce que nous pensons de la vie des arbres ou des étoiles. Nous les considérons comme une réalité que nous ne pouvons pas connaître, complètement différente mais parallèle à la nôtre.
 
-> Do you think, IA will replace us when we will die?
+> Pensez-vous que les IA vont nous remplacer quand nous mourrons&nbsp;?
 
-Many people believe in this and there is a good example of someone trying to do it here.
-https://www.wired.com/story/a-sons-race-to-give-his-dying-father-artificial-immortality/
-But I honestly think it’s no different than a tomb stone upon which is engraved the history of an
-individual. You can read it and imagine a life but it does not extend that life. To live is to be
-creative to learn change and grow. For IA to replace when we die we need to give it the ability to
-transcend the limits of our lives to eventually supercede and erase our experiences through
-continuous iteration.
+Beaucoup de personnes croient cela et il y a un très bon exemple de quelqu’un qui a essayé ça ici&#8239;: https://www.wired.com/story/a-sons-race-to-give-his-dying-father-artificial-immortality/
 
-> Would you, after you die, you reincarnate in IA? Keep your mind without your body?
+Mais je pense honnêtement que ça ne diffère pas d’une pierre tombale sur laquelle serait gravée l’histoire d’un individu. On peut la lire et imaginer une vie mais ça ne prolonge pas cette vie. Vivre, c’est être créatif pour apprendre, changer et grandir. Pour que les IA nous remplacent quand nous mourrons, il faut leur donner les capacités de transcender les limites de nos vies afin d’ensuite surpasser et effacer notre existence à travers des itérations perpétuelles.
 
-I believe I have already been reincarnated millions of times by google and youtube and facebook
-and twitter. I am reflected back upon myself by algorithms every day. One day I won’t be present
-to see my reflection but it will remain alive should someone choose to see it.
+> Après votre mort, vous réincarneriez-vous en IA&nbsp;? Conserveriez-vous votre esprit en-dehors de votre corps&nbsp;?
 
-> Can you talk about Jeremy Bailey Next? A new version of you?
+Je pense que je me suis déjà réincarné un million de fois à travers google et youtube et facebook et twitter. Je me reflète dans des algorithmes tous les jours. Un jour, je ne serai plus présent pour voir mes propres réflexions mais elles resteront vivantes si quelqu’un décide de les regarder.
 
-I’m not sure to understand, it’s your website/project isn’t it?
-http://www.jeremybaileynext.com/
-Yes, that’s a project of mine that allows you to converse with an AI version of myself as a painting
-(in that version it has not yet discovered colour). The idea is that an artist AI might chose to
-express itself with gestures instead of voice because it is a visual communicator. I dream of a
-version of myself that could create paintings or choreographies for eternity. I am constantly
-iterating on this idea. If youtube can communicate with me in videos why can’t alexa communicate
-with me in song, or my roomba in dance?
+> Pouvez-vous parler de Jeremy Bailey Next&nbsp;? C’est une nouvelle version de vous&nbsp;? Je ne suis pas sûre de comprendre, c’est votre site/projet, non&nbsp;? http://www.jeremybaileynext.com/
 
-> In conclusion, is your dream to create your alter ego IA?
+Oui, c’est un de mes projets qui permet de discuter avec une version artificielle de moi-même en tant que peinture (dans cette version l’IA n’a pas encore découvert la couleur). L’idée, c'est qu’une IA artiste puisse choisir de s’exprimer par des gestes et non par la voix parce que sa manière de communiquer est visuelle. Je rêve d’une version de moi-même qui pourrait créer des peintures ou des chorégraphies pour l’éternité. Je réitère constamment cette idée. Si youtube peut communiquer avec moi à travers des vidéos, pourquoi Alexia ne pourrait pas communiquer avec moi en chantant ou mon Roomba  en dansant&nbsp;?
 
-My dream is to create a world that is more inclusive and self expressive, where everyone is famous - If AI can help me on my mission then yes! absolutely.
+> Pour conclure, votre rêve est-il de créer votre alter ego IA&nbsp;?
+
+Mon rêve est de créer un monde plus inclusif et expressif, où tout le monde est célèbre – si une IA est capable de m’aider dans cette mission alors oui&nbsp;! Absolument.
