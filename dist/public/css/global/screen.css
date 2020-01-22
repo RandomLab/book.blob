@@ -1,0 +1,170 @@
+@media screen and (min-width: 768px) {
+  #toc{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 20vw;
+    z-index: 1;
+  }
+  body{
+    max-width: 60vw;
+    padding-left: 30vw;
+  }
+
+
+  :root {
+      --lineheight: 1.9rem;
+  }
+
+  p, h6, li, .zocco code{
+    font-size: 1.3rem;
+  }
+
+  .interview > p, .interview > p em, .interview li{
+    font-size: 1.3rem;
+  }
+
+  .interview blockquote > p, h3{
+    font-size: 2rem;
+  }
+
+  h2{
+    font-size: 3rem;
+  }
+
+  .decoration{
+    font-size: 1.5rem;
+  }
+
+  .note_call, .note, cite, author > span{
+    font-size: 1rem;
+  }
+}
+@media screen and (min-width: 1200px) {
+  body{
+    padding-left: calc((100vw - 45rem)/2);
+    max-width: 45rem;
+  }
+  #toc{
+    max-width: calc((100vw - 50rem)/2);
+  }
+}
+@media screen and (max-width: 768px){
+  body{
+    width: 96vw;
+    margin-left: 2vw;
+  }
+  :root {
+    --lineheight: 1.4rem;
+  }
+
+  p, h6, li, .zocco code{
+    font-size: 1rem;
+  }
+
+  .interview > p, .interview > p em, .interview li{
+    font-size: 1rem;
+  }
+
+  .interview ul{
+    margin-left: 1.5rem
+  }
+
+  .interview blockquote > p, h3{
+    font-size: 1.5rem;
+  }
+
+  h2{
+    font-size: 2rem;
+  }
+
+  .decoration{
+    font-size: 1.5rem;
+  }
+
+  .note_call, .note, cite, author > span{
+    font-size: 1rem;
+  }
+
+}
+html{
+  width: 100%;
+  overflow-x: hidden;
+}
+body{
+  overflow-x: hidden;
+}
+
+
+.interview h6 {
+  text-align: center;
+  text-indent: 0;
+}
+
+body {
+  background-color: white;
+}
+
+*{
+  hyphens: none;
+}
+
+.note{
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.article > p {
+  hyphens: none;
+  text-align: left;
+}
+
+.runningTitle{
+  font-size: 2rem;
+  font-family: 'Inknut Antiqua', sans-serif;
+  font-weight: bold;
+  hyphens: none;
+  text-transform: uppercase;
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: black;
+  color: white;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+  left: 0;
+  top:0;
+  line-height: 2rem;
+  height: 5vh;
+  background: linear-gradient(rgba(255,255,255,1), rgba(255,255,255,0));
+}
+
+hr{
+  margin-bottom: var(--lineheight)!important;
+}
+
+.subchapter{
+  margin-bottom: 25vh;
+}
+
+a:visited {
+  -webkit-text-stroke-width: 0.9px;
+  -webkit-text-stroke-color: #4b2f89;
+  color: white;
+}
+
+img, figure img, figure{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.is-active{
+  display: block;
+}
+
+.is-scrolled{
+  display: block;
+  position: fixed;
+}

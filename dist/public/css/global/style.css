@@ -418,16 +418,3 @@ hr{
 .hard_page_break{
   page-break-before: always;
 }
-
-/* WHITOUT PAGED.JS */
-
-@media screen {
-    body {
-        max-width: 70vw;
-        padding-left: 15vw;
-    }
-    figure,
-    figure img {
-      max-width: 500px;
-    }
-}

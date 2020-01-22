@@ -19,6 +19,7 @@
 @import "global/reset.css";
 @import "global/style.css";
 
+
 /* Specific to paged.js */
 @import "global/layout.css";
 
@@ -35,7 +36,8 @@
 /*@import "parts/double-trouble2.css";*/
 @import "parts/moia.css";
 
-@import "fonts/fonts.css"
+/*@import "global/screen.css";*/
+@import "fonts/fonts.css";
 
 /*
 Book design on Chrome on Mac OSX
