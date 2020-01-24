@@ -19,9 +19,9 @@ Je suis complètement décidée à attendre, lui dit Pris.
 — Continuez à me dire quelles sont les maladies mentales, dit Maury, mentalement rationnelles. Ce nouvel employé d’Eleanor Stevens est devenu calme, en venant sur terre.
 
 Elle ajouta&#8239;:
-— Pourquoi ne pas avoir Dailleurs ?
+— Pourquoi ne pas avoir ailleurs ?
 — Je ne suis pas un autre monde.
-— J’ai essayé de vous aider, et il a disparu en arrière. Mais...C’est un processus de colère qui vient d’être débarrassé. Ce sont des paranoïaques, mais il nous parle, ce garçon.
+— J’ai essayé de vous aider, et il a disparu en arrière. Mais... C’est un processus de colère qui vient d’être débarrassé. Ce sont des paranoïaques, mais il nous parle, ce garçon.
 — Ils n’ont aucune infection ?
 Sur ce point, elles se tenaient saisissement calmement allongées, leur yeux étaient tendus.
 — Peut-être qu’ils ne passent pas des petits ciels dépendants.
@@ -169,8 +169,8 @@ Il se mit à courir dessus le bureau.
 — Pourtant, les autres milliers d’endroits ont été torsionnés.
 Elle les a fixés toute sa vie.
 
-##### Ces échanges sont composés de fragments de texte générés pendant le développement d’un programme[^1] de machine learning&#8239;: une adaptation de l’implémentation de Carlos Lara[^2] du modèle de réseau de neurones conçu par Andrej Karpathy[^3]. Il est entraîné avec les traductions françaises des ouvrages Philip K Dick et testé avec différents réglages et paramètres.
+##### Ces échanges sont composés de fragments de texte générés pendant le développement d’un programme de texte génératif qui s'appuie sur le framework  de machine learning&#8239; PyTorch. Le code[^1] est une adaptation de l’implémentation de Carlos Lara[^2] du modèle de réseau de neurones récurrents (RNN) conçu par Andrej Karpathy[^3] et qui d'après son auteur produit des résultats très étonnants. Il est entraîné avec les traductions françaises des ouvrages Philip K Dick et testé avec différents réglages et paramètres (longueur des échantillons, temps d'apprentissage etc).
 
-[^1]: [https://github.com/jeremien/character_level_LSTM](https://github.com/jeremien/character_level_LSTM)
+[^1]: [https://github.com/RandomLab/texte-generatif](https://github.com/RandomLab/texte-generatif)
 [^2]: [https://github.com/LeanManager/NLP-PyTorch/blob/master/Character-Level%20LSTM%20with%20PyTorch.ipynb](https://github.com/LeanManager/NLP-PyTorch/blob/master/Character-Level%20LSTM%20with%20PyTorch.ipynb)
 [^3]: [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
