@@ -169,7 +169,7 @@ Il se mit à courir dessus le bureau.
 — Pourtant, les autres milliers d’endroits ont été torsionnés.
 Elle les a fixés toute sa vie.
 
-##### Ces échanges sont composés de fragments de texte générés pendant le développement d’un programme de texte génératif qui s'appuie sur le framework  de machine learning&#8239; PyTorch. Le code[^1] est une adaptation de l’implémentation de Carlos Lara[^2] du modèle de réseau de neurones récurrents (RNN) conçu par Andrej Karpathy[^3] et qui d'après son auteur produit des résultats très étonnants. Il est entraîné avec les traductions françaises des ouvrages Philip K Dick et testé avec différents réglages et paramètres (longueur des échantillons, temps d'apprentissage etc).
+##### Ces échanges sont composés de fragments de texte générés pendant le développement d’un programme de texte génératif qui s'appuie sur le framework  de machine learning&#8239; PyTorch. Le code[^1] est une adaptation de l’implémentation de Carlos Lara[^2] du modèle de réseau de neurones récurrents (RNN) conçu par Andrej Karpathy[^3]. Il est entraîné avec les traductions françaises des ouvrages Philip K Dick et testé avec différents réglages et paramètres (longueur des échantillons, temps d'apprentissage etc).
 
 [^1]: [https://github.com/RandomLab/texte-generatif](https://github.com/RandomLab/texte-generatif)
 [^2]: [https://github.com/LeanManager/NLP-PyTorch/blob/master/Character-Level%20LSTM%20with%20PyTorch.ipynb](https://github.com/LeanManager/NLP-PyTorch/blob/master/Character-Level%20LSTM%20with%20PyTorch.ipynb)
