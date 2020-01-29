@@ -34,6 +34,9 @@ del {
   text-decoration: line-through double;
 }
 
+/*.subchapter p{
+  white-space: pre-wrap;
+}*/
 
 /* img {
     width: 100%;
@@ -183,16 +186,6 @@ pre, code{
   text-indent: 0;
 }
 
-.hard_center, .hard_center > *{
-  text-align: center;
-  white-space: pre-line;
-  word-break: break-all;
-  margin-bottom: 0;
-  margin-left: 9.5mm;
-  margin-right: 9.5mm;
-}
-
-
 pre ~ pre{
   margin-bottom: 0;
 }
@@ -238,6 +231,10 @@ figure{
     margin-bottom: 6mm;
     margin-left: 8mm;
     filter: grayscale(100%);
+}
+
+img{
+  object-fit: cover;
 }
 
 figure > img {
@@ -298,9 +295,9 @@ section[data-id="gulbirra-et-les-anadyomes"] hr{
 
 .pagedjs_left_page section[data-id="gulbirra-et-les-anadyomes"] p{
   margin-left: 50%;
-}
-
-section[data-id="courriel-du-coeur"] p{
+}*/
+/*
+section[data-id="courriel-du-coeur"] p {
   font-family: "SpaceMonoCustom";
   font-style: italic;
   font-weight: bold;
@@ -316,7 +313,7 @@ section[data-id="courriel-du-coeur"] p{
 section[data-id="courriel-du-coeur"] h6 + section[data-id="courriel-du-coeur"] h6{
   margin-top: var(--lineheight);
 }
-
+*/
 .decoration{
   display: block;
   text-align: center;
@@ -332,8 +329,7 @@ section[data-id="courriel-du-coeur"] h6 + section[data-id="courriel-du-coeur"] h
   color: white;
 }
 
-section[data-id="causerie"] p {
-  white-space: pre-wrap;
+section[data-id="la-mort-du-soleil"] p {
   text-indent: 0;
 }
 
@@ -343,7 +339,7 @@ section[data-id="gurb"] img{
   page-break-before: always;
 }
 
-section[data-id="mutations,-algorithme-génétique-(426-générations)"] pre, section[data-id="mutations,-algorithme-génétique-(426-générations)"] code{
+.zocco pre, .zocco code{
   text-align: right;
   font-family: "Roboto";
   font-weight: 350;
@@ -358,6 +354,7 @@ width: 100% !important;
 margin-left: 0!important;
 margin-right: 0!important;
 margin-bottom: var(--lineheight);
+/*box-shadow: 0px var(--lineheight) 0px -8.5px black;*/
 }
 .author{
   font-style: normal;
@@ -371,7 +368,11 @@ margin-bottom: var(--lineheight);
 }
 
 hr{
-  margin-bottom: var(--lineheight);
+  margin-bottom: calc(var(--lineheight) - 1px);
+  margin-top: -3px;
+  border: 0;
+  border-bottom: 2px solid;
+  /*position: absolute;*/
 }
 
 .no-break{
@@ -390,9 +391,16 @@ hr{
   position: relative;
 }
 
+.note::before{
+  content: attr(data-count);
+  position: absolute;
+  width: fit-content;
+  font-style: normal;
+}
+
 .note{
   display: block;
-  text-indent: -11px;
+  /*text-indent: -11px;*/
   font-family: "SpaceMonoCustom";
   font-style: italic;
   /*text-align: center;*/

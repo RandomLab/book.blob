@@ -1,5 +1,7 @@
 .interview blockquote{
   font-weight: bold;
+  margin-left: 0;
+  margin-right:0;
 }
 
 .interview blockquote > p > em{
@@ -18,6 +20,7 @@
   hyphens: none;
   text-align: left;
   font-size: 10pt;
+  text-indent: 0;
 }
 
 .interview > p em{
@@ -37,7 +40,8 @@
   -webkit-text-stroke-width: 0.4px;
   -webkit-text-stroke-color: white;
   font-size: 15pt;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
+  font-style: normal;
   word-spacing: normal;
   text-align: center;
   counter-increment: countbailey;
@@ -51,7 +55,7 @@
 section[data-id="conversation-avec-jeremy-bailey"] blockquote > p::before{
   content: counter(countbailey) ".";
   position: absolute;
-  left: -23px;
+  left: -36px;
 }
 
 section[data-id="conversation-avec-jeremy-bailey"] .introduction > p {
@@ -64,8 +68,16 @@ section[data-id="conversation-avec-jeremy-bailey"] .introduction > p {
   bottom: 0;
 }
 
+.introduction *:last-child{
+  margin-bottom: 0;
+}
+
 .interview .introduction > h6, .interview .introduction > *{
   text-indent: 0;
   hyphens: none;
   text-align: center;
+}
+
+.interview .introduction blockquote{
+  margin-bottom: var(--lineheight);
 }
