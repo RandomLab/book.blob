@@ -1,0 +1,28 @@
+
+.fiction {
+  /*width: 100%;*/
+  /*height: 100%;*/
+  column-count: 2;
+  white-space: pre-wrap;
+  column-fill: auto;
+}
+
+.fiction p{
+  margin-bottom: 0;
+  text-indent: 0;
+  word-break: break-word;
+}
+
+.fiction h2, .fiction .authors, .fiction hr{
+  column-span: all;
+}
+
+.fiction h6{
+  text-indent: 0;
+  text-align: center;
+  font-style: italic;
+}
+
+.fiction .note{
+  margin: 0;
+}

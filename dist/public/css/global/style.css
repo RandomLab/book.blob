@@ -60,28 +60,6 @@ del {
   color: white;
 }
 
-/* CHAPTER TITLE ----------------------------------------- */
-
-.chapter h1,
-#prefatory-note h1,
-#toc h1,
-#colophon h1 {
-    /* font-weight: 600; */
-    text-transform: uppercase;
-    line-height: var(--lineheight);
-    text-align: left;
-    /* margin-bottom: 12px; */
-    /* margin-top: calc(var(--baseline)*6); */
-    /* margin-bottom: calc(var(--baseline)*2); */
-}
-
-.chapter h1+p,
-#request-for-comments h1+p,
-#prefatory-note h1+p {
-    text-indent: 0;
-}
-
-
 /* counter */
 
 body {
@@ -284,7 +262,24 @@ blockquote, blockquote p{
 /* specific style */
 
 
-section[data-id="gulbirra-et-les-anadyomes"] p {
+.colophon table{
+  text-align: left;
+  border-collapse: collapse;
+  width: 100%;
+}
+.colophon tr{
+  border-bottom: 1px solid black;
+  page-break-inside: avoid;
+}
+.colophon th{
+  font-weight: normal;
+  font-size: 6pt;
+  font-family: "space mono";
+  word-spacing: -1px;
+}
+/*
+section[data-id="gulbirra-et-les-anadyomes"] p{
+  text-align: left;
   text-indent: 0;
   width: 50%;
 }
