@@ -2,6 +2,7 @@
 title: Mutations, algorithme génétique (426 générations)
 authors: Fabien Zocco
 runningTitle: mutations
+type: zocco
 ---
 
 <div class="hard_page_break"></div>
