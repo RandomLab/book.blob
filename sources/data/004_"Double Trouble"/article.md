@@ -8,7 +8,7 @@ type: article
 <span class="decoration"> </span>
 
 > Et qui ne sent, dans un moment où une si notable partie du genre humain frémit dans l’espérance de prendre enfin en main ses propres destinées, que le succès où l’insuccès d’une telle entreprise dépendra peut-être d’une simple nuance de sagesse, ou d’un degré de la sincérité, ou de la répartition des zones de cécité ou d’une vision claire du présent et de l’avenir, chez ceux (individus ou groupes) qui joueront par privilège le rôle d’organes principaux et efficients de cette prise en mains&#8239;?
-> <cite>Étienne Souriau, *L’Ombre de Dieu*, 1955</cite>
+> <cite class="epigraphe">Étienne Souriau, *L’Ombre de Dieu*, 1955</cite>
 
 
 Ce texte, incertain autant qu’incomplet, se présente comme la mise en forme succincte d’une prise de notes concernant deux objets culturels rencontrés lors de ma recherche et ayant trait aux questions de l’altérité, prises sous le scope des rémanences du sacré dans un monde techno-scientifique. Évènement historique au sens le plus démonstratif, mon premier objet est le projet Voyager initié par la NASA dans les années soixante-dix. Sous une apparente vocation exclusivement scientifique, le projet m’a semblé receler une dimension narrative et intimement spirituelle qui a particulièrement retenu mon attention. Il m’a dès lors semblé assez naturel de lui faire côtoyer une oeuvre de fiction dont la parution lui fut contemporaine&#8239;: la bien connue Solaris de Stanislas Lem. Bien que s’hasardant à une forme d’analyse critique de ces objets parents — fait historique et récit fictionnel —, ce texte n’en a pas pour autant la vocation qui se veut plutôt celle d’une pérégrination à proximité d’étrangetés exoplanétaires.
@@ -27,9 +27,11 @@ Pour ce faire, Carl Sagan composa une équipe de quatre journalistes et scientif
 
 
 ![Voyager spacecraft, source&#8239;: wikipedia.org/wiki/Programme_Voyager][Voyager_spacecraft_structure-fr]
+<figcaption>A.1</figcaption>
 <!-- <figcaption>*Voyager spacecraft* &#13;&#10;wikipedia.org/wiki/Programme_Voyager</figcaption> -->
 
 ![The Golden Record][john-casani-8-4-77_30584323590_o]
+<figcaption>A.2</figcaption>
 <!-- <figcaption>*The Golden Record* &#13;&#10;voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/</figcaption> -->
 
 <div class="hard_page_break"></div>
@@ -48,15 +50,18 @@ Alors, pour que nous puissions espérer une réponse digne de celle du *Wow! Sig
 
 [^6]: Le *Wow! Signal* est un signal radio d’une amplitude «&#8239;extraordinairement importante&#8239;» captée par le radiotélescope «&#8239;The Big Ear&#8239;» de l’université de l’Ohio le 15 août 1977. L’origine de ce signal radio est resté longtemps inexpliquée et a donné lieu à de nombreuse spéculations. Même si aujourd’hui l’hypothèse d’une émission liée au passage d’une comète semble être la plus répandue, elle ne fait toujours pas l’unanimité&#8239;; avis aux amateurs d’exo-crypto…
 
-[^7]: Il faudrait donc que cette intelligence soit d’une part semblable à la notre (ou en tout cas suffisamment proche pour qu’une «&#8239;traduction&#8239;» soit possible), mais de surcroît qu’elle soit qualitativement supérieure afin que notre langage lui soit intelligible et suffisamment simple pour qu’elle puisse en réaliser la traduction. La définition de l’intelligence et son caractère hautement anthropomorphique pose déjà ici grandement problème. La question d’une qualité ou d’une quantité d’intelligence ne va décemment pas vers sa simplification…
+[^7]: Il faudrait donc que cette intelligence soit d’une part semblable à la notre (ou en tout cas suffisamment proche pour qu’une «&#8239;traduction&#8239;» soit possible), mais de surcroît qu’elle soit qualitativement supérieure afin que notre langage lui soit intelligible et suffisamment simple pour qu’elle puisse en réaliser la traduction. La définition de l’intelligence et son caractère hautement anthropomorphique pose déjà ici grandement problème. La question d’une qualité ou d’une quantité d’intelligence ne va définitivement pas vers sa simplification…
 
 ![Valeri Borzov-aux JO de Munich][sprinters-valeri-borzov-of-the-ussr-in-lead-history-of-the-olympics_31363259165_o]
+<figcaption>A.3</figcaption>
 <!-- <figcaption>*Valeri Borzov-aux JO de Munich*</figcaption>
 ![Rush hour][rush-hour]
 <figcaption>*Rush hour*</figcaption> -->
 
+<div class="hard_page_break"></div>
 
 ![The Golden Record][the-golden-record_30269492703_o]
+<figcaption>A.4</figcaption>
 <!-- <figcaption>*The Golden Record*</figcaption> -->
 
 <div class="hard_page_break"></div>
@@ -86,8 +91,8 @@ Cette confrontation avec les projections, se verra détaillée dans l’intrigue
 
 
 ![I don’t know myself (extrait du Solaris d’Andrei Tarkovski)](images/Idontknowmyself.png =300x190)
+<figcaption>B.1</figcaption>
 <!-- <figcaption>*I don’t know myself*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption> -->
-
 
 [^11]: «&#8239;Quand le «&#8239;je&#8239;» cherche à se définir, il peu commencer par lui-même, mais il découvrira que ce soi est déjà impliqué dans une temporalité sociale qui excède ses propres capacités de narration&#8239;». Judith Butler, *Le récit de soi*, p&#8239;7, 2007.
 
@@ -97,7 +102,8 @@ Si la relation amoureuse peut tendre à une dissociation entre l’autre dans so
 [^12]: L’autonomie d’Harey ne se vérifiant d’ailleurs qu’assez peu dans la suite du récit, la matérialité des projections restant en suspend par rapport à une expérience d’hallucination collective qui pourrait être celles de cosmonautes de la station.
 
 > Il convient de faire ici au moins deux remarques. La première concerne notre dépendance fondamentale à l’égard de l’autre, le fait que nous ne puissions exister sans interpeller l’autre et sans que l’autre ne nous interpelle, et l’impossibilité de nous départir de notre socialité fondamentale.
-> <cite>Judith Butler, *Le récit de soi*, p&#8239;33, 2007</cite>
+> <cite>*Le récit de soi*, p.&#8239;33</cite>
+<!-- > <cite>Judith Butler, *Le récit de soi*, p&#8239;33, 2007</cite> -->
 
 N’étant issue que de souvenirs de Kelvin, il n’y aura ni interpellation, ni reconnaissance, ni quelque forme de devenir autre pour Harey, qui se verra dans l’impossibilité de constituer un «&#8239;je&#8239;». Prenant conscience de son impossible individuation, la dissociation se fera trop forte et Harey cherchera à se donner la mort dans un ultime mimétisme de sa version historicisée par Kelvin.
 
@@ -106,7 +112,8 @@ Si du côté de Harey, le miroir est donc un miroir sans reflet, le trouble de K
 <div class="hard_page_break"></div>
 
 > En fait, s’il nous faut suivre la Phénoménologie de l’esprit, les rencontres dont je fait l’expérience me transforment invariablement&#8239;; la reconnaissance devient le processus qui me fait devenir autre que ce que j’étais et qui m’empêche de redevenir ce que j’étais. Il y a donc une perte constitutive dans le processus de reconnaissance, puisque le «&#8239;je&#8239;» est transformé par l’acte de reconnaissance. Ce n’est pas du tout son passé qui est réuni et reconnu dans cet acte&#8239;; l’acte de reconnaissance altère l’organisation de ce passé et sa signification en même temps qu’il transforme le présent de celui qui reçoit la reconnaissance.
-> <cite>Judith Butler, *Le récit de soi*, p&#8239;28, 2007</cite>
+> <cite>*Le récit de soi*&#13;&#10;p.&#8239;28</cite>
+<!-- > <cite>Judith Butler, *Le récit de soi*, p&#8239;28, 2007</cite> -->
 
 
 Et même s’il elle en vient à critiquer cette approche, selon-elle incomplète car n’intégrant pas la question de l’ensemble de normes sur lesquelles reposent l’acte de reconnaissance[^13], il n’en demeure pas moins que ce devenir autre par la reconnaissance d’autrui reste un mécanisme central dans le récit de soi. On comprend alors l’attitude de Kelvin, qui dans l’adoption de la projection de Harey cherche certainement à retrouver cette pièce manquante de la fabrique de son identité.
@@ -118,43 +125,48 @@ Le troisième cercle, parachevant la construction de l’intrigue de Solaris, es
 <div class="hard_page_break"></div>
 
 > Nous ne voulons pas conquérir le cosmos, nous voulons seulement étendre la terre jusqu’aux frontières du cosmos. Telle planète sera aride comme le Sahara, telle autre glaciale comme nos régions polaires, telle autre luxuriante comme l’Amazonie. Nous sommes humanitaires et chevaleresques, nous ne voulons pas asservir d’autres races, nous voulons simplement leur transmettre nos valeurs et en échange nous emparer de leur patrimoine. Nous nous considérons comme les chevaliers du Saint-Contact. C’est un second mensonge. Nous ne cherchons que l’homme. Nous n’avons pas besoin d’autres mondes. Nous avons besoin de miroirs. Nous ne savons que faire d’autres mondes. Un seul monde, notre monde nous suffit, mais nous ne l’encaissons pas tel qu’il est. Nous cherchons une image idéale de notre propre monde&#8239;; nous partons en quête d’une planète, d’une civilisation supérieure à la nôtre, mais développée sur la base d’un prototype de notre passé primitif.
-> <cite>Solaris, Stanislas Lem, p116, Editions Denoël (col. présence du futur), Paris, 1966</cite>
+> <cite>*Solaris*&#13;&#10;p.&#8239;116</cite>
+<!-- > <cite>Solaris, Stanislas Lem, p116, Editions Denoël (col. présence du futur), Paris, 1966</cite> -->
 
 Lem esquisse ainsi une double critique. Celle d’un positivisme scientifique, qui dans son objectivité froide, ne sait qu’échantillonner le réel, et qui l’oeil rivé sur l’optique de son microscope, ne parvient pas à inclure l’existence d’invisibles et d’inconnus, qui sans savoir se soumettre à l’intelligibilité de la raison, ne font pas moins parti du monde. Cette critique kantienne des limites de la raison se double de la critique d’un anthropomorphisme qui transforme toute recherche de l’altérité en une recherche du semblable ou de l’identique. Tel Kelvin qui se voit condamné à se reconnaître dans un autre qui n’est qu’une projection de lui-même, l’anthropomorphisme critiqué par Lem nous fait façonner l’autre à notre image et condamne l’humanité à un solipsisme délétère.
 Ce dernier cercle est donc un cercle qui confronte l’humanité et surtout la société techno-scientifique, aux limites de son propre système de représentations. Cette crise épistémique, cette limite de l’inintelligible incarné par la planète océan, finira par pousser les esprits philistins des cosmonautes à l’acédie et la déréliction&#8239;; la solaristique représentant à la fois l’aporie de leur démarche et l’échec d’une société prise au piège d’une téléologie circulaire.
 
 
 > [Kris Kelvin&#8239;:] – Non je ne pense pas à un Dieu dont l’imperfection résulte de la candeur de ses créateurs humains, mais dont l’imperfection représente la caractéristique fondamentale, immanente. Un Dieu limité dans son omniscience et dans sa toute puissance, faillible, incapable de prévoir les conséquences de ses actes, créant des phénomènes qui engendrent l’horreur. C’est un Dieu… infirme, dont les ambitions dépassent les forces, et qui ne s’en rend pas compte immédiatement. Un Dieu qui crée des horloges, mais pas le temps qu’elles mesurent.
-> <cite>Stanislas Lem, *Solaris*, p&#8239;309, 1966</cite>
+> <cite>*Solaris*&#13;&#10;p.&#8239;309</cite>
+<!-- > <cite>Stanislas Lem, *Solaris*, p&#8239;309, 1966</cite> -->
 
-![becoming human (extrait du Solaris d’Andrei Tarkovski)][ahumanbeing]
-<!-- <figcaption>*becoming human*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption> -->
 
 <div class="hard_page_break"></div>
 
-### bibliographie
+![becoming human (extrait du Solaris d’Andrei Tarkovski)][ahumanbeing]
+<figcaption>B.2</figcaption>
+<!-- <figcaption>*becoming human*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption> -->
 
-- L’Ombre de Dieu, Etienne Souriau, Presses Universitaires de France, 1955
-- Murmurs of Earth: The Voyager Interstellar Record, Ballantine Books, NY, 1978 pour la première édition.
-- Solaris, Stanislas Lem, Editions Denoël (col. présence du futur), Paris, 1966
-- Le récit de soi, Judith Butler, Presses Universitaires de France, Paris, 2007
+##### bibliographie
 
-### webographie
+- *L’Ombre de Dieu*, Étienne Souriau, Presses Universitaires de France, 1955
+- *Murmurs of Earth: The Voyager Interstellar Record*, Ballantine Books, NY, 1978 pour la première édition.
+- *Solaris*, Stanislas Lem, Editions Denoël (col. présence du futur), Paris, 1966
+- *Le récit de soi*, Judith Butler, Presses Universitaires de France, Paris, 2007
 
-- https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/greetings/
-- https://www.nationalgeographic.fr/espace/recherche-de-vie-extraterrestre-la-revolution-des-exoplanetes
+##### inconographie
 
-### inconographie
+* A. [https://voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/](https://voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/)
+    - 1. Voyager spacecraft
+    - 2. The Golden Record
+    - 3. Valeri Borzov-aux JO de Munich
+    - 4. The Golden Record
+* B. *Solaris*, Andreï Tarkovski, 1972
 
 [Voyager_spacecraft_structure-fr]: images/Voyager_spacecraft_structure-fr.png
-
 [john-casani-8-4-77_30584323590_o]: images/john-casani-8-4-77_30584323590_o.jpg
-
 [sprinters-valeri-borzov-of-the-ussr-in-lead-history-of-the-olympics_31363259165_o]: images/sprinters-valeri-borzov-of-the-ussr-in-lead-history-of-the-olympics_31363259165_o.gif
-
 [rush-hour]: images/rush-hour.gif
-
 [the-golden-record_30269492703_o]: images/the-golden-record_30269492703_o.jpg
-
-
 [ahumanbeing]: images/ahumanbeing.png
+
+##### webographie
+
+- [https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/greetings/](https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/greetings/)
+- [https://www.nationalgeographic.fr/espace/recherche-de-vie-extraterrestre-la-revolution-des-exoplanetes](https://www.nationalgeographic.fr/espace/recherche-de-vie-extraterrestre-la-revolution-des-exoplanetes)
