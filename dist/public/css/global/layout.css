@@ -8,7 +8,7 @@
         /*size: calc(120mm + var(--bordsperdus)) calc(180mm + var(--bordsperdus));*/
         size:152mm 228mm;
         /*margin-top: calc(var(--grid) * 1.5);*/
-        margin-top: 54px;
+        margin-top: 14.3mm;
         margin-bottom: 68px;
         /*background: repeating-linear-gradient(white, white calc(var(--grid) - 1px), #9198e5 var(--grid), #9198e5 var(--grid));*/
         /*marks: crop;
@@ -24,7 +24,7 @@
     /* LEFT PAGES ---------------------------------------------------------------------- */
 
     @page :left {
-        margin-left: 54px;
+        margin-left: 14.3mm;
         margin-right: 90px;
 
         @bottom-center{
@@ -54,7 +54,7 @@
 
     @page :right {
         margin-left: 90px;
-        margin-right: 54px;
+        margin-right: 14.3mm;
 
         /* page number */
         @bottom-center {
@@ -77,6 +77,15 @@
           text-align: right;
           width: 70mm;
         }
+    }
+
+    @page cover{
+      display: flex;
+      height: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      margin-bottom: 0;
+      margin-top: 0;
     }
 
     /*  running header (book title)
@@ -169,10 +178,10 @@
        -webkit-hyphens: none;
        */
 
-       hyphens: auto;
-        -ms-hyphens: auto;
-        -moz-hyphens: auto;
-        -webkit-hyphens: auto;
+       hyphens: manual;
+        -ms-hyphens: manual;
+        -moz-hyphens: manual;
+        -webkit-hyphens: manual;
     }
 
     em{

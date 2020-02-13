@@ -87,7 +87,7 @@ body {
 
 /* TEXT ---------------------------------------------------- */
 
-p, h6 {
+p, h6, li {
     text-align: left;
     font-family: 'Inknut Antiqua', sans-serif;
     font-style: normal;
@@ -95,7 +95,6 @@ p, h6 {
     /*font-style: italic;*/
     font-size: 9pt;
     line-height: var(--lineheight);
-    text-indent: 10mm;
     margin-bottom: var(--lineheight);
 }
 /*
@@ -132,6 +131,8 @@ h5 {
     /* line-height: var(--baseline) - 1; */
 }
 
+
+
 h1,
 h2{
   -webkit-text-stroke-width: 0.9px;
@@ -140,10 +141,14 @@ h2{
   color: white;
   font-size: 20pt;
 }
-
-
-h6 {
-
+/* HACK:  */
+@-moz-document url-prefix(){
+  h1,h2,h3,h4, .interview blockquote{
+    letter-spacing: -1px;
+  }
+  #conversation-avec-jeremy-bailey{
+    margin-bottom: calc(var(--lineheight) * -1);
+  }
 }
 
 pre, code{
@@ -266,6 +271,7 @@ blockquote, blockquote p{
   text-align: left;
   border-collapse: collapse;
   width: 100%;
+  page-break-inside: auto;
 }
 .colophon tr{
   border-bottom: 1px solid black;
@@ -277,38 +283,7 @@ blockquote, blockquote p{
   font-family: "space mono";
   word-spacing: -1px;
 }
-/*
-section[data-id="gulbirra-et-les-anadyomes"] p{
-  text-align: left;
-  text-indent: 0;
-  width: 50%;
-}
 
-section[data-id="gulbirra-et-les-anadyomes"] hr{
-  margin-bottom: calc(var(--lineheight) * 13);
-}
-
-.pagedjs_left_page section[data-id="gulbirra-et-les-anadyomes"] p{
-  margin-left: 50%;
-}*/
-/*
-section[data-id="courriel-du-coeur"] p {
-  font-family: "SpaceMonoCustom";
-  font-style: italic;
-  font-weight: bold;
-  text-indent: 0;
-  text-align: left;
-  margin-bottom: var(--lineheight);
-  width: 75%;
-  word-spacing: -3.2px;
-  margin-left: 25%;
-  hyphens: none;
-}
-
-section[data-id="courriel-du-coeur"] h6 + section[data-id="courriel-du-coeur"] h6{
-  margin-top: var(--lineheight);
-}
-*/
 .decoration{
   display: block;
   text-align: center;
@@ -379,6 +354,10 @@ hr{
   height: fit-content;
 }
 
+.notes .note:last-child, .notesOverflow .note:last-child{
+  margin-bottom: 0;
+}
+
 .notes > .note{
   position: relative;
 }
@@ -404,6 +383,7 @@ hr{
   line-height: 12px;
   position: absolute;
   word-break: break-word;
+  margin-bottom: 12px;
 }
 
 .note em{
@@ -413,10 +393,10 @@ hr{
   font-size: 7pt;
   text-decoration: underline;
 }
-
+/*
 .note + .note {
   margin-top: 12px;
-}
+}*/
 
 .hard_page_break{
   page-break-before: always;

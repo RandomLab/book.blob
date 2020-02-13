@@ -17,8 +17,13 @@
 
 .article .note::before{
   right: 98px;
+  width: -moz-max-content;
 }
 
+
+.article .note:empty{
+  margin-bottom: 0;
+}
 
 .article figure{
   margin-bottom: calc(var(--lineheight) * 2);
@@ -34,6 +39,7 @@
 }
 
 .article blockquote{
+  position: relative;
   font-weight: bold;
   hyphens: none;
   float: left;
@@ -44,14 +50,69 @@
   margin-bottom: 0;
 }
 
-.article cite, figcaption{
-  display: block;
+.article figure{
+  position: relative;
+}
+
+.article cite, .article figcaption{
+  /*display: block;*/
+  position: absolute;
+  right: 0;
+  top:100%;
+  width: 5em;
+  word-spacing: -1px;
   font-family: "SpaceMonoCustom";
   font-weight: normal;
   white-space: pre-line;
   font-style: normal;
-  font-size: 10pt;
+  font-size: 7pt;
+  text-align: right;
+  line-height: 12px;
+}
+
+.article .epigraphe{
+  position: relative;
+  font-size: 11pt;
   line-height: var(--lineheight);
+  text-align: center;
+  display: block;
+  width: 100%;
+}
+
+.article .fullpage figcaption{
+
+}
+
+.article li{
+  margin-bottom: 0;
+  list-style: none;
+  margin-left: 1em;
+  text-indent: -1em;
+}
+
+.article li ul{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.article ul ol{
+   counter-reset: sublist;
+}
+
+.article li li {
+  counter-increment: sublist;
+  list-style: none;
+  margin-left: 2em;
+}
+
+.article li li::before{
+  content : counter("sublist");
+}
+
+.article h6{
+  text-align: left;
+  font-family: "Space Mono";
+  font-size:13pt;
 }
 
 .article .full-page{
@@ -66,6 +127,14 @@
   width: 22%;
   left: 50%;
   bottom: 0;
+}
+
+@-moz-document url-prefix(){
+  .article > p{
+    text-justify: distribute;
+    word-spacing: 0.6px;
+    letter-spacing: -0.1px;
+  }
 }
 
 section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] #note_5{

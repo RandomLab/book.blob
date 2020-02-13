@@ -60,6 +60,7 @@ section[data-id="conversation-avec-jeremy-bailey"] blockquote > p::before{
 
 section[data-id="conversation-avec-jeremy-bailey"] .introduction > p {
   text-align: left;
+  position: relative;
 }
 
 
