@@ -29,8 +29,10 @@ class Html {
           extensions: [this.footnote],
           noHeaderId : true } ,
         );
+
     public metadata:object = {};
     private srcFolder: string;
+    public nomIntroduction: string;
 
     constructor(private chapitres: string[]) {
         this.chapitres = chapitres;
@@ -145,8 +147,6 @@ class Html {
         return footer;
     }
 
-
-
     private getMetadataFromMd(folder: string): { title: string; authors: string; runningTitle: string } {
         const md: string = fs.readFileSync(this.srcFolder + 'data/' + folder + '/article.md', 'utf8');
         this.converter.makeHtml(md);
@@ -162,6 +162,8 @@ class Html {
         const introductionId = this.getId(introduction);
         const introductionToc = `<li id="toc-${introductionId}">
         <a href="#${introductionId}">${introductionName}</a></li>`;
+
+        this.nomIntroduction = introductionName;
 
         const liste: string[] = [];
 
@@ -184,7 +186,7 @@ class Html {
     private introduction(): string {
         let introduction: string = fs.readFileSync(this.srcFolder + 'preface.md', 'utf8');
         introduction = this.converter.makeHtml(introduction);
-        const result: string = '<section id="preface">' + introduction + '</section>';
+        const result: string = `<section id="${this.nomIntroduction}">` + this.nomIntroduction + `</section>`;
         return result;
     }
 }
