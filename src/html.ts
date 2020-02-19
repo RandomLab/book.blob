@@ -49,7 +49,7 @@ class Html {
         const body: string = this.body();
         const colophon: string = this.colophon();
         const footer: string = this.footer();
-        const result = head.concat(cover + toc + introduction + body + colophon + footer);
+        const result = head.concat(cover + toc + body + colophon + footer);
         return result;
     }
 

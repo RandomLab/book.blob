@@ -63,7 +63,7 @@ Mais je pense honnêtement que ça ne diffère pas d’une pierre tombale sur la
 
 Je pense que je me suis déjà réincarné un million de fois à travers google et youtube et facebook et twitter. Je me reflète dans des algorithmes tous les jours. Un jour, je ne serai plus présent pour voir mes propres réflexions mais elles resteront vivantes si quelqu’un décide de les regarder.
 
-> Pouvez-vous parler de *Jeremy Bailey Next*&#8239;? C’est une nouvelle version de vous&#8239;? Je ne suis pas sûre de comprendre, c’est votre site/projet, non&#8239;? [http://www.jeremybaileynext.com/](http://www.jeremybaileynext.com/)
+> Pouvez-vous parler de [*Jeremy Bailey Next*]((http://www.jeremybaileynext.com/))&#8239;? C’est une nouvelle version de vous&#8239;? Je ne suis pas sûre de comprendre, c’est votre site/projet, non&#8239;?
 
 Oui, c’est un de mes projets qui permet de discuter avec une version artificielle de moi-même en tant que peinture (dans cette version l’IA n’a pas encore découvert la couleur). L’idée, c’est qu’une IA artiste puisse choisir de s’exprimer par des gestes et non par la voix parce que sa manière de communiquer est visuelle. Je rêve d’une version de moi-même qui pourrait créer des peintures ou des chorégraphies pour l’éternité. Je réitère constamment cette idée. Si youtube peut communiquer avec moi à travers des vidéos, pourquoi Alexia ne pourrait pas communiquer avec moi en chantant ou mon Roomba en dansant&#8239;?
 

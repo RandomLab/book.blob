@@ -94,7 +94,7 @@ Cette confrontation avec les projections, se verra détaillée dans l’intrigue
 <figcaption>B.1</figcaption>
 <!-- <figcaption>*I don’t know myself*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption> -->
 
-[^11]: «&#8239;Quand le «&#8239;je&#8239;» cherche à se définir, il peu commencer par lui-même, mais il découvrira que ce soi est déjà impliqué dans une temporalité sociale qui excède ses propres capacités de narration&#8239;». Judith Butler, *Le récit de soi*, p&#8239;7, 2007.
+[^11]: «&#8239;Quand le «&#8239;je&#8239;» cherche à se définir, il peu commencer par lui-même, mais il découvrira que ce soi est déjà impliqué dans une temporalité sociale qui excède ses propres capacités de narration&#8239;». Judith Butler, *Le récit de soi*, p&#8239;7.
 
 D’un côté du miroir, se trouve Harey. En tant qu’être qui n’a pas encore conscience d’elle-même, Harey apparaît initialement dans le récit comme un proto-sujet qui n’aura de cesse de chercher à se définir. Mais celle-ci s’est vue littéralement construite — *made but not born* — à partir de la mémoire d’une seule et unique personne. Bien que l’on puisse imaginer que nos souvenir soient des objets malléables, dont l’origine nous est parfois étrangère, la conscience d’une mémoire exclusivement exogène peut s’avérer pour le moins troublante dans la constitution de soi. Si selon Judith Butler il y a toujours un contexte social au sein duquel s’exerce la constitution du sujet[^11], l’aliénation du personnage de Harey tient certainement au fait que le contexte se voit ici réduit au seul esprit de Kelvin. Ce qui ne l’empêchera pas de l’aimer d’un amour sincère bien que fabriqué, faisant du personnage une figure en totale abnégation.
 Si la relation amoureuse peut tendre à une dissociation entre l’autre dans son autonomie[^12] et la représentation que l’un peut en avoir, le personnage de Harey en tant que représentation incarnée, offre une expérience de pensée singulière, questionnant tout autant la part narcissique de l’expérience amoureuse, que les limites de la reconnaissance dans un contexte affectivement chargé. Cette reconnaissance, cette interpellation, pour suivre encore Judith Butler, se présente comme un geste nécessaire dans la formation du sujet&#8239;:
@@ -102,7 +102,7 @@ Si la relation amoureuse peut tendre à une dissociation entre l’autre dans so
 [^12]: L’autonomie d’Harey ne se vérifiant d’ailleurs qu’assez peu dans la suite du récit, la matérialité des projections restant en suspend par rapport à une expérience d’hallucination collective qui pourrait être celles de cosmonautes de la station.
 
 > Il convient de faire ici au moins deux remarques. La première concerne notre dépendance fondamentale à l’égard de l’autre, le fait que nous ne puissions exister sans interpeller l’autre et sans que l’autre ne nous interpelle, et l’impossibilité de nous départir de notre socialité fondamentale.
-> <cite>*Le récit de soi*, p.&#8239;33</cite>
+> <cite>Judith Butler&#13;&#10;*Le récit de soi*&#13;&#10;p.&#8239;33</cite>
 <!-- > <cite>Judith Butler, *Le récit de soi*, p&#8239;33, 2007</cite> -->
 
 N’étant issue que de souvenirs de Kelvin, il n’y aura ni interpellation, ni reconnaissance, ni quelque forme de devenir autre pour Harey, qui se verra dans l’impossibilité de constituer un «&#8239;je&#8239;». Prenant conscience de son impossible individuation, la dissociation se fera trop forte et Harey cherchera à se donner la mort dans un ultime mimétisme de sa version historicisée par Kelvin.
@@ -112,20 +112,20 @@ Si du côté de Harey, le miroir est donc un miroir sans reflet, le trouble de K
 <div class="hard_page_break"></div>
 
 > En fait, s’il nous faut suivre la Phénoménologie de l’esprit, les rencontres dont je fait l’expérience me transforment invariablement&#8239;; la reconnaissance devient le processus qui me fait devenir autre que ce que j’étais et qui m’empêche de redevenir ce que j’étais. Il y a donc une perte constitutive dans le processus de reconnaissance, puisque le «&#8239;je&#8239;» est transformé par l’acte de reconnaissance. Ce n’est pas du tout son passé qui est réuni et reconnu dans cet acte&#8239;; l’acte de reconnaissance altère l’organisation de ce passé et sa signification en même temps qu’il transforme le présent de celui qui reçoit la reconnaissance.
-> <cite>*Le récit de soi*&#13;&#10;p.&#8239;28</cite>
+> <cite>Judith Butler&#13;&#10;*Le récit de soi*&#13;&#10;p.&#8239;28</cite>
 <!-- > <cite>Judith Butler, *Le récit de soi*, p&#8239;28, 2007</cite> -->
 
 
 Et même s’il elle en vient à critiquer cette approche, selon-elle incomplète car n’intégrant pas la question de l’ensemble de normes sur lesquelles reposent l’acte de reconnaissance[^13], il n’en demeure pas moins que ce devenir autre par la reconnaissance d’autrui reste un mécanisme central dans le récit de soi. On comprend alors l’attitude de Kelvin, qui dans l’adoption de la projection de Harey cherche certainement à retrouver cette pièce manquante de la fabrique de son identité.
 
-[^13]: «&#8239;Quand nous demandons ce qui rend possible la reconnaissance, nous découvrons que cela ne peut être simplement l’autre, capable de savoir que je possède un talent ou une capacité spécifique et de me reconnaître à ce titre, puisque cet autre devra aussi s’appuyer, ne serait-ce qu’implicitement, sur certains critère pour établir ce qui, du soi, sera ou ne sera pas reconnaissable par chacun, c’est-à-dire un cadre pour voir et pouvoir juger tout aussi bien qui je suis.&#8239;» Judith Butler, *Le récit de soi*, p&#8239;29, 2007
+[^13]: «&#8239;Quand nous demandons ce qui rend possible la reconnaissance, nous découvrons que cela ne peut être simplement l’autre, capable de savoir que je possède un talent ou une capacité spécifique et de me reconnaître à ce titre, puisque cet autre devra aussi s’appuyer, ne serait-ce qu’implicitement, sur certains critère pour établir ce qui, du soi, sera ou ne sera pas reconnaissable par chacun, c’est-à-dire un cadre pour voir et pouvoir juger tout aussi bien qui je suis.&#8239;» Judith Butler, *Le récit de soi*, p&#8239;29.
 
 Le troisième cercle, parachevant la construction de l’intrigue de Solaris, est celui du monde des hommes. Cercle périphérique, décrit par la trajectoire d’une société techno-scientifique lancée à corps perdu dans une quête du progrès par le développement technologique, l’exploration spatiale et la recherche scientifique, qui se voit mise en échec dans son incapacité à sortir des logiques coloniales de l’anthropomorphisme.
 
 <div class="hard_page_break"></div>
 
 > Nous ne voulons pas conquérir le cosmos, nous voulons seulement étendre la terre jusqu’aux frontières du cosmos. Telle planète sera aride comme le Sahara, telle autre glaciale comme nos régions polaires, telle autre luxuriante comme l’Amazonie. Nous sommes humanitaires et chevaleresques, nous ne voulons pas asservir d’autres races, nous voulons simplement leur transmettre nos valeurs et en échange nous emparer de leur patrimoine. Nous nous considérons comme les chevaliers du Saint-Contact. C’est un second mensonge. Nous ne cherchons que l’homme. Nous n’avons pas besoin d’autres mondes. Nous avons besoin de miroirs. Nous ne savons que faire d’autres mondes. Un seul monde, notre monde nous suffit, mais nous ne l’encaissons pas tel qu’il est. Nous cherchons une image idéale de notre propre monde&#8239;; nous partons en quête d’une planète, d’une civilisation supérieure à la nôtre, mais développée sur la base d’un prototype de notre passé primitif.
-> <cite>*Solaris*&#13;&#10;p.&#8239;116</cite>
+> <cite>Stanislas Lem&#13;&#10;*Solaris*&#13;&#10;p.&#8239;116</cite>
 <!-- > <cite>Solaris, Stanislas Lem, p116, Editions Denoël (col. présence du futur), Paris, 1966</cite> -->
 
 Lem esquisse ainsi une double critique. Celle d’un positivisme scientifique, qui dans son objectivité froide, ne sait qu’échantillonner le réel, et qui l’oeil rivé sur l’optique de son microscope, ne parvient pas à inclure l’existence d’invisibles et d’inconnus, qui sans savoir se soumettre à l’intelligibilité de la raison, ne font pas moins parti du monde. Cette critique kantienne des limites de la raison se double de la critique d’un anthropomorphisme qui transforme toute recherche de l’altérité en une recherche du semblable ou de l’identique. Tel Kelvin qui se voit condamné à se reconnaître dans un autre qui n’est qu’une projection de lui-même, l’anthropomorphisme critiqué par Lem nous fait façonner l’autre à notre image et condamne l’humanité à un solipsisme délétère.
@@ -133,7 +133,7 @@ Ce dernier cercle est donc un cercle qui confronte l’humanité et surtout la s
 
 
 > [Kris Kelvin&#8239;:] – Non je ne pense pas à un Dieu dont l’imperfection résulte de la candeur de ses créateurs humains, mais dont l’imperfection représente la caractéristique fondamentale, immanente. Un Dieu limité dans son omniscience et dans sa toute puissance, faillible, incapable de prévoir les conséquences de ses actes, créant des phénomènes qui engendrent l’horreur. C’est un Dieu… infirme, dont les ambitions dépassent les forces, et qui ne s’en rend pas compte immédiatement. Un Dieu qui crée des horloges, mais pas le temps qu’elles mesurent.
-> <cite>*Solaris*&#13;&#10;p.&#8239;309</cite>
+> <cite>Stanislas Lem&#13;&#10;*Solaris*&#13;&#10;p.&#8239;309</cite>
 <!-- > <cite>Stanislas Lem, *Solaris*, p&#8239;309, 1966</cite> -->
 
 
@@ -159,7 +159,7 @@ Ce dernier cercle est donc un cercle qui confronte l’humanité et surtout la s
     - 4. The Golden Record
 * B. *Solaris*, Andreï Tarkovski, 1972
 
-[Voyager_spacecraft_structure-fr]: images/Voyager_spacecraft_structure-fr.png
+[Voyager_spacecraft_structure-fr]: images/Voyager_spacecraft_structure-fr.jpg
 [john-casani-8-4-77_30584323590_o]: images/john-casani-8-4-77_30584323590_o.jpg
 [sprinters-valeri-borzov-of-the-ussr-in-lead-history-of-the-olympics_31363259165_o]: images/sprinters-valeri-borzov-of-the-ussr-in-lead-history-of-the-olympics_31363259165_o.gif
 [rush-hour]: images/rush-hour.gif

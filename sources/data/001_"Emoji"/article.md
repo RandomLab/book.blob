@@ -1,5 +1,7 @@
 ---
 title: U+1F355
 authors: Nicolas Frespech
-runningTitle: emoji
+runningTitle:
 ---
+
+![](images/Uif355.jpg)
