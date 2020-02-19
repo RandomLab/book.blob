@@ -141,6 +141,12 @@ h2{
   color: white;
   font-size: 20pt;
 }
+
+
+h3{
+  -webkit-text-stroke-width: 0px;
+}
+
 /* HACK:  */
 @-moz-document url-prefix(){
   h1,h2,h3,h4, .interview blockquote{
@@ -148,6 +154,12 @@ h2{
   }
   #conversation-avec-jeremy-bailey{
     margin-bottom: calc(var(--lineheight) * -1);
+  }
+
+  @media print {
+    h1,h2,h3,h4{
+      font-weight: normal;
+    }
   }
 }
 
@@ -190,7 +202,7 @@ h6 em, pre em{
 .note_call{
     vertical-align: super;
     line-height: 0;
-    font-family: "space mono";
+    font-family: "SpaceMonoCustom";
     font-size: 7pt;
 
 }
@@ -280,7 +292,7 @@ blockquote, blockquote p{
 .colophon th{
   font-weight: normal;
   font-size: 6pt;
-  font-family: "space mono";
+  font-family: "SpaceMonoCustom";
   word-spacing: -1px;
 }
 
@@ -332,7 +344,7 @@ margin-bottom: var(--lineheight);
   line-height: var(--lineheight);
   display: flex;
   justify-content: space-around;
-  font-family: "space mono";
+  font-family: "SpaceMonoCustom";
   /* font-size: 10.5pt; */
   text-align: center;
 }
@@ -387,7 +399,7 @@ hr{
 }
 
 .note em{
-  font-family: "Space Mono";
+  font-family: "SpaceMonoCustom";
   font-style: normal;
   word-spacing: -1px;
   font-size: 7pt;

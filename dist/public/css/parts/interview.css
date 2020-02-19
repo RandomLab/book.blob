@@ -24,7 +24,7 @@
 }
 
 .interview > p em{
-  font-family: "Space Mono";
+  font-family: "SpaceMonoCustom";
   font-style: normal;
   word-spacing: -3.6px;
   font-weight: normal;
@@ -44,19 +44,19 @@
   font-style: normal;
   word-spacing: normal;
   text-align: center;
-  counter-increment: countbailey;
+  /*counter-increment: countbailey;*/
   page-break-inside: avoid;
 }
-
+/*
 .interview h2{
   counter-reset: countbailey;
-}
-
+}*/
+/*
 section[data-id="conversation-avec-jeremy-bailey"] blockquote > p::before{
   content: counter(countbailey) ".";
   position: absolute;
   left: -36px;
-}
+}*/
 
 section[data-id="conversation-avec-jeremy-bailey"] .introduction > p {
   text-align: left;

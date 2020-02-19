@@ -23,6 +23,18 @@
   font-style: italic;
 }
 
+.fiction .notes{
+  position: absolute;
+  bottom: 0;
+}
+
 .fiction .note{
-  margin: 0;
+  margin-bottom: 0;
+
+}
+
+.fiction .note::before{
+  margin-left: -1em;
+  margin-right: 5px;
+  font-style: normal;
 }

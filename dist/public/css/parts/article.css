@@ -111,7 +111,7 @@
 
 .article h6{
   text-align: left;
-  font-family: "Space Mono";
+  font-family: "SpaceMonoCustom";
   font-size:13pt;
 }
 
@@ -135,6 +135,10 @@
     word-spacing: 0.6px;
     letter-spacing: -0.1px;
   }
+}
+
+#double-trouble .note em{
+  text-decoration: none;
 }
 
 section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] #note_5{

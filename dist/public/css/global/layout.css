@@ -62,14 +62,14 @@
           font-family: 'Inknut Antiqua';
           font-size:12pt;
           padding-bottom: 5mm;
-          color:white;
+          color: white;
           -webkit-text-stroke-width: 1px;
           -webkit-text-stroke-color: black;
           align-items: flex-end;
         }
         @bottom-right-corner {
           content: string(chapTitle);
-          font-family: "Space Mono";
+          font-family: "SpaceMonoCustom";
           font-size: 8pt;
           right: 8mm;
           position: absolute;
