@@ -35,6 +35,7 @@
 @import "parts/article.css";
 @import "parts/fiction.css";
 @import "parts/prose.css";
+@import "parts/figures.css";
 
 /*@import "global/screen.css";*/
 @import "fonts/fonts.css";

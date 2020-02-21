@@ -60,6 +60,9 @@ del {
   color: white;
 }
 
+#Éditorial > p{
+  font-size: 13pt;
+}
 /* counter */
 
 body {

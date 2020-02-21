@@ -1,52 +1,25 @@
 /* FIGURES ---------------------------------------------------- */
 
-figure {
-    margin: 0;
-    margin-top: var(--baseline);
-    margin-bottom: calc(var(--baseline)*1.5);
-    width: 100%;
-    position: relative;
+section[data-id="angoisse-universelle"]{
+  width: 103%;
+  margin-left: -1.5%;
+  margin-top: -2.5%;
+}
+#angoisse-universelle > h2, #angoisse-universelle > hr{
+  display: none;
 }
 
-figure img {
-    width: 126%;
-    max-width: auto;
-    object-fit: cover;
-    /* set on baseline*/
-    height: calc(var(--baseline)*12.5 + 8px);
-    padding-top: 10px;
-    padding-bottom: 2px;
-}
-
-figure figcaption{
-    width: 100%;
-    display: block;
-    font-family: 'Work Sans', sans-serif;
-    font-weight: 500;
-    font-style: italic;
-    font-size: 0.7rem;
-    line-height: calc(var(--baseline)*0.5);
-    text-indent: 0;
-    padding-top: calc(var(--baseline)*0.5);
+#angoisse-universelle > .authors {
+  position: absolute;
+  color: white;
+  z-index: 10;
+  top:0;
 }
 
 
-figure + p {
-    text-indent: 0;
-        /* set on baseline*/
-        padding-bottom: 3px;
+img[src="images/brainiac/page_10.jpg"]{
+  width: 40%;
+  position: absolute;
+  bottom: 0;
+  left: 30%;
 }
-
-
-
-/* SOME HACK ---------------------------------------------------------------------- */
-
-    /* applies this style to all figures on the left pages */
-    .pagedjs_left_page figure {
-        left: -26%;
-    }
-
-    /* fill the rest of the page because the figure is at the end of the page  */
-    #figure-3 img {
-        height: calc(var(--baseline)*13.5 + 8px);
-    }
