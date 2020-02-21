@@ -27,11 +27,11 @@ Pour ce faire, Carl Sagan composa une équipe de quatre journalistes et scientif
 
 
 ![Voyager spacecraft, source&#8239;: wikipedia.org/wiki/Programme_Voyager][Voyager_spacecraft_structure-fr]
-<figcaption>A.1</figcaption>
+<figcaption>A</figcaption>
 <!-- <figcaption>*Voyager spacecraft* &#13;&#10;wikipedia.org/wiki/Programme_Voyager</figcaption> -->
 
 ![The Golden Record][john-casani-8-4-77_30584323590_o]
-<figcaption>A.2</figcaption>
+<figcaption>B</figcaption>
 <!-- <figcaption>*The Golden Record* &#13;&#10;voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/</figcaption> -->
 
 <div class="hard_page_break"></div>
@@ -53,7 +53,7 @@ Alors, pour que nous puissions espérer une réponse digne de celle du *Wow! Sig
 [^7]: Il faudrait donc que cette intelligence soit d’une part semblable à la notre (ou en tout cas suffisamment proche pour qu’une «&#8239;traduction&#8239;» soit possible), mais de surcroît qu’elle soit qualitativement supérieure afin que notre langage lui soit intelligible et suffisamment simple pour qu’elle puisse en réaliser la traduction. La définition de l’intelligence et son caractère hautement anthropomorphique pose déjà ici grandement problème. La question d’une qualité ou d’une quantité d’intelligence ne va définitivement pas vers sa simplification…
 
 ![Valeri Borzov-aux JO de Munich][sprinters-valeri-borzov-of-the-ussr-in-lead-history-of-the-olympics_31363259165_o]
-<figcaption>A.3</figcaption>
+<figcaption>C</figcaption>
 <!-- <figcaption>*Valeri Borzov-aux JO de Munich*</figcaption>
 ![Rush hour][rush-hour]
 <figcaption>*Rush hour*</figcaption> -->
@@ -61,7 +61,7 @@ Alors, pour que nous puissions espérer une réponse digne de celle du *Wow! Sig
 <div class="hard_page_break"></div>
 
 ![The Golden Record][the-golden-record_30269492703_o]
-<figcaption>A.4</figcaption>
+<figcaption>D</figcaption>
 <!-- <figcaption>*The Golden Record*</figcaption> -->
 
 <div class="hard_page_break"></div>
@@ -91,7 +91,7 @@ Cette confrontation avec les projections, se verra détaillée dans l’intrigue
 
 
 ![I don’t know myself (extrait du Solaris d’Andrei Tarkovski)](images/Idontknowmyself.png =300x190)
-<figcaption>B.1</figcaption>
+<figcaption>E</figcaption>
 <!-- <figcaption>*I don’t know myself*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption> -->
 
 [^11]: «&#8239;Quand le «&#8239;je&#8239;» cherche à se définir, il peu commencer par lui-même, mais il découvrira que ce soi est déjà impliqué dans une temporalité sociale qui excède ses propres capacités de narration&#8239;». Judith Butler, *Le récit de soi*, p&#8239;7.
@@ -140,24 +140,25 @@ Ce dernier cercle est donc un cercle qui confronte l’humanité et surtout la s
 <div class="hard_page_break"></div>
 
 ![becoming human (extrait du Solaris d’Andrei Tarkovski)][ahumanbeing]
-<figcaption>B.2</figcaption>
+<figcaption>F</figcaption>
 <!-- <figcaption>*becoming human*&#13;&#10;(extrait du Solaris d’Andrei Tarkovski)</figcaption> -->
 
-##### bibliographie
+##### Index des illustrations
+
+* [A] *Voyager spacecraft*&#8239;: [wikipedia.org/wiki/Programme_Voyager](wikipedia.org/wiki/Programme_Voyager)
+* [B] *The Golden Record*&#8239;: [voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/](voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/)
+* [C] *Valeri Borzov-aux JO de Munich*&#8239;: [voyager.jpl.nasa.gov/golden-record/whats-on-the-record/images/](voyager.jpl.nasa.gov/golden-record/whats-on-the-record/images/)
+* [D] *Rush hour*&#8239;: [voyager.jpl.nasa.gov/golden-record/whats-on-the-record/images/](voyager.jpl.nasa.gov/golden-record/whats-on-the-record/images/)
+* [E] *The Golden Record*&#8239;: [voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/](voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/)
+* [F] *I don’t know myself*&#8239;: Andrei Tarkovski (réalisateur). *Solaris* [DVD]. Potemkine, 1972, 165 minutes.
+* [G] *becoming human*&#8239;: *ibid.*
+
+##### Bibliographie
 
 - *L’Ombre de Dieu*, Étienne Souriau, Presses Universitaires de France, 1955
 - *Murmurs of Earth: The Voyager Interstellar Record*, Ballantine Books, NY, 1978 pour la première édition.
 - *Solaris*, Stanislas Lem, Editions Denoël (col. présence du futur), Paris, 1966
 - *Le récit de soi*, Judith Butler, Presses Universitaires de France, Paris, 2007
-
-##### inconographie
-
-* A. [https://voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/](https://voyager.jpl.nasa.gov/golden-record/making-of-the-golden-record/)
-    - 1. Voyager spacecraft
-    - 2. The Golden Record
-    - 3. Valeri Borzov-aux JO de Munich
-    - 4. The Golden Record
-* B. *Solaris*, Andreï Tarkovski, 1972
 
 [Voyager_spacecraft_structure-fr]: images/Voyager_spacecraft_structure-fr.jpg
 [john-casani-8-4-77_30584323590_o]: images/john-casani-8-4-77_30584323590_o.jpg
@@ -165,8 +166,3 @@ Ce dernier cercle est donc un cercle qui confronte l’humanité et surtout la s
 [rush-hour]: images/rush-hour.gif
 [the-golden-record_30269492703_o]: images/the-golden-record_30269492703_o.jpg
 [ahumanbeing]: images/ahumanbeing.png
-
-##### webographie
-
-- [https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/greetings/](https://voyager.jpl.nasa.gov/golden-record/whats-on-the-record/greetings/)
-- [https://www.nationalgeographic.fr/espace/recherche-de-vie-extraterrestre-la-revolution-des-exoplanetes](https://www.nationalgeographic.fr/espace/recherche-de-vie-extraterrestre-la-revolution-des-exoplanetes)

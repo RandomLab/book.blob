@@ -49,7 +49,7 @@ class Html {
         const body: string = this.body();
         const colophon: string = this.colophon();
         const footer: string = this.footer();
-        const result = head.concat(cover + toc + body + colophon + footer);
+        const result = head.concat(cover + toc + introduction + body + colophon + footer);
         return result;
     }
 
@@ -186,7 +186,7 @@ class Html {
     private introduction(): string {
         let introduction: string = fs.readFileSync(this.srcFolder + 'preface.md', 'utf8');
         introduction = this.converter.makeHtml(introduction);
-        const result: string = `<section id="${this.nomIntroduction}">` + this.nomIntroduction + `</section>`;
+        const result: string = `<section id="${this.nomIntroduction}">` + introduction + `</section>`;
         return result;
     }
 }
