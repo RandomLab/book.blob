@@ -54,19 +54,19 @@ Ce texte est une analyse de plusieurs êtres artificiels et il ne se veut pas ni
 
 Miquela Sousa ou Lil Miquela[^5] est une influenceuse aux 1,9 million d’abonnés sur Instragram, qui débuta sa carrière en 2016, et travaillera, en moins de trois ans, avec des marques comme Calvin Klein ou Prada. Une belle carrière dans la mode, plutôt surprenante, pour une entité qui ne possède pas de corps.
 
-[^5]: [https://www.instagram.com/lilmiquela/?hl=fr](https://www.instagram.com/lilmiquela/?hl=fr)
+[^5]: [https://www.instagram.com/lilmiquela/?hl=fr](https://www.instagram.com/lilmiquela/?hl=fr) Consulté le 14/02/20.
 
-Lil Miquela, ou du moins son image, crée par Trevor McFedries et Sara Decou est un modèle 3D qui appartient à la société Brud[^6]. Elle est chanteuse, vlogeuse, instagrammeuse et mannequin, elle maîtrise parfaitement toute la palette marketing des réseaux sociaux et sait s’associer avec de nombreuses marque afin de faire leurs promotions notamment Samsung qui établit une magnifique page web[^7] dédiée au way of life de l’influenceuse et sa capacité à être humble en aimant son smartphone.
+Lil Miquela, ou du moins son image, crée par Trevor McFedries et Sara Decou est un modèle 3D qui appartient à la société Brud[^6]. Elle est chanteuse, vlogeuse, instagrammeuse et mannequin, elle maîtrise parfaitement toute la palette marketing des réseaux sociaux et sait s’associer avec de nombreuses marques afin de faire leur promotion notamment Samsung qui établit une magnifique page web[^7] dédiée à la *way of life* de l’influenceuse et sa capacité à être humble en aimant son smartphone.
 
-[^6]: [https://docs.google.com/document/d/1V5N5tcfm7wBuUshgrmIOz9ijAO-VRqvkUbGRu0uKdI8/edit](https://docs.google.com/document/d/1V5N5tcfm7wBuUshgrmIOz9ijAO-VRqvkUbGRu0uKdI8/edit) consulté le 14/02/20
+[^6]: [https://docs.google.com/document/d/1V5N5tcfm7wBuUshgrmIOz9ijAO-VRqvkUbGRu0uKdI8/edit](https://docs.google.com/document/d/1V5N5tcfm7wBuUshgrmIOz9ijAO-VRqvkUbGRu0uKdI8/edit) Consulté le 14/02/20.
 
-[^7]: [https://www.samsung.com/fr/explore/samsung-within/team-galaxy/instagram-branding-secrets-from-lil-miquela/](https://www.samsung.com/fr/explore/samsung-within/team-galaxy/instagram-branding-secrets-from-lil-miquela/)
+[^7]: [https://www.samsung.com/fr/explore/samsung-within/team-galaxy/instagram-branding-secrets-from-lil-miquela/](https://www.samsung.com/fr/explore/samsung-within/team-galaxy/instagram-branding-secrets-from-lil-miquela/) Consulté le 14/02/20.
 
 Lil Miquela ne possède pas de biographie. Sans passé, son histoire est racontée au présent au fil de ses posts. Elle a une vie remplie, entre la musique, la mode , les rencontres mondaines, ses amours avec des personnalités en chair et en os.
 
 L’événement marquant de l’histoire de Miquela  est un combat d’influenceuses digitales qui aura lieu sur son compte et aura pour résolution l’aveu organisé et préparé de Brud d’être les créateurs de trois personnages (Lil miquela, son ami Blawko, et Bermuda la hackeuse du compte). Les entités se qualifieront a partir de là de robots et reconnaîtront leur artificialité mais sans jamais avouer qu’elles n’existent pas dans le monde physique.ntrigue particulierement intéréssante traverse ce moments de la vie de miquela, avec l’évocation de Cain intelligence[^8] une entreprise fictive (soutenant la présidence de Donald Trump directement sur leur site) qui serait les premier créateurs de Bermuda et LilMiquela, une histoire que je garde pour une prochaine fois, ajoutant une épaisseur de story-telling inutile à analyser ici.
 
-[^8]: [http://cainintelligence.com/](http://cainintelligence.com/)
+[^8]: [http://cainintelligence.com/](http://cainintelligence.com/) Consulté le 14/02/20.
 
 Le compte de Lil Miquela reprendra son cours après l’incident et elle deviendra une «&#8239;friendennemie&#8239;» de Bermuda avec qui elle continuera d’apparaître dans des mises en scène de sorties shopping, brunchs et autres activités d’influenceuses idéales vivant à Los Angeles.
 
@@ -82,7 +82,7 @@ La société ne possède pas de site, sa seule présence en ligne est un documen
 
 La société de production fait référence directement au plus grand hoax de l’histoire des médias, et à la fameuse émission radio de 1938 de Orson Wells[^10], qui aurait provoqué une panique sans précédent au États Unis.
 
-[^10]: [https://www.telegraph.co.uk/radio/what-to-listen-to/the-war-of-the-worlds-panic-was-a-myth/](https://www.telegraph.co.uk/radio/what-to-listen-to/the-war-of-the-worlds-panic-was-a-myth/) consulté le 14/02/20
+[^10]: [https://www.telegraph.co.uk/radio/what-to-listen-to/the-war-of-the-worlds-panic-was-a-myth/](https://www.telegraph.co.uk/radio/what-to-listen-to/the-war-of-the-worlds-panic-was-a-myth/) Consulté le 14/02/20.
 
 Cette page met en avant la connaissance en storytelling et manipulation que possède la marque, qui fait référence sur celle-ci à un second personnage de Brud&#8239;: Blawko, comme si il existait vraiment, en parlant de la «&#8239;phase&#8239;» dans laquelle il est.
 
@@ -96,7 +96,7 @@ Son discours est entre-coupé de moments ou elle n’arrive pas à parler à cau
 
 Ce pastiche a fait parler de lui sur la toile, et de nombreuses critiques lui seront fait, au point que la vidéo sera effacé par la chaîne de Miquela, les critiques s’enchaîneront aussi sur l’utilisation des cultures LGBTQI+ par Brud, notamment dans le marketing autour de la bi-sexualité de Lil Miquela que la campagne avec Calvin Klein complète en point d’orgue. Des critiques qui posseront même la marque a faire des excuse publique[^11].
 
-[^11]: [https://www.thecut.com/2019/05/bella-hadid-lil-miquela-calvin-klein-apology.html](https://www.thecut.com/2019/05/bella-hadid-lil-miquela-calvin-klein-apology.html)
+[^11]: [https://www.thecut.com/2019/05/bella-hadid-lil-miquela-calvin-klein-apology.html](https://www.thecut.com/2019/05/bella-hadid-lil-miquela-calvin-klein-apology.html) Consulté le 14/02/20.
 
 Éveillant chez le spectateur l’empathie pour un ensemble de polygones plaqué sur des corps modifié, Brud parie sur la suspension de la crédibilité de son spectateur, utilisant la croyance comme mode opératoire de son influenceuse. Lil Miquela existe tant que ses «&#8239;fans&#8239;» «&#8239;spectateur&#8239;» et autre «&#8239;followers&#8239;» accepteront de la voir telle qu’elle est peinte ; une jeune femme qui sait être un robot.
 
@@ -121,24 +121,24 @@ Entreprise, association, et autres types d’organisations sont des personnes mo
 
 Sophia fût activée en avril 2015. C’est un Robot crée par la société Hanson Robotic[^12], un agent conversationnel conçu pour analyser et répondre à des interlocuteurs humains. Proche de la manière de fonctionner D’ELIZA[^13] (premier chatbot) elle reconnaît et analyse un ensemble de phrase et mots clés qu’elle trie pour répondre au mieux aux humains.
 
-[^12]: [https://www.hansonrobotics.com/](https://www.hansonrobotics.com/)
+[^12]: [https://www.hansonrobotics.com/](https://www.hansonrobotics.com/) Consulté le 14/02/20.
 
-[^13]: ELIZA programme informatique, Joseph Weizenbaum, 1964-1966, version fonctionnant sur navigateur [https://www.eclecticenergies.com/ego/eliza](https://www.eclecticenergies.com/ego/eliza) consulté le 14/02/20
+[^13]: ELIZA programme informatique, Joseph Weizenbaum, 1964-1966, version fonctionnant sur navigateur [https://www.eclecticenergies.com/ego/eliza](https://www.eclecticenergies.com/ego/eliza) Consulté le 14/02/20.
 
 Physiquement, c’est un robot de taille humaine qui reste statique mais scrute son interlocuteur pour adapter les expressions de son visage. Façonnée depuis le visage d’Audrey Hepburn, elle ne possède pas de cheveux et son crâne en plastique transparent laisse apparaître un ensemble de composant électronique qui, bien que singeant un cerveau artificiel semble être l’actionneurs de ses expressions faciales.
 
 Dessinée au départ pour être une hôtesse d’accueil, ou un compagnon pour maison de retraite, la carrière de Sophia a vite pris son envol, tout d’abord par le biais de vidéos YouTube permettant de promouvoir Hanson Robotic, puis lors d’apparition sur des talk show, dans des mises en scènes humoristique telle que le rendez-vous galant qu’elle aura avec Will Smith[^14], ou des couvertures de magazines tels que «&#8239;Elle[^15]&#8239;» ou «&#8239;Stylist&#8239;». Le point d’orgue de sa carrière sera l’année 2017 où elle obtient la citoyenneté Saoudienne[^16] et un entretien avec la vice présidente des Nations Unis[^17]
 
-[^14]: Luke Kelly-Clyne, Will Smith Tries Online Dating,Westbrook Studios, 29 mars 2018, [https://www.youtube.com/watch?v=Ml9v3wHLuWI](https://www.youtube.com/watch?v=Ml9v3wHLuWI)
+[^14]: Luke Kelly-Clyne, Will Smith Tries Online Dating,Westbrook Studios, 29 mars 2018, [https://www.youtube.com/watch?v=Ml9v3wHLuWI](https://www.youtube.com/watch?v=Ml9v3wHLuWI) Consulté le 14/02/20.
 [^15]: Elle Magazine Brézil, L’avenir de la mode, décembre 2016.
-[^16]: Violaine Morin, «&#8239;Sophia, robot saoudienne et citoyenne&#8239;», *Le monde*, 11/04/2017 https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html
-[^17]: [https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies](https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies)
+[^16]: Violaine Morin, «&#8239;Sophia, robot saoudienne et citoyenne&#8239;», *Le monde*, 11/04/2017 https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html Consulté le 14/02/20.
+[^17]: [https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies](https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies) Consulté le 14/02/20.
 
 Globalement, elle exploite la technologie de reconnaissance Faciale d’Alphabet et une analyse de réponse via une base de donnée pour devenir de plus en plus intelligente avec le temps. Cependant de nombreux interlocuteurs ont trouvé les réponses de Sophia souvent approximatives, et on pourra aussi noter sa date de création&#8239;: 2015, déjà assez lointaine pour un robot de cette ambition qui continue à faire parler de lui. Il est fort à parier qu’elle soit déjà dépassée par d’autres machines, sa longévité dans les médias étant exceptionnellement longue pour un objet technologique.
 
 La question qui se pose alors est comment Sophia arrive-t-elle à garder l’engouement du grand publique et sur quoi repose son succès&#8239;? Lors d’un Talk Show[^18], Jimmy Fallon, nous présentera dans une interview la encore bien préparée une version miniature de Sophia à reconnaissance vocale et semblant être une sorte de poupée faisant office d’enceinte connecté. Sophia venant donc sur le plateau pour faire ce qu’elle a toujours fait&#8239;: de la promotion.
 
-[^18]: The Tonight Show Starring Jimmy Fallon, April 25, 2017, NBC, enregistement vidéo&#8239;: [http://www.youtube.com/watch?v=Bg_tJvCA8zw](http://www.youtube.com/watch?v=Bg_tJvCA8zw) consulté le 14/02/2020
+[^18]: The Tonight Show Starring Jimmy Fallon, April 25, 2017, NBC, enregistement vidéo&#8239;: [http://www.youtube.com/watch?v=Bg_tJvCA8zw](http://www.youtube.com/watch?v=Bg_tJvCA8zw) Consulté le 14/02/20.
 
 Les conversations filmées semblent suivre un schéma: Sophia dit être un robot, l’interlocuteur puis essaye de mettre Sophia en difficulté avant qu’ elle ne désamorce la situation avec humour.
 
@@ -161,15 +161,15 @@ Sophia redéfini l’intelligence artificielle que nous connaissons maintenant c
 
 A l’heure ou j’écris ces lignes, l’entité ProjektMélody[^19], explose en nombres de vue sur Chaturbate, et démarre sa carrière de personnage public, cachée derrière l’idée d’une I.A qui ne dira jamais non à ses viewers, ou tipers, sous la forme d’une cam-girl virtuelle.
 
-[^19]: [https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ](https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ)
+[^19]: [https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ](https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ) Consulté le 14/02/20.
 
 Le projet a débuté par des posts sur twiter durant l’été 2019, puis a continué à travers une série de vidéos sur youtube ou Mélody danse lascivement, avant un lancement officiel annoncé en janviers pour mi-février, en utilisant tout les réseaux sociaux disponible.
 
 Les posts twitter[^20] permettent de dresser une courte biographie de l’avatar. A l’origine Melody est un logiciel de protection des données personnelles et de maintenance informatique. Perverti par un virus attrapé sur un site pornographique elle est devenue une accro au Hentai (pornographie sous forme de manga) et a décidé de demander de l’aide à des amis pour bénéficier d’un corps et faire ce métier qui lui plaît tant. On sait aussi son point de vue sur la pornographie grâce à une vidéo aussi surprenante qu’étrangement disponible sur Youtube, ou à la manière d’une critique de cinéma, elle fait un exposé bien construit sur la question de la pornographie dessinée comme faisant partie des arts, appelé sobrement&#8239;: Hentai is art[^21].
 
-[^20]: [https://twitter.com/projektmelody?lang=fr](https://twitter.com/projektmelody?lang=fr)
+[^20]: [https://twitter.com/projektmelody?lang=fr](https://twitter.com/projektmelody?lang=fr) Consulté le 14/02/20.
 
-[^21]: Is Hentai Art ? [https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s](https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s)
+[^21]: Is Hentai Art ? [https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s](https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s) Consulté le 14/02/20.
 
 Les critiques faites par les acteurs de ce types site sont nombreuses, pointant la concurrence déloyale de ProjektMelody qui peut être incarnée par plusieurs personnes là et faire plusieurs shows privés simultanément, modifier son corps et sa tenue à volonté, ce même au cours d’un live. Certains pointent aussi les problèmes résultant des demandes des tipers, qui n’étant plus assujetis à un corps réel et fragile, peuvent faire des demandes perverse, que le filtre numérique rends plus facile à gérer pour l’opérateur derriére le modèle 3D.
 
@@ -181,7 +181,7 @@ Le corps faux est exploité maximum de ce qu’il peut rapporter, corps féminin
 
 Yahama produit en 2003 un logiciel nommé Vocaloid[^22], logiciel spécialisé dans la synthése vocale pour la musique. Synthétisé depuis un éditeur de textes, l’utilisateur peut créer un chant, auquel il peut joindre une mélodie. Le programme sort en 2004 accompagné avec Katio et Meiko, deux Vocaloids japonais créés par Crypton Future Média, ainsi que Leon, Lola et Miriam, des Vocaloid anglophones
 
-[^22]: [http://www.vocaloid.com/en/](http://www.vocaloid.com/en/) consulté le 14/02/20
+[^22]: [http://www.vocaloid.com/en/](http://www.vocaloid.com/en/) Consulté le 14/02/20.
 
 Hatsune Miku est commercialisée le 31 août 2007, par la société Crypton Future Media pour VOCALOID2. Initialement, elle a 16 ans, pèse 42 kg et mesure 1,58 m.
 
@@ -189,22 +189,22 @@ Hatsune Miku est commercialisée le 31 août 2007, par la société Crypton Futu
 
 Devant le succès mitigé de la première génération de Vocaloids, Cryption décida de donner en plus d’une voix, un physique aux vocaloids suivant. C’est ainsi que Miku obtient son physique caractéristique dessiné par le Mangaka Kei Garo, la pensant comme un android. Il basa son design sur l’interface du logiciel ainsi que du synthétiseur DX de Yahama[^23] dont le turquoise est la couleur principale. C’est néanmoins la société Cryption qui a choisi les caractéristiques de Miku[^24] (date de naissance, poids, taille).
 
-[^23]: [https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/](https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/) consulté le 14/02/20
+[^23]: [https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/](https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/) Consulté le 14/02/20.
 
-[^24]: [https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us](https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us) consulté le 14/02/20
+[^24]: [https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us](https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us) Consulté le 14/02/20.
 
 La personnalité de Miku n’a pas été définie lors de sa production, afin de laisser une toile vierge aux créateurs et musicien et ne pas influencer le style de musique que la voix synthétique pourrait chanter.
 
 Miku a été un succès retentissant, porté par une communauté grandissante et des plateformes comme youtube, elle est devenue une star importante de la culture populaire nippone et s’est exportée rapidement à l’internationale. Caméo dans des séries, actrices dans des téléfilms animés, égérie de Dominos pizza au Japon[^25], ou sponsor automobile[^26], elle apparaît sur tous les fronts et médias. Sa musique est crée, inventée et diffusée par sa communauté, mais ses apparitions officielles gérées par Cryptons qui en possède les droits et en obtiens les bénéfices, d’aprés Crypton son répertoire est de plus de cent milles chansons de tout registre.
 
-[^25]: [https://www.youtube.com/watch?v=yPuI4l0jK7s](https://www.youtube.com/watch?v=yPuI4l0jK7s) consulté le 14/02/20
-[^26]: [https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/](https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/) consulté le 14/02/20
+[^25]: [https://www.youtube.com/watch?v=yPuI4l0jK7s](https://www.youtube.com/watch?v=yPuI4l0jK7s) Consulté le 14/02/20.
+[^26]: [https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/](https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/) Consulté le 14/02/20.
 
 Le 31 août 2009 elle fera son premier concert, où elle sera sur scène en tant que simili-hologramme, et fera venir les foules jusqu’à elle, tout en provoquant la réaction ahurie des médias de l’époque, avec le premier concert sans réelle artiste sur scène.
 
 Yu Higuchi, un programmeur de Yamaha crée Miku Miku Dance[^27] (MMD) ou Vocaloid Promotion Video Project (VPVP) qui permet d’animer les personnages de Vocaloid, notamment Hatsune Miku. Entre autres, l’utilisateur peut utiliser le programme pour chorégraphier des chansons, ce qui permettra à sa communauté de produire librement des clips et des animations avec leurs vocaloids préféré mais surtout avec Hatsune Miku.
 
-[^27]: [https://learnmmd.com/downloads/](https://learnmmd.com/downloads/)
+[^27]: [https://learnmmd.com/downloads/](https://learnmmd.com/downloads/) Consulté le 14/02/20.
 
 Création d’une société qui manipule son image publique, elle est avant tout un produit de sa communauté, qui réalise ses morceaux ,certaines fictions, ou encore des chorégraphies pour Miku. Elle fonctionne à la manière d’un logiciel libre de droit et donne sa voix à qui veut l’utiliser, permettant à chaque adorateur de se faire entendre, et d’emprunter sa voix.
 
@@ -216,15 +216,15 @@ Croisant les besoins des sociétés de productions et les attentes et envies des
 
 Malheureusement les défiances, et l’augmentation des bénéfices que représentent ce type de pratiques pour les producteurs ne permet par pour l’instant de voir se démocratiser ce type de pensée affiliée aux philosophies de l’open-source et des licence libres.Au moment ou les youtubeur les influenceurs et désir permettent à des groupes de manipuler des corps dans l’ombre et leurs propres intérêts, ou l’ia, la robotique et la 3D permettent de se décharger de la question du libre arbitre, il apparaît tristement que peu de progrès ont été faits depuis l’andréide de l’*Ève futur*[^28].
 
-[^28]: Augustre de Villiers de L’Isle-Adam, *L’Ève future* Bibliothèque-Charpentier ; Eugène Fasquelle, éditeur, 1909 (nouv. éd.).
+[^28]: Villiers de L’Isle-Adam, *L’Ève future*, M. de Brunhoff, Paris, 1886.
 
 Mais l’espoir reste, Hatsune Miku chantera la chanson Miku en anglais, composée par un certain Anamaguchi[^29], la chanson pop ou Miku remercie son audience de parler à travers elle, et de continuer à le faire exister, pour qu’elle puisse être leur voix montrant que les utilisateurs de vocaloids sont conscient du pouvoir qu’ils ont sur leur idole mais aussi les uns sur les autres par ce même biais.
 
-[^29]: Anamguchi,Miku, 27 mai 2016, [https://www.youtube.com/watch?v=NocXEwsJGOQ](https://www.youtube.com/watch?v=NocXEwsJGOQ) consulté le 14/02/2020
+[^29]: Anamguchi,Miku, 27 mai 2016, [https://www.youtube.com/watch?v=NocXEwsJGOQ](https://www.youtube.com/watch?v=NocXEwsJGOQ) Consulté le 14/02/2020.
 
 Et puis que Miku et sa communauté le chante bien mieux que je ne peut le reformuler, je conclurai en laissant les paroles de cette chanson, au amateur donc de karaoke[^30].
 
-[^30]: Version sans parole de Miku De Anamaguchi&#8239;: [https://www.youtube.com/watch?v=MLWEy7iKP9E](https://www.youtube.com/watch?v=MLWEy7iKP9E)
+[^30]: Version sans parole de Miku De Anamaguchi&#8239;: [https://www.youtube.com/watch?v=MLWEy7iKP9E](https://www.youtube.com/watch?v=MLWEy7iKP9E) Consulté le 14/02/2020.
 
 Miku, Miku, you can call me Miku
 Blue hair, blue tie, hiding in your wi-fi
