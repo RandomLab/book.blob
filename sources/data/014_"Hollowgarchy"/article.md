@@ -98,45 +98,43 @@ Ce pastiche a fait parler de lui sur la toile, et de nombreuses critiques lui on
 
 Éveillant chez le spectateur l’empathie pour ce qui n'est qu'un ensemble de polygones plaqués sur des corps modifiés, Brud parie sur la suspension de la crédibilité de son spectateur, utilisant la croyance comme mode opératoire de son influenceuse. Lil Miquela existe tant que ses «&#8239;fans&#8239;» «&#8239;spectateurs&#8239;» et autre «&#8239;followers&#8239;» accepteront de la voir telle qu’elle est peinte ; une jeune femme qui sait être un robot.
 
-Ce personnage est problématique car il ne répond à aucune norme morale ou construction logique. Là ou la nature d’un Mickey Mousse ou d’un Harry Potter font ressortir les enjeux d’écriture d’un personnage (avis politique, fable morale, exploration psychologique), Lil Miquela est en roue libre sur les réseaux sociaux dont Brud maîtrise la rhétorique et tisse habillement une personnalité utilisant la vraisemblance de ceux-ci, afin d’y noyer leur engeance dans le flux d’âmes et de regards réels. Miquela est une surface, un modèle 3D creux dans lequel se glisse un groupe d’une vingtaine de personnes, patientant dans l’ombre que l’influenceuse les nourrissent des si précieux followers et abonnées qui feront monter leurs capitaux.
+Ce personnage est problématique car il ne répond à aucune norme morale ou construction logique. Là où la nature d’un Mickey Mouse ou d’un Harry Potter fait ressortir des enjeux d’écriture d’un personnage (avis politique, fable morale, exploration psychologique), Lil Miquela est en « roue libre » sur les réseaux sociaux sous contrôle de Brud qui tisse habilement sa personnalité. Miquela est une surface, un modèle 3D creux dans lequel se glisse un groupe d’une vingtaine de personnes, patientant dans l’ombre que l’influenceuse artificielle les nourrisse des si précieux *followers* et abonnées qui feront monter leurs capitaux. 
 
-Jusque là, ce fonctionnement n’est pas nouveau, et existe déjà avec l’ensemble des stars. Là où Miquela pose problème, c’est que le personnage insiste sur son libre-arbitre. Alors que Milley Cirrus, Selena Gomez ou même Britney Spears nous ont montrées qu’on pouvait se rebeller contre l’autorité des productions,même lorsque ces stars ont été forgées depuis l’enfance par celle-ci, Miquela ne fait que répéter, voir pire, change aux besoins des clients, l’absence de distance entre le personnage public et sa production rend le rapport au marché plus direct, et là ou des humains même bloqué dans les jeux et enjeux du stars system restent des artistes, Lil Miquela n’est plus qu’un service, une mercenaire qui vantera des produits peu importe ses convictions.
+Jusque-là, ce fonctionnement n’est pas nouveau puisqu'il s'agit de principes hérités du *star system*. Là où Miquela pose problème, c’est que le personnage insiste sur son libre-arbitre. Alors que Miley Cyrus, Selena Gomez ou même Britney Spears nous ont montré qu’on pouvait se rebeller contre l’autorité des productions, même lorsque l'on a été formé comme stars dès l’enfance, Miquela ne fait que répéter, ou pire, change selon les attentes des clients. L’absence de distance entre le personnage public et sa production rend le rapport au marché plus direct et, là où des humains même bloqués dans les jeux et enjeux du *star system* restent des artistes, Lil Miquela n’est plus qu’un service, une mercenaire qui vante des produits en dehors de toutes convictions.
 
-Autre problème, l’utilisation d’un corps féminin parfait et modifiable amène à penser des standards de beauté impossible à atteindre, qu’un média comme Instagram rend pervers. Biaisant le rapport au vrai, et utilisant l’impression de réalité que procure les réseaux sociaux, le corps de Miquela peut apparaître comme une perfection à atteindre, et le mystère quant à son identité qui planait au lancement de son compte laissait croire qu’il s’agissait d’un être modelé d’après un corps véritable.
- Comme elle le fera remarquer à plusieurs reprise «&#8239; I’m forever 19&#8239;», Brud ne veut pas et ne fera pas vieillir Miquela, qui restera a jamais l’ado «&#8239;légale&#8239;» dont ils peuvent faire ce qu’ils veulent. Ne vieillissant jamais, pouvant voir son corps modifié a volonté, plus que n’importe quelle influenceuse Miquela est dangereuse. Outils numériques, culture digitale et effets visuels lui permettent de placer le curseur sur un canon de beauté que seul un ordinateur peut atteindre.
+Autre problème, l’utilisation d’un corps féminin parfait et modifiable amène à penser des standards de beauté impossible à atteindre, qu’un média comme Instagram rend pervers. Biaisant le rapport au vrai et utilisant l’impression de réalité que procure les réseaux sociaux, le corps de Miquela peut apparaître comme une perfection à atteindre. Le mystère de son identité, qui planait au lancement de son compte, laissait d'ailleurs croire qu’il s’agissait d’un être modelé d’après un corps véritable.
+Comme Miquela l'a fait remarquer à plusieurs reprises : «&#8239; I’m forever 19&#8239;». Brud ne veut pas et ne fera pas vieillir Miquela, qui restera a jamais l’ado «&#8239;légale&#8239;» dont ils peuvent faire ce qu’ils veulent. Ne vieillissant jamais, pouvant voir son corps modifié a volonté, plus que n’importe quelle influenceuse Miquela est dangereuse. Outils numériques, culture digitale et effets visuels lui permettent de placer le curseur sur un canon de beauté que seul un ordinateur peut atteindre.
 
-Une autre question est celle du concept de personne morale et comment celle-ci s’applique à une personnalité qui n’existe pas.
+Une autre question est celle du concept de personne morale et comment celle-ci s’applique à une personnalité qui n’existe pas. En droit la personnalité morale donne des d'attributs reconnus aux personnes physiques, tel qu’un nom, un patrimoine ou un domicile. La personnalité morale peut agir en justice et acquérir des biens meubles ou immeubles. Par exemple, en droit français, la loi du 1<sup>er</sup> juillet 1901 donne la personnalité morale aux association déclarées. On parle de «&#8239;petite personnalité&#8239;»&#8239;: cela permet à l’association d’encaisser des ressources et d’acquérir les bâtiments dont elle a besoin.
 
-En droit la personnalité morale donne des d’attributs reconnus aux personnes physiques, tel qu’un nom, un patrimoine ou un domicile .La personnalité morale peut agir en justice et acquérir des biens meubles ou immeubles.
+Cette autre définition éclaire la personne morale sous un angle différent : «&#8239;une personne morale [peut être considérée] comme un regroupement d’individus réunis dans un intérêt commun à laquelle la loi confère une existence et une personnalité juridique autonomes. La personne morale est également titulaire de droits et obligations, à l’instar de la personne physique, ou des personnes physiques et morales qui la composent.&#8239;»[^12]
 
-Par exemple, en droit français, la loi du 1<sup>er</sup> juillet 1901 donne la personnalité morale aux association déclarées. On parle de «&#8239;petite personnalité&#8239;»&#8239;: cela permet à l’association d’encaisser des ressources et d’acquérir les bâtiments dont elle a besoin.
-
-Une autre définition serait de voir «&#8239;une personne morale comme un regroupement d’individus réunis dans un intérêt commun à laquelle la loi confère une existence et une personnalité juridique autonomes. La personne morale est également titulaire de droits et obligations, à l’instar de la personne physique, ou des personnes physiques et morales qui la composent.&#8239;»
+[^12]:
 
 Entreprise, association, et autres types d’organisations sont des personnes morales. Là où un flou s’opère est que dans le cas de Miquela, Brud serait la personne morale, et Miquela son produit, hors le public ne reçoit pas de nouvelles de Bruds, et n’accède pas aux campagnes via le nom de Brud mais bien par le biais de Miquela.
 
 ## Sophia&#8239;: la machine 
 
-Sophia fût activée en avril 2015. C’est un Robot crée par la société Hanson Robotic[^12], un agent conversationnel conçu pour analyser et répondre à des interlocuteurs humains. Proche de la manière de fonctionner D’ELIZA[^13] (premier chatbot) elle reconnaît et analyse un ensemble de phrase et mots clés qu’elle trie pour répondre au mieux aux humains.
+Sophia fût activée en avril 2015. C’est un Robot crée par la société Hanson Robotic[^13], un agent conversationnel conçu pour analyser et répondre à des interlocuteurs humains. Proche de la manière de fonctionner D’ELIZA[^14] (premier chatbot) elle reconnaît et analyse un ensemble de phrase et mots clés qu’elle trie pour répondre au mieux aux humains.
 
-[^12]: [https://www.hansonrobotics.com/](https://www.hansonrobotics.com/) Consulté le 14/02/20.
+[^13]: [https://www.hansonrobotics.com/](https://www.hansonrobotics.com/) Consulté le 14/02/20.
 
-[^13]: ELIZA programme informatique, Joseph Weizenbaum, 1964-1966, version fonctionnant sur navigateur [https://www.eclecticenergies.com/ego/eliza](https://www.eclecticenergies.com/ego/eliza) Consulté le 14/02/20.
+[^14]: ELIZA programme informatique, Joseph Weizenbaum, 1964-1966, version fonctionnant sur navigateur [https://www.eclecticenergies.com/ego/eliza](https://www.eclecticenergies.com/ego/eliza) Consulté le 14/02/20.
 
 Physiquement, c’est un robot de taille humaine qui reste statique mais scrute son interlocuteur pour adapter les expressions de son visage. Façonnée depuis le visage d’Audrey Hepburn, elle ne possède pas de cheveux et son crâne en plastique transparent laisse apparaître un ensemble de composant électronique qui, bien que singeant un cerveau artificiel semble être l’actionneurs de ses expressions faciales.
 
-Dessinée au départ pour être une hôtesse d’accueil, ou un compagnon pour maison de retraite, la carrière de Sophia a vite pris son envol, tout d’abord par le biais de vidéos YouTube permettant de promouvoir Hanson Robotic, puis lors d’apparition sur des talk show, dans des mises en scènes humoristique telle que le rendez-vous galant qu’elle aura avec Will Smith[^14], ou des couvertures de magazines tels que «&#8239;Elle[^15]&#8239;» ou «&#8239;Stylist&#8239;». Le point d’orgue de sa carrière sera l’année 2017 où elle obtient la citoyenneté Saoudienne[^16] et un entretien avec la vice présidente des Nations Unis[^17]
+Dessinée au départ pour être une hôtesse d’accueil, ou un compagnon pour maison de retraite, la carrière de Sophia a vite pris son envol, tout d’abord par le biais de vidéos YouTube permettant de promouvoir Hanson Robotic, puis lors d’apparition sur des talk show, dans des mises en scènes humoristique telle que le rendez-vous galant qu’elle aura avec Will Smith[^15], ou des couvertures de magazines tels que «&#8239;Elle[^16]&#8239;» ou «&#8239;Stylist&#8239;». Le point d’orgue de sa carrière sera l’année 2017 où elle obtient la citoyenneté Saoudienne[^17] et un entretien avec la vice présidente des Nations Unis[^18]
 
-[^14]: Luke Kelly-Clyne, Will Smith Tries Online Dating,Westbrook Studios, 29 mars 2018, [https://www.youtube.com/watch?v=Ml9v3wHLuWI](https://www.youtube.com/watch?v=Ml9v3wHLuWI) Consulté le 14/02/20.
-[^15]: Elle Magazine Brézil, L’avenir de la mode, décembre 2016.
-[^16]: Violaine Morin, «&#8239;Sophia, robot saoudienne et citoyenne&#8239;», *Le monde*, 11/04/2017 https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html Consulté le 14/02/20.
-[^17]: [https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies](https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies) Consulté le 14/02/20.
+[^15]: Luke Kelly-Clyne, Will Smith Tries Online Dating,Westbrook Studios, 29 mars 2018, [https://www.youtube.com/watch?v=Ml9v3wHLuWI](https://www.youtube.com/watch?v=Ml9v3wHLuWI) Consulté le 14/02/20.
+[^16]: Elle Magazine Brézil, L’avenir de la mode, décembre 2016.
+[^17]: Violaine Morin, «&#8239;Sophia, robot saoudienne et citoyenne&#8239;», *Le monde*, 11/04/2017 https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html Consulté le 14/02/20.
+[^18]: [https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies](https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies) Consulté le 14/02/20.
 
 Globalement, elle exploite la technologie de reconnaissance Faciale d’Alphabet et une analyse de réponse via une base de donnée pour devenir de plus en plus intelligente avec le temps. Cependant de nombreux interlocuteurs ont trouvé les réponses de Sophia souvent approximatives, et on pourra aussi noter sa date de création&#8239;: 2015, déjà assez lointaine pour un robot de cette ambition qui continue à faire parler de lui. Il est fort à parier qu’elle soit déjà dépassée par d’autres machines, sa longévité dans les médias étant exceptionnellement longue pour un objet technologique.
 
-La question qui se pose alors est comment Sophia arrive-t-elle à garder l’engouement du grand publique et sur quoi repose son succès&#8239;? Lors d’un Talk Show[^18], Jimmy Fallon, nous présentera dans une interview la encore bien préparée une version miniature de Sophia à reconnaissance vocale et semblant être une sorte de poupée faisant office d’enceinte connecté. Sophia venant donc sur le plateau pour faire ce qu’elle a toujours fait&#8239;: de la promotion.
+La question qui se pose alors est comment Sophia arrive-t-elle à garder l’engouement du grand publique et sur quoi repose son succès&#8239;? Lors d’un Talk Show[^19], Jimmy Fallon, nous présentera dans une interview la encore bien préparée une version miniature de Sophia à reconnaissance vocale et semblant être une sorte de poupée faisant office d’enceinte connecté. Sophia venant donc sur le plateau pour faire ce qu’elle a toujours fait&#8239;: de la promotion.
 
-[^18]: The Tonight Show Starring Jimmy Fallon, April 25, 2017, NBC, enregistement vidéo&#8239;: [http://www.youtube.com/watch?v=Bg_tJvCA8zw](http://www.youtube.com/watch?v=Bg_tJvCA8zw) Consulté le 14/02/20.
+[^19]: The Tonight Show Starring Jimmy Fallon, April 25, 2017, NBC, enregistement vidéo&#8239;: [http://www.youtube.com/watch?v=Bg_tJvCA8zw](http://www.youtube.com/watch?v=Bg_tJvCA8zw) Consulté le 14/02/20.
 
 Les conversations filmées semblent suivre un schéma: Sophia dit être un robot, l’interlocuteur puis essaye de mettre Sophia en difficulté avant qu’ elle ne désamorce la situation avec humour.
 
@@ -157,17 +155,17 @@ Sophia redéfini l’intelligence artificielle que nous connaissons maintenant c
 
 ## Projekt Mélody&#8239;: l’éros
 
-A l’heure ou j’écris ces lignes, l’entité ProjektMélody[^19], explose en nombres de vue sur Chaturbate, et démarre sa carrière de personnage public, cachée derrière l’idée d’une I.A qui ne dira jamais non à ses viewers, ou tipers, sous la forme d’une cam-girl virtuelle.
+A l’heure ou j’écris ces lignes, l’entité ProjektMélody[^20], explose en nombres de vue sur Chaturbate, et démarre sa carrière de personnage public, cachée derrière l’idée d’une I.A qui ne dira jamais non à ses viewers, ou tipers, sous la forme d’une cam-girl virtuelle.
 
-[^19]: [https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ](https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ) Consulté le 14/02/20.
+[^20]: [https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ](https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ) Consulté le 14/02/20.
 
 Le projet a débuté par des posts sur twiter durant l’été 2019, puis a continué à travers une série de vidéos sur youtube ou Mélody danse lascivement, avant un lancement officiel annoncé en janviers pour mi-février, en utilisant tout les réseaux sociaux disponible.
 
-Les posts twitter[^20] permettent de dresser une courte biographie de l’avatar. A l’origine Melody est un logiciel de protection des données personnelles et de maintenance informatique. Perverti par un virus attrapé sur un site pornographique elle est devenue une accro au Hentai (pornographie sous forme de manga) et a décidé de demander de l’aide à des amis pour bénéficier d’un corps et faire ce métier qui lui plaît tant. On sait aussi son point de vue sur la pornographie grâce à une vidéo aussi surprenante qu’étrangement disponible sur Youtube, ou à la manière d’une critique de cinéma, elle fait un exposé bien construit sur la question de la pornographie dessinée comme faisant partie des arts, appelé sobrement&#8239;: Hentai is art[^21].
+Les posts twitter[^21] permettent de dresser une courte biographie de l’avatar. A l’origine Melody est un logiciel de protection des données personnelles et de maintenance informatique. Perverti par un virus attrapé sur un site pornographique elle est devenue une accro au Hentai (pornographie sous forme de manga) et a décidé de demander de l’aide à des amis pour bénéficier d’un corps et faire ce métier qui lui plaît tant. On sait aussi son point de vue sur la pornographie grâce à une vidéo aussi surprenante qu’étrangement disponible sur Youtube, ou à la manière d’une critique de cinéma, elle fait un exposé bien construit sur la question de la pornographie dessinée comme faisant partie des arts, appelé sobrement&#8239;: Hentai is art[^22].
 
-[^20]: [https://twitter.com/projektmelody?lang=fr](https://twitter.com/projektmelody?lang=fr) Consulté le 14/02/20.
+[^21]: [https://twitter.com/projektmelody?lang=fr](https://twitter.com/projektmelody?lang=fr) Consulté le 14/02/20.
 
-[^21]: Is Hentai Art ? [https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s](https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s) Consulté le 14/02/20.
+[^22]: Is Hentai Art ? [https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s](https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s) Consulté le 14/02/20.
 
 Les critiques faites par les acteurs de ce types site sont nombreuses, pointant la concurrence déloyale de ProjektMelody qui peut être incarnée par plusieurs personnes là et faire plusieurs shows privés simultanément, modifier son corps et sa tenue à volonté, ce même au cours d’un live. Certains pointent aussi les problèmes résultant des demandes des tipers, qui n’étant plus assujetis à un corps réel et fragile, peuvent faire des demandes perverse, que le filtre numérique rends plus facile à gérer pour l’opérateur derriére le modèle 3D.
 
@@ -177,34 +175,34 @@ Le corps faux est exploité maximum de ce qu’il peut rapporter, corps féminin
 
 ## Hatsune Miku, une solution&#8239;?
 
-Yahama produit en 2003 un logiciel nommé Vocaloid[^22], logiciel spécialisé dans la synthése vocale pour la musique. Synthétisé depuis un éditeur de textes, l’utilisateur peut créer un chant, auquel il peut joindre une mélodie. Le programme sort en 2004 accompagné avec Katio et Meiko, deux Vocaloids japonais créés par Crypton Future Média, ainsi que Leon, Lola et Miriam, des Vocaloid anglophones
+Yahama produit en 2003 un logiciel nommé Vocaloid[^23], logiciel spécialisé dans la synthése vocale pour la musique. Synthétisé depuis un éditeur de textes, l’utilisateur peut créer un chant, auquel il peut joindre une mélodie. Le programme sort en 2004 accompagné avec Katio et Meiko, deux Vocaloids japonais créés par Crypton Future Média, ainsi que Leon, Lola et Miriam, des Vocaloid anglophones
 
-[^22]: [http://www.vocaloid.com/en/](http://www.vocaloid.com/en/) Consulté le 14/02/20.
+[^23]: [http://www.vocaloid.com/en/](http://www.vocaloid.com/en/) Consulté le 14/02/20.
 
 Hatsune Miku est commercialisée le 31 août 2007, par la société Crypton Future Media pour VOCALOID2. Initialement, elle a 16 ans, pèse 42 kg et mesure 1,58 m.
 
- Miku signifie «&#8239;futur&#8239;», Hatsu «&#8239;premier&#8239;», et Ne «&#8239;son&#8239;»,donc «&#8239;Premier son du futur&#8239;». D’abord exemple pour promouvoir le logiciel de Yamaha, elle connaîtra un succès retentissant.
+Miku signifie «&#8239;futur&#8239;», Hatsu «&#8239;premier&#8239;», et Ne «&#8239;son&#8239;»,donc «&#8239;Premier son du futur&#8239;». D’abord exemple pour promouvoir le logiciel de Yamaha, elle connaîtra un succès retentissant.
 
-Devant le succès mitigé de la première génération de Vocaloids, Cryption décida de donner en plus d’une voix, un physique aux vocaloids suivant. C’est ainsi que Miku obtient son physique caractéristique dessiné par le Mangaka Kei Garo, la pensant comme un android. Il basa son design sur l’interface du logiciel ainsi que du synthétiseur DX de Yahama[^23] dont le turquoise est la couleur principale. C’est néanmoins la société Cryption qui a choisi les caractéristiques de Miku[^24] (date de naissance, poids, taille).
+Devant le succès mitigé de la première génération de Vocaloids, Cryption décida de donner en plus d’une voix, un physique aux vocaloids suivant. C’est ainsi que Miku obtient son physique caractéristique dessiné par le Mangaka Kei Garo, la pensant comme un android. Il basa son design sur l’interface du logiciel ainsi que du synthétiseur DX de Yahama[^24] dont le turquoise est la couleur principale. C’est néanmoins la société Cryption qui a choisi les caractéristiques de Miku[^25] (date de naissance, poids, taille).
 
-[^23]: [https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/](https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/) Consulté le 14/02/20.
+[^24]: [https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/](https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/) Consulté le 14/02/20.
 
-[^24]: [https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us](https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us) Consulté le 14/02/20.
+[^25]: [https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us](https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us) Consulté le 14/02/20.
 
 La personnalité de Miku n’a pas été définie lors de sa production, afin de laisser une toile vierge aux créateurs et musicien et ne pas influencer le style de musique que la voix synthétique pourrait chanter.
 
-Miku a été un succès retentissant, porté par une communauté grandissante et des plateformes comme youtube, elle est devenue une star importante de la culture populaire nippone et s’est exportée rapidement à l’internationale. Caméo dans des séries, actrices dans des téléfilms animés, égérie de Dominos pizza au Japon[^25], ou sponsor automobile[^26], elle apparaît sur tous les fronts et médias. Sa musique est crée, inventée et diffusée par sa communauté, mais ses apparitions officielles gérées par Cryptons qui en possède les droits et en obtiens les bénéfices, d’aprés Crypton son répertoire est de plus de cent milles chansons de tout registre.
+Miku a été un succès retentissant, porté par une communauté grandissante et des plateformes comme youtube, elle est devenue une star importante de la culture populaire nippone et s’est exportée rapidement à l’internationale. Caméo dans des séries, actrices dans des téléfilms animés, égérie de Dominos pizza au Japon[^26], ou sponsor automobile[^27], elle apparaît sur tous les fronts et médias. Sa musique est crée, inventée et diffusée par sa communauté, mais ses apparitions officielles gérées par Cryptons qui en possède les droits et en obtiens les bénéfices, d’aprés Crypton son répertoire est de plus de cent milles chansons de tout registre.
 
-[^25]: [https://www.youtube.com/watch?v=yPuI4l0jK7s](https://www.youtube.com/watch?v=yPuI4l0jK7s) Consulté le 14/02/20.
-[^26]: [https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/](https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/) Consulté le 14/02/20.
+[^26]: [https://www.youtube.com/watch?v=yPuI4l0jK7s](https://www.youtube.com/watch?v=yPuI4l0jK7s) Consulté le 14/02/20.
+[^27]: [https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/](https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/) Consulté le 14/02/20.
 
 Le 31 août 2009 elle fera son premier concert, où elle sera sur scène en tant que simili-hologramme, et fera venir les foules jusqu’à elle, tout en provoquant la réaction ahurie des médias de l’époque, avec le premier concert sans réelle artiste sur scène.
 
-Yu Higuchi, un programmeur de Yamaha crée Miku Miku Dance[^27] (MMD) ou Vocaloid Promotion Video Project (VPVP) qui permet d’animer les personnages de Vocaloid, notamment Hatsune Miku. Entre autres, l’utilisateur peut utiliser le programme pour chorégraphier des chansons, ce qui permettra à sa communauté de produire librement des clips et des animations avec leurs vocaloids préféré mais surtout avec Hatsune Miku.
+Yu Higuchi, un programmeur de Yamaha crée Miku Miku Dance[^28] (MMD) ou Vocaloid Promotion Video Project (VPVP) qui permet d’animer les personnages de Vocaloid, notamment Hatsune Miku. Entre autres, l’utilisateur peut utiliser le programme pour chorégraphier des chansons, ce qui permettra à sa communauté de produire librement des clips et des animations avec leurs vocaloids préféré mais surtout avec Hatsune Miku.
 
-[^27]: [https://learnmmd.com/downloads/](https://learnmmd.com/downloads/) Consulté le 14/02/20.
+[^28]: [https://learnmmd.com/downloads/](https://learnmmd.com/downloads/) Consulté le 14/02/20.
 
-Création d’une société qui manipule son image publique, elle est avant tout un produit de sa communauté, qui réalise ses morceaux ,certaines fictions, ou encore des chorégraphies pour Miku. Elle fonctionne à la manière d’un logiciel libre de droit et donne sa voix à qui veut l’utiliser, permettant à chaque adorateur de se faire entendre, et d’emprunter sa voix.
+Création d’une société qui manipule son image publique, elle est avant tout un produit de sa communauté, qui réalise ses morceaux, certaines fictions, ou encore des chorégraphies pour Miku. Elle fonctionne à la manière d’un logiciel libre de droit et donne sa voix à qui veut l’utiliser, permettant à chaque adorateur de se faire entendre, et d’emprunter sa voix.
 
 Hatsune Miku propose une porte de sortie aux problèmes de l’appartenance de ce type d’entité à des groupes, en offrant sa voix à toutes celles et ceux qui le désirent. Bien que les bénéfices reviennent à une entreprise, se crée une relation de symbiose&#8239;: le publique qui achète des goodies, des jeux, ou va voir des concerts finance son propre pouvoir d’expression, et maintient sa communautés en empêchant un être qu’il apprécie de tomber dans les griffes d’un pouvoir qu’ils ne contrôle pas.
 
@@ -212,17 +210,17 @@ Ce fonctionnement propose un contre-pouvoir à un système d’hollowgarchie qui
 
 Croisant les besoins des sociétés de productions et les attentes et envies des fans, Hatsune Miku esquive les problèmes moraux que représentent les vaisseaux hollowgarchiques, et permet de gagner sur les deux tableaux&#8239;: une symbiose que seule permet ce type d’entitée artificielle et qui devrait prévaloir sur des objets tel que Miquela ou Sophia. Esquivant les problèmes d’égo ou de perte de vitesse d’artiste populaire, des tensions entre producteurs et créateurs, et les machinations des société de production et leurs actionnaires, les entités robotiques pourraient, dans un monde idéal, fournir à chacun un avatar artistique dans lequel il pourrait croire et y projeter ses propres mots.
 
-Malheureusement les défiances, et l’augmentation des bénéfices que représentent ce type de pratiques pour les producteurs ne permet par pour l’instant de voir se démocratiser ce type de pensée affiliée aux philosophies de l’open-source et des licence libres.Au moment ou les youtubeur les influenceurs et désir permettent à des groupes de manipuler des corps dans l’ombre et leurs propres intérêts, ou l’ia, la robotique et la 3D permettent de se décharger de la question du libre arbitre, il apparaît tristement que peu de progrès ont été faits depuis l’andréide de l’*Ève futur*[^28].
+Malheureusement les défiances, et l’augmentation des bénéfices que représentent ce type de pratiques pour les producteurs ne permet par pour l’instant de voir se démocratiser ce type de pensée affiliée aux philosophies de l’open-source et des licence libres.Au moment ou les youtubeur les influenceurs et désir permettent à des groupes de manipuler des corps dans l’ombre et leurs propres intérêts, ou l’ia, la robotique et la 3D permettent de se décharger de la question du libre arbitre, il apparaît tristement que peu de progrès ont été faits depuis l’andréide de l’*Ève futur*[^29].
 
-[^28]: Villiers de L’Isle-Adam, *L’Ève future*, M. de Brunhoff, Paris, 1886.
+[^29]: Villiers de L’Isle-Adam, *L’Ève future*, M. de Brunhoff, Paris, 1886.
 
-Mais l’espoir reste, Hatsune Miku chantera la chanson Miku en anglais, composée par un certain Anamaguchi[^29], la chanson pop ou Miku remercie son audience de parler à travers elle, et de continuer à le faire exister, pour qu’elle puisse être leur voix montrant que les utilisateurs de vocaloids sont conscient du pouvoir qu’ils ont sur leur idole mais aussi les uns sur les autres par ce même biais.
+Mais l’espoir reste, Hatsune Miku chantera la chanson Miku en anglais, composée par un certain Anamaguchi[^30], la chanson pop ou Miku remercie son audience de parler à travers elle, et de continuer à le faire exister, pour qu’elle puisse être leur voix montrant que les utilisateurs de vocaloids sont conscient du pouvoir qu’ils ont sur leur idole mais aussi les uns sur les autres par ce même biais.
 
-[^29]: Anamguchi,Miku, 27 mai 2016, [https://www.youtube.com/watch?v=NocXEwsJGOQ](https://www.youtube.com/watch?v=NocXEwsJGOQ) Consulté le 14/02/2020.
+[^30]: Anamguchi,Miku, 27 mai 2016, [https://www.youtube.com/watch?v=NocXEwsJGOQ](https://www.youtube.com/watch?v=NocXEwsJGOQ) Consulté le 14/02/2020.
 
-Et puis que Miku et sa communauté le chante bien mieux que je ne peut le reformuler, je conclurai en laissant les paroles de cette chanson, au amateur donc de karaoke[^30].
+Et puis que Miku et sa communauté le chante bien mieux que je ne peut le reformuler, je conclurai en laissant les paroles de cette chanson, au amateur donc de karaoke[^31].
 
-[^30]: Version sans parole de Miku De Anamaguchi&#8239;: [https://www.youtube.com/watch?v=MLWEy7iKP9E](https://www.youtube.com/watch?v=MLWEy7iKP9E) Consulté le 14/02/2020.
+[^31]: Version sans parole de Miku De Anamaguchi&#8239;: [https://www.youtube.com/watch?v=MLWEy7iKP9E](https://www.youtube.com/watch?v=MLWEy7iKP9E) Consulté le 14/02/2020.
 
 Miku, Miku, you can call me Miku
 Blue hair, blue tie, hiding in your wi-fi
