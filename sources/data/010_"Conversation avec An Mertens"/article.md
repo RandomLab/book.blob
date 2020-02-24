@@ -11,7 +11,7 @@ type: interview
 
 ##### Son roman expérimental *Tot Later* est paru en 2013 dans les éditions De Bezige Bij, Antwerpen. Depuis lors, avec le groupe de recherche artistique Algolit, elle a créé des situations et des œuvres qui montrent la perspective narrative des algorithmes, et notamment les algorithmes d’apprentissage automatique. La dernière exposition s’appelait *Data Workers* et a eu lieu au Mundaneum à Mons en mars/avril 2019.
 
-[https://www.algolit.net](https://www.algolit.net) [https://www.paramoulipist.be/](https://www.algolit.net)
+[https://www.algolit.net](https://www.algolit.net) ↔  [https://www.paramoulipist.be/](https://www.algolit.net)
 
 <div class="hard_page_break"></div>
 

@@ -79,8 +79,8 @@
   width: 100%;
 }
 
-.article .fullpage figcaption{
-
+.article .fullpage{
+  display: block;
 }
 
 .article li{
@@ -116,8 +116,6 @@
 }
 
 .article .full-page{
-  height: 100%;
-  display: flex;
   flex-direction: column;
   justify-content: center;
 }

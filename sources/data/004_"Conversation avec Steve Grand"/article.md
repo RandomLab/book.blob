@@ -49,7 +49,9 @@ Les connexions sont tout ce qui compte. Les relations sont tout ce qui existe. E
 
 Je suis complètement d’accord avec le fait que tout être doit être envisagé à travers chacune des connexions qu’il établit avec son monde. En fait, j’irais même jusqu’à dire que ce réseau de connexions est la seule chose qui constitue un être. Donc oui, pour moi, une des choses merveilleuses à propos des logiciels, et spécifiquement à propos des véritables logiciels de vie artificielle, c’est qu’ils nous permettent de dissoudre toute la «&#8239;matière&#8239;» et de nous retrouver uniquement avec les relations. Si on creuse un peu, on peut commencer à voir que même la «&#8239;matière&#8239;» n’était en fait constituée que de minuscules relations depuis le début.
 
-> Dans *Creatures*, le joueur partage le même langage que les Norns, et cela représente (en tout cas, c’est ce que j’ai perçu) l’essence même de l’interaction du joueur avec eux autant que la façon dont les Norns comprennent leur monde. Comment avez-vous conçu ce système&#8239;? À quel point le langage est-il entremêlé à l’écosystème, aux créatures, au joueur&#8239;? *Grandroids* va-t-il aussi comprendre un système de langage&#8239;?
+> Dans *Creatures*, le joueur partage le même langage que les Norns, et cela représente (en tout cas, c’est ce que j’ai perçu) l’essence même de l’interaction du joueur avec eux autant que la façon dont les Norns comprennent leur monde.
+
+> Comment avez-vous conçu ce système&#8239;? À quel point le langage est-il entremêlé à l’écosystème, aux créatures, au joueur&#8239;? *Grandroids* va-t-il aussi comprendre un système de langage&#8239;?
 
 En gros, j’ai ajouté le langage à *Creatures* après coup, mais je pense que les gens l’ont trouvé particulièrement important. Il n’a jamais vraiment marché correctement, parce que les créatures avaient tendance à s’entendre dire quelque chose et à la répéter ensuite, ce qui entraînait la première créature à la dire à nouveau et ainsi de suite. Elles se mettaient dans un coin et se hurlaient le même mot les unes aux autres encore et encore&#8239;!
 

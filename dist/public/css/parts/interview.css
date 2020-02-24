@@ -63,6 +63,10 @@ section[data-id="conversation-avec-jeremy-bailey"] .introduction > p {
   position: relative;
 }
 
+section[data-id="conversation-avec-an-mertens"] h2{
+  margin-left: 1.3em;
+  margin-right: 1.3em;
+}
 
 .interview .introduction{
   position: absolute;
