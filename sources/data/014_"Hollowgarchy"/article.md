@@ -109,34 +109,34 @@ Une autre question est celle du concept de personne morale et comment celle-ci s
 
 Cette autre définition éclaire la personne morale sous un angle différent : «&#8239;une personne morale [peut être considérée] comme un regroupement d’individus réunis dans un intérêt commun à laquelle la loi confère une existence et une personnalité juridique autonomes. La personne morale est également titulaire de droits et obligations, à l’instar de la personne physique, ou des personnes physiques et morales qui la composent.&#8239;»[^12]
 
-[^12]:
+[^12]:https://blog.valoxy.org/difference-personne-morale-physique/
 
-Entreprise, association, et autres types d’organisations sont des personnes morales. Là où un flou s’opère est que dans le cas de Miquela, Brud serait la personne morale, et Miquela son produit, hors le public ne reçoit pas de nouvelles de Bruds, et n’accède pas aux campagnes via le nom de Brud mais bien par le biais de Miquela.
+Entreprises, associations et autres types d’organisations sont des personnes morales. Là où un flou s’opère est que dans le cas de Miquela, Brud serait la personne morale et Miquela son produit&#8239;; or le public ne reçoit pas de nouvelles de Brud et n’accède pas aux campagnes via le nom de Brud mais bien par le biais de Miquela. C'est un point qui reste à explorer plus précisément.
 
 ## Sophia&#8239;: la machine 
 
-Sophia fût activée en avril 2015. C’est un Robot crée par la société Hanson Robotic[^13], un agent conversationnel conçu pour analyser et répondre à des interlocuteurs humains. Proche de la manière de fonctionner D’ELIZA[^14] (premier chatbot) elle reconnaît et analyse un ensemble de phrase et mots clés qu’elle trie pour répondre au mieux aux humains.
+Sophia fût activée en avril 2015. C’est un Robot crée par la société Hanson Robotic[^13], un agent conversationnel conçu pour analyser et répondre à des interlocuteurs humains. Proche de la manière de fonctionner d’ELIZA[^14] (premier chatbot) elle reconnaît et analyse un ensemble de phrase et mots clés qu’elle trie pour répondre au mieux aux humains.
 
 [^13]: [https://www.hansonrobotics.com/](https://www.hansonrobotics.com/) Consulté le 14/02/20.
 
 [^14]: ELIZA programme informatique, Joseph Weizenbaum, 1964-1966, version fonctionnant sur navigateur [https://www.eclecticenergies.com/ego/eliza](https://www.eclecticenergies.com/ego/eliza) Consulté le 14/02/20.
 
-Physiquement, c’est un robot de taille humaine qui reste statique mais scrute son interlocuteur pour adapter les expressions de son visage. Façonnée depuis le visage d’Audrey Hepburn, elle ne possède pas de cheveux et son crâne en plastique transparent laisse apparaître un ensemble de composant électronique qui, bien que singeant un cerveau artificiel semble être l’actionneurs de ses expressions faciales.
+Physiquement, c’est un robot de taille humaine qui reste statique mais scrute son interlocuteur pour adapter les expressions de son visage. Façonnée depuis le visage d’Audrey Hepburn, elle ne possède pas de cheveux et son crâne en plastique transparent laisse apparaître un ensemble de composant électronique qui, bien que singeant un cerveau artificiel semble être l’actionneur de ses expressions faciales.
 
-Dessinée au départ pour être une hôtesse d’accueil, ou un compagnon pour maison de retraite, la carrière de Sophia a vite pris son envol, tout d’abord par le biais de vidéos YouTube permettant de promouvoir Hanson Robotic, puis lors d’apparition sur des talk show, dans des mises en scènes humoristique telle que le rendez-vous galant qu’elle aura avec Will Smith[^15], ou des couvertures de magazines tels que «&#8239;Elle[^16]&#8239;» ou «&#8239;Stylist&#8239;». Le point d’orgue de sa carrière sera l’année 2017 où elle obtient la citoyenneté Saoudienne[^17] et un entretien avec la vice présidente des Nations Unis[^18]
+Dessinée au départ pour être une hôtesse d’accueil, ou un compagnon pour maison de retraite, la carrière de Sophia a vite pris son envol, tout d’abord par le biais de vidéos YouTube permettant de promouvoir Hanson Robotic, puis lors d’apparition sur des talk show, dans des mises en scènes humoristique telle que le rendez-vous galant qu’elle aura avec Will Smith[^15], ou des couvertures de magazines tels que *Elle* ou *Stylist*. Le point d’orgue de sa carrière sera l’année 2017 où elle obtient la citoyenneté saoudienne[^17] et un entretien avec la vice présidente des Nations Unies[^18]
 
 [^15]: Luke Kelly-Clyne, Will Smith Tries Online Dating,Westbrook Studios, 29 mars 2018, [https://www.youtube.com/watch?v=Ml9v3wHLuWI](https://www.youtube.com/watch?v=Ml9v3wHLuWI) Consulté le 14/02/20.
-[^16]: Elle Magazine Brézil, L’avenir de la mode, décembre 2016.
-[^17]: Violaine Morin, «&#8239;Sophia, robot saoudienne et citoyenne&#8239;», *Le monde*, 11/04/2017 https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html Consulté le 14/02/20.
+[^16]: «&#8239;L’avenir de la mode&#8239;»,*Elle Magazine*, Brésil, décembre 2016.
+[^17]: Violaine Morin, «&#8239;Sophia, robot saoudienne et citoyenne&#8239;», *Le Monde*, 11/04/2017 https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html Consulté le 14/02/20.
 [^18]: [https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies](https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies) Consulté le 14/02/20.
 
-Globalement, elle exploite la technologie de reconnaissance Faciale d’Alphabet et une analyse de réponse via une base de donnée pour devenir de plus en plus intelligente avec le temps. Cependant de nombreux interlocuteurs ont trouvé les réponses de Sophia souvent approximatives, et on pourra aussi noter sa date de création&#8239;: 2015, déjà assez lointaine pour un robot de cette ambition qui continue à faire parler de lui. Il est fort à parier qu’elle soit déjà dépassée par d’autres machines, sa longévité dans les médias étant exceptionnellement longue pour un objet technologique.
+Globalement, elle exploite la technologie de la reconnaissance faciale et une analyse de réponse via une base de donnée pour devenir de plus en plus «&#8239;intelligente&#8239;» avec le temps. Cependant de nombreux interlocuteurs ont trouvé les réponses de Sophia souvent approximatives, et on pourra aussi noter sa date de création&#8239;: 2015, déjà assez lointaine pour un robot qui continue à faire parler de lui. Il est fort à parier qu’elle soit déjà dépassée par d’autres machines, sa longévité dans les médias étant exceptionnellement longue pour un objet technologique.
 
-La question qui se pose alors est comment Sophia arrive-t-elle à garder l’engouement du grand publique et sur quoi repose son succès&#8239;? Lors d’un Talk Show[^19], Jimmy Fallon, nous présentera dans une interview la encore bien préparée une version miniature de Sophia à reconnaissance vocale et semblant être une sorte de poupée faisant office d’enceinte connecté. Sophia venant donc sur le plateau pour faire ce qu’elle a toujours fait&#8239;: de la promotion.
+La question qui se pose alors est comment Sophia arrive-t-elle à garder l’engouement du grand public et sur quoi repose son succès&#8239;? Lors d’un *talk show*[^19], Jimmy Fallon présente dans une interview, là encore bien préparée, une version réduite de Sophia semblant être une sorte de poupée assez proche d’une enceinte connecté... Sophia, en somme, apparaît sur le plateau pour faire ce qu’elle sait le mieux faire&#8239;: de la promotion.
 
-[^19]: The Tonight Show Starring Jimmy Fallon, April 25, 2017, NBC, enregistement vidéo&#8239;: [http://www.youtube.com/watch?v=Bg_tJvCA8zw](http://www.youtube.com/watch?v=Bg_tJvCA8zw) Consulté le 14/02/20.
+[^19]: «&#8239;The Tonight Show Starring Jimmy Fallon&#8239;», 25 avril 2017, *NBC*&#8239;: [http://www.youtube.com/watch?v=Bg_tJvCA8zw](http://www.youtube.com/watch?v=Bg_tJvCA8zw) Consulté le 14/02/20.
 
-Les conversations filmées semblent suivre un schéma: Sophia dit être un robot, l’interlocuteur puis essaye de mettre Sophia en difficulté avant qu’ elle ne désamorce la situation avec humour.
+Les conversations filmées avec Sophia semblent suivre un schéma précis&#8239;: elle dit être un robot, puis l’interlocuteur essaye de la mettre en difficulté avant qu’elle ne désamorce la conversation avec humour.
 
 L’intelligence artificielle de l’andréide n’est pas mise à contribution dans ces discussions publique et Hanson Robotic et la société du divertissement nous laisse simplement voir les moments choisis, les bonnes réponses nous donnant l’impression d’une intelligence.
 
