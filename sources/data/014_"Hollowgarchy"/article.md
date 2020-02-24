@@ -155,7 +155,7 @@ Sophia redéfinit l’intelligence artificielle que nous connaissons maintenant 
 
 ## Projekt Melody&#8239;: l’éros
 
-A l’heure ou j’écris ces lignes, l’entité Projekt Melody[^20], explose en nombres de vue sur Chaturbate, et démarre sa carrière de personnage public, cachée derrière l’idée d’une I.A qui ne dira jamais non à ses *viewers* ou *tipers* sous la forme d’une *cam-girl* virtuelle.
+A l’heure où j’écris ces lignes, l’entité Projekt Melody[^20], explose en nombres de vues sur Chaturbate, et démarre sa carrière de personnage public, cachée derrière l’idée d’une I.A qui ne dira jamais non à ses *viewers* ou *tipers* sous la forme d’une *cam-girl* virtuelle.
 
 [^20]: [https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ](https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ) Consulté le 14/02/20.
 
@@ -171,15 +171,15 @@ Les critiques soulevées par les acteurs de ce types de sites sont nombreuses, p
 
 ## Hatsune Miku, une solution&#8239;?
 
-Yahama produit en 2003 un logiciel nommé Vocaloid[^23], logiciel spécialisé dans la synthése vocale pour la musique. Synthétisé depuis un éditeur de textes, l’utilisateur peut créer un chant, auquel il peut joindre une mélodie. Le programme sort en 2004 accompagné avec Katio et Meiko, deux Vocaloids japonais créés par Crypton Future Média, ainsi que Leon, Lola et Miriam, des Vocaloid anglophones
+Yamaha produit en 2003 un logiciel nommé Vocaloid[^23], logiciel spécialisé dans la synthèse vocale pour la musique. Synthétisé depuis un éditeur de textes, l’utilisateur peut créer un chant auquel il peut joindre une mélodie. Le programme sort en 2004 accompagné de Katio et Meiko, deux Vocaloids japonais créés par Crypton Future Média, ainsi que Leon, Lola et Miriam, des Vocaloid anglophones.
 
 [^23]: [http://www.vocaloid.com/en/](http://www.vocaloid.com/en/) Consulté le 14/02/20.
 
-Hatsune Miku est commercialisée le 31 août 2007, par la société Crypton Future Media pour VOCALOID2. Initialement, elle a 16 ans, pèse 42 kg et mesure 1,58 m.
+Hatsune Miku est commercialisée le 31 août 2007, par la société Crypton Future Media pour Vocaloid 2. Initialement, elle a 16 ans, pèse 42 kg et mesure 1,58 m.
 
-Miku signifie «&#8239;futur&#8239;», Hatsu «&#8239;premier&#8239;», et Ne «&#8239;son&#8239;»,donc «&#8239;Premier son du futur&#8239;». D’abord exemple pour promouvoir le logiciel de Yamaha, elle connaîtra un succès retentissant.
+Miku signifie «&#8239;futur&#8239;», Hatsu «&#8239;premier&#8239;», et Ne «&#8239;son&#8239;»,donc «&#8239;Premier son du futur&#8239;». A l’origine, simple démonstration pour promouvoir le logiciel de Yamaha, elle connaît rapidement un succès retentissant.
 
-Devant le succès mitigé de la première génération de Vocaloids, Cryption décida de donner en plus d’une voix, un physique aux vocaloids suivant. C’est ainsi que Miku obtient son physique caractéristique dessiné par le Mangaka Kei Garo, la pensant comme un android. Il basa son design sur l’interface du logiciel ainsi que du synthétiseur DX de Yahama[^24] dont le turquoise est la couleur principale. C’est néanmoins la société Cryption qui a choisi les caractéristiques de Miku[^25] (date de naissance, poids, taille).
+Devant le succès mitigé de la première génération de Vocaloids, Cryption décida de donner en plus d’une voix, un physique aux vocaloids suivants. C’est ainsi que Miku obtient son physique caractéristique dessiné par le mangaka Kei Garo qui la représente comme un androïd. Il base son design sur l’interface du logiciel ainsi que sur celle du synthétiseur DX de Yahama[^24] dont le turquoise est la couleur principale. C’est néanmoins la société Cryption qui a choisi les caractéristiques de Miku[^25] (date de naissance, poids, taille).
 
 [^24]: [https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/](https://www.traxmag.com/comment-le-synthe-yamaha-dx7-a-revolutionne-la-musique-des-80s/) Consulté le 14/02/20.
 
@@ -187,36 +187,36 @@ Devant le succès mitigé de la première génération de Vocaloids, Cryption d�
 
 La personnalité de Miku n’a pas été définie lors de sa production, afin de laisser une toile vierge aux créateurs et musicien et ne pas influencer le style de musique que la voix synthétique pourrait chanter.
 
-Miku a été un succès retentissant, porté par une communauté grandissante et des plateformes comme youtube, elle est devenue une star importante de la culture populaire nippone et s’est exportée rapidement à l’internationale. Caméo dans des séries, actrices dans des téléfilms animés, égérie de Dominos pizza au Japon[^26], ou sponsor automobile[^27], elle apparaît sur tous les fronts et médias. Sa musique est crée, inventée et diffusée par sa communauté, mais ses apparitions officielles gérées par Cryptons qui en possède les droits et en obtiens les bénéfices, d’aprés Crypton son répertoire est de plus de cent milles chansons de tout registre.
+Miku a été un succès retentissant, porté par une communauté grandissante et des plateformes comme Youtube, elle est devenue une star importante de la culture populaire nippone et s’est exportée rapidement à l’internationale. Caméo dans des séries, actrices dans des téléfilms animés, égérie de Domino's Pizza au Japon[^26] ou sponsor automobile[^27], elle apparaît sur tous les fronts et médias. Sa musique est créée, inventée et diffusée par sa communauté mais ses apparitions officielles gérées par Cryptons qui en possède les droits et en obtient les bénéfices. D’aprés Crypton, son répertoire est maintenant de plus de cent milles chansons de tous registres.
 
 [^26]: [https://www.youtube.com/watch?v=yPuI4l0jK7s](https://www.youtube.com/watch?v=yPuI4l0jK7s) Consulté le 14/02/20.
 [^27]: [https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/](https://thenaritadogfight.com/2011/05/13/feature-good-smile-racing-z4-gt/) Consulté le 14/02/20.
 
-Le 31 août 2009 elle fera son premier concert, où elle sera sur scène en tant que simili-hologramme, et fera venir les foules jusqu’à elle, tout en provoquant la réaction ahurie des médias de l’époque, avec le premier concert sans réelle artiste sur scène.
+Le 31 août 2009, elle fait son premier concert. Elle apparaît sur scène en tant que simili-hologramme devant une foule de fans tout en provoquant une réaction ahurie de la part des médias de l’époque devant ce premier concert sans réelle artiste sur scène.
 
-Yu Higuchi, un programmeur de Yamaha crée Miku Miku Dance[^28] (MMD) ou Vocaloid Promotion Video Project (VPVP) qui permet d’animer les personnages de Vocaloid, notamment Hatsune Miku. Entre autres, l’utilisateur peut utiliser le programme pour chorégraphier des chansons, ce qui permettra à sa communauté de produire librement des clips et des animations avec leurs vocaloids préféré mais surtout avec Hatsune Miku.
+Yu Higuchi, un programmeur de Yamaha crée Miku Miku Dance[^28] (MMD) ou Vocaloid Promotion Video Project (VPVP) qui permet d’animer les personnages de Vocaloid, notamment Hatsune Miku. Entre autres, l’utilisateur peut utiliser le programme pour chorégraphier des chansons, ce qui permettra à sa communauté de produire librement des clips et des animations avec leurs Vocaloids préférés mais surtout avec Hatsune Miku.
 
 [^28]: [https://learnmmd.com/downloads/](https://learnmmd.com/downloads/) Consulté le 14/02/20.
 
-Création d’une société qui manipule son image publique, elle est avant tout un produit de sa communauté, qui réalise ses morceaux, certaines fictions, ou encore des chorégraphies pour Miku. Elle fonctionne à la manière d’un logiciel libre de droit et donne sa voix à qui veut l’utiliser, permettant à chaque adorateur de se faire entendre, et d’emprunter sa voix.
+Création d’une société qui gère son image publique, Miku est avant tout le produit de sa communauté, qui réalise ses morceaux, certaines fictions ou encore des chorégraphies pour elle. Elle fonctionne à la manière d’un logiciel libre de droit et donne sa voix à qui veut l’utiliser, permettant à chaque fan de se faire entendre et d’emprunter sa voix. 
 
-Hatsune Miku propose une porte de sortie aux problèmes de l’appartenance de ce type d’entité à des groupes, en offrant sa voix à toutes celles et ceux qui le désirent. Bien que les bénéfices reviennent à une entreprise, se crée une relation de symbiose&#8239;: le publique qui achète des goodies, des jeux, ou va voir des concerts finance son propre pouvoir d’expression, et maintient sa communautés en empêchant un être qu’il apprécie de tomber dans les griffes d’un pouvoir qu’ils ne contrôle pas.
+Hatsune Miku propose une porte de sortie aux problèmes de l’appartenance de ce type d’entité à des groupes en offrant sa voix à toutes celles et ceux qui le désirent. Bien que les bénéfices reviennent à une entreprise, une relation de symbiose se crée avec la communauté&#8239;: le public qui achète des goodies, des jeux, ou va voir des concerts finance son propre pouvoir d’expression.
 
-Ce fonctionnement propose un contre-pouvoir à un système d’hollowgarchie qui serait celui de l’industrie du divertissement, utilisant le web et les communautés d’utilisateurs comme moyen de garder une entité publique à la page, Hastune Miku représentera toujours tous ses fans, et deviendra difficilement has-been, Cryptons pouvant compter sur une communauté se renouvelant sans cesse au service de sa star. Nul besoin d’une équipe de communication ou de contrôler l’image d’une idole publique, quand c’est le publique lui même qui produit son image et la fait varier au fil de ses goûts.
+Ce fonctionnement propose un contre-pouvoir à un système hollowgarchique tel que celui de l’industrie du divertissement, qui utilise le web et les communautés d’utilisateurs comme moyen de garder une entité publique à la page&#8239;; Hastune Miku représentera toujours tous ses fans, et deviendra difficilement *has-been*, Crypton pouvant compter sur une communauté qui se renouvèle sans cesse au service de sa star. Nul besoin d’une équipe de communication ou de contrôler l’image d’une idole publique, quand c’est le publique lui-même qui produit son image et la fait varier au fil de ses goûts.
 
-Croisant les besoins des sociétés de productions et les attentes et envies des fans, Hatsune Miku esquive les problèmes moraux que représentent les vaisseaux hollowgarchiques, et permet de gagner sur les deux tableaux&#8239;: une symbiose que seule permet ce type d’entitée artificielle et qui devrait prévaloir sur des objets tel que Miquela ou Sophia. Esquivant les problèmes d’égo ou de perte de vitesse d’artiste populaire, des tensions entre producteurs et créateurs, et les machinations des société de production et leurs actionnaires, les entités robotiques pourraient, dans un monde idéal, fournir à chacun un avatar artistique dans lequel il pourrait croire et y projeter ses propres mots.
+Croisant les besoins des sociétés de productions et les attentes et envies des fans, Hatsune Miku esquive les problèmes moraux que représentent les vaisseaux hollowgarchiques, et permet de gagner sur les deux tableaux&#8239;: une symbiose que seule permet ce type d’entité artificielle et qui devrait prévaloir sur des objets tels que Miquela ou Sophia. Esquivant les problèmes d’égo ou de perte de popularité, des tensions entre producteurs et créateurs et les machinations des société de production et leurs actionnaires, les entités robotiques pourraient, dans un monde idéal, fournir à chacun un avatar artistique dans lequel il pourrait croire et y projeter ses propres mots.
 
-Malheureusement les défiances, et l’augmentation des bénéfices que représentent ce type de pratiques pour les producteurs ne permet par pour l’instant de voir se démocratiser ce type de pensée affiliée aux philosophies de l’open-source et des licence libres.Au moment ou les youtubeur les influenceurs et désir permettent à des groupes de manipuler des corps dans l’ombre et leurs propres intérêts, ou l’ia, la robotique et la 3D permettent de se décharger de la question du libre arbitre, il apparaît tristement que peu de progrès ont été faits depuis l’andréide de l’*Ève futur*[^29].
+Malheureusement les défiances et l’augmentation des bénéfices que représentent ce type de pratiques pour les producteurs ne permet par pour l’instant de voir se démocratiser ce type de pensée affiliée aux philosophies de l’open-source et des licence libres. Au moment ou les youtubeurs et les influenceurs permettent à des groupes de manipuler des corps dans l’ombre pour leurs propres intérêts, ou l’IA, la robotique et la 3D permettent de se décharger de la question du libre arbitre, il apparaît tristement que peu de progrès ont été faits depuis l’andréide de l’*Ève futur*[^29].
 
 [^29]: Villiers de L’Isle-Adam, *L’Ève future*, M. de Brunhoff, Paris, 1886.
 
-Mais l’espoir reste, Hatsune Miku chantera la chanson Miku en anglais, composée par un certain Anamaguchi[^30], la chanson pop ou Miku remercie son audience de parler à travers elle, et de continuer à le faire exister, pour qu’elle puisse être leur voix montrant que les utilisateurs de vocaloids sont conscient du pouvoir qu’ils ont sur leur idole mais aussi les uns sur les autres par ce même biais.
+Mais l’espoir reste, Hatsune Miku chantera la chanson Miku en anglais, composée par un certain Anamaguchi[^30], la chanson pop ou Miku remercie son audience de parler à travers elle, et de continuer à le faire exister, pour qu’elle puisse être leur voix montrant que les utilisateurs de Vocaloids sont conscients du pouvoir qu’ils ont sur leur idole mais aussi les uns sur les autres par ce même biais.
 
-[^30]: Anamguchi,Miku, 27 mai 2016, [https://www.youtube.com/watch?v=NocXEwsJGOQ](https://www.youtube.com/watch?v=NocXEwsJGOQ) Consulté le 14/02/2020.
+[^30]: Anamanaguchi, «&#8239;Miku&#8239;», 27 mai 2016, [https://www.youtube.com/watch?v=NocXEwsJGOQ](https://www.youtube.com/watch?v=NocXEwsJGOQ) Consulté le 14/02/2020.
 
-Et puis que Miku et sa communauté le chante bien mieux que je ne peut le reformuler, je conclurai en laissant les paroles de cette chanson, au amateur donc de karaoke[^31].
+Et puisque Miku et sa communauté le chante bien mieux que je ne peux le reformuler, je conclurai en laissant les paroles de cette chanson, aux amateurs, donc, de karaoke[^31].
 
-[^31]: Version sans parole de Miku De Anamaguchi&#8239;: [https://www.youtube.com/watch?v=MLWEy7iKP9E](https://www.youtube.com/watch?v=MLWEy7iKP9E) Consulté le 14/02/2020.
+[^31]: Version sans paroles de «&#8239;Miku&#8239;» de Anamanaguchi&#8239;: [https://www.youtube.com/watch?v=MLWEy7iKP9E](https://www.youtube.com/watch?v=MLWEy7iKP9E) Consulté le 14/02/2020.
 
 Miku, Miku, you can call me Miku
 Blue hair, blue tie, hiding in your wi-fi
