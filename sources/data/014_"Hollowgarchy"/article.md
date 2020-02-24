@@ -119,13 +119,13 @@ Sophia fût activée en avril 2015. C’est un Robot crée par la société Hans
 
 [^13]: [https://www.hansonrobotics.com/](https://www.hansonrobotics.com/) Consulté le 14/02/20.
 
-[^14]: ELIZA programme informatique, Joseph Weizenbaum, 1964-1966, version fonctionnant sur navigateur [https://www.eclecticenergies.com/ego/eliza](https://www.eclecticenergies.com/ego/eliza) Consulté le 14/02/20.
+[^14]: ELIZA, programme informatique, Joseph Weizenbaum, 1964-1966, version fonctionnant sur navigateur [https://www.eclecticenergies.com/ego/eliza](https://www.eclecticenergies.com/ego/eliza) Consulté le 14/02/20.
 
 Physiquement, c’est un robot de taille humaine qui reste statique mais scrute son interlocuteur pour adapter les expressions de son visage. Façonnée depuis le visage d’Audrey Hepburn, elle ne possède pas de cheveux et son crâne en plastique transparent laisse apparaître un ensemble de composant électronique qui, bien que singeant un cerveau artificiel semble être l’actionneur de ses expressions faciales.
 
 Dessinée au départ pour être une hôtesse d’accueil, ou un compagnon pour maison de retraite, la carrière de Sophia a vite pris son envol, tout d’abord par le biais de vidéos YouTube permettant de promouvoir Hanson Robotic, puis lors d’apparition sur des talk show, dans des mises en scènes humoristique telle que le rendez-vous galant qu’elle aura avec Will Smith[^15], ou des couvertures de magazines tels que *Elle* ou *Stylist*. Le point d’orgue de sa carrière sera l’année 2017 où elle obtient la citoyenneté saoudienne[^17] et un entretien avec la vice présidente des Nations Unies[^18]
 
-[^15]: Luke Kelly-Clyne, Will Smith Tries Online Dating,Westbrook Studios, 29 mars 2018, [https://www.youtube.com/watch?v=Ml9v3wHLuWI](https://www.youtube.com/watch?v=Ml9v3wHLuWI) Consulté le 14/02/20.
+[^15]: Luke Kelly-Clyne, «&#8239;Will Smith Tries Online Dating&#8239;», Westbrook Studios, 29 mars 2018, [https://www.youtube.com/watch?v=Ml9v3wHLuWI](https://www.youtube.com/watch?v=Ml9v3wHLuWI) Consulté le 14/02/20.
 [^16]: «&#8239;L’avenir de la mode&#8239;»,*Elle Magazine*, Brésil, décembre 2016.
 [^17]: Violaine Morin, «&#8239;Sophia, robot saoudienne et citoyenne&#8239;», *Le Monde*, 11/04/2017 https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html Consulté le 14/02/20.
 [^18]: [https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies](https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies) Consulté le 14/02/20.
@@ -138,40 +138,36 @@ La question qui se pose alors est comment Sophia arrive-t-elle à garder l’eng
 
 Les conversations filmées avec Sophia semblent suivre un schéma précis&#8239;: elle dit être un robot, puis l’interlocuteur essaye de la mettre en difficulté avant qu’elle ne désamorce la conversation avec humour.
 
-L’intelligence artificielle de l’andréide n’est pas mise à contribution dans ces discussions publique et Hanson Robotic et la société du divertissement nous laisse simplement voir les moments choisis, les bonnes réponses nous donnant l’impression d’une intelligence.
+L’intelligence artificielle de l’andréide n’est pas mise à contribution dans ces discussions publiques et Hanson Robotic et la société du divertissement nous laissent simplement voir les moments choisis, les bonnes réponses nous donnant l’impression d’une intelligence.
 
-En anglais le terme «&#8239;intelligence&#8239;» se traduit de deux manière&#8239;: la première comme en Français celle d’une capacité à comprendre, analyser et apprendre. La seconde est celle d’un groupe de personne recherchant et collectant des informations pour un gouvernement ou un commanditaire, que l’on retrouve dans le terme CIA pour Central Intelligence Agency.
+En anglais le terme «&#8239;intelligence&#8239;» se traduit de deux manières&#8239;: la première comme en Français celle d’une capacité à comprendre, analyser et apprendre. La seconde est celle d’un groupe de personnes recherchant et collectant des informations pour un gouvernement ou un commanditaire, que l’on retrouve dans le terme CIA pour Central Intelligence Agency.
 
-L’intelligence de Sophia pourrait en partie correspondre à cette seconde partie, utilisant le groupe de personne qui soutient le projet comme un moyen de réunir les ressources nécessaire à ce qu’elle puisse discuter et être vu sur les plateau télé, une intelligence, donc, au sens d’un service secret.
+L’intelligence de Sophia pourrait en partie correspondre à cette seconde partie, utilisant le groupe de personnes qui soutient le projet comme un moyen de réunir les ressources nécessaires à ce qu’elle puisse discuter et être vu sur les plateaux télé, une intelligence, donc, au sens d’un service secret.
 
 On peut donc imaginer qu’elle possède deux types d’intelligences artificielles&#8239;: une codée et algorithmique et une autre se reposant sur un groupe œuvrant en arrière plan pour maintenir une impression de cohérence.
 
 Le cas de Sophia permet une porte d’entrée dans l’identification de intelligence artificielle et pose la question de la mise en situation de l’intelligence plutôt que de son évaluation. L’intelligence de Sophia se révèle face aux caméras et dans les situations ou le prisme médiatique permet de filtrer ses dires. Pour le public, Sophia est un robot intelligent bien qu’elle ne veuille pas du beau Will Smith.
 
-L’intelligence d’un robot, c’est à dire son IA serait de deux natures, celle du personnage publique et celle de la machine. Un robot comme Sophia est une intelligence collective, reposant sur le travail d’une équipe afin de la faire exister dans les médias, et une série d’algorithmes lui permettant de répondre aux attentes des clients.
+L’intelligence d’un robot, c’est à dire son IA serait de deux natures, celle du personnage public et celle de la machine. Un robot comme Sophia est une intelligence collective, reposant sur le travail d’une équipe afin de la faire exister dans les médias et une série d’algorithmes lui permettant de répondre aux attentes des clients.
 
-Sophia redéfini l’intelligence artificielle que nous connaissons maintenant comme une intelligence collective, et plus que jamais dans l’histoire de la robotique les lignes de code d’un programmes informatique soit disant novateur sont visible. Constituée d’une série d’instruction «&#8239;If&#8239;», elle ne répond qu’à des stimulus prés enregistré qu’ont pu prévoir ses programmeurs et agent de communication.
+Sophia redéfinit l’intelligence artificielle que nous connaissons maintenant comme une intelligence collective, et plus que jamais dans l’histoire de la robotique les lignes de code d’un programmes informatique soit disant novateur sont visible. Constituée d’une série d’instruction «&#8239;If&#8239;» (si), elle ne répond qu’à des stimuli pré-enregistrés qu’ont pu prévoir ses programmeurs et agents de communication.
 
 
-## Projekt Mélody&#8239;: l’éros
+## Projekt Melody&#8239;: l’éros
 
-A l’heure ou j’écris ces lignes, l’entité ProjektMélody[^20], explose en nombres de vue sur Chaturbate, et démarre sa carrière de personnage public, cachée derrière l’idée d’une I.A qui ne dira jamais non à ses viewers, ou tipers, sous la forme d’une cam-girl virtuelle.
+A l’heure ou j’écris ces lignes, l’entité Projekt Melody[^20], explose en nombres de vue sur Chaturbate, et démarre sa carrière de personnage public, cachée derrière l’idée d’une I.A qui ne dira jamais non à ses *viewers* ou *tipers* sous la forme d’une *cam-girl* virtuelle.
 
 [^20]: [https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ](https://www.youtube.com/channel/UC1yoRdFoFJaCY-AGfD9W0wQ) Consulté le 14/02/20.
 
-Le projet a débuté par des posts sur twiter durant l’été 2019, puis a continué à travers une série de vidéos sur youtube ou Mélody danse lascivement, avant un lancement officiel annoncé en janviers pour mi-février, en utilisant tout les réseaux sociaux disponible.
+Le projet a débuté par des *posts* sur Twitter durant l’été 2019, puis a continué à travers une série de vidéos sur Youtube où Melody danse lascivement, avant un lancement officiel annoncé en janvier pour mi-février, en utilisant tout les réseaux sociaux disponibles.
 
-Les posts twitter[^21] permettent de dresser une courte biographie de l’avatar. A l’origine Melody est un logiciel de protection des données personnelles et de maintenance informatique. Perverti par un virus attrapé sur un site pornographique elle est devenue une accro au Hentai (pornographie sous forme de manga) et a décidé de demander de l’aide à des amis pour bénéficier d’un corps et faire ce métier qui lui plaît tant. On sait aussi son point de vue sur la pornographie grâce à une vidéo aussi surprenante qu’étrangement disponible sur Youtube, ou à la manière d’une critique de cinéma, elle fait un exposé bien construit sur la question de la pornographie dessinée comme faisant partie des arts, appelé sobrement&#8239;: Hentai is art[^22].
+Les *posts* Twitter[^21] permettent de dresser une courte biographie de l’avatar. A l’origine Melody est un logiciel de protection des données personnelles et de maintenance informatique. Perverti par un virus attrapé sur un site pornographique elle est devenue une accro au Hentai (pornographie sous forme de manga) et a décidé de demander de l’aide à des amis pour bénéficier d’un corps et faire ce métier qui lui plaît tant. On sait aussi son point de vue sur la pornographie grâce à une vidéo aussi surprenante qu’étrangement disponible sur Youtube, ou à la manière d’une critique de cinéma, elle fait un exposé bien construit sur la question de la pornographie dessinée comme faisant partie des arts, appelé sobrement&#8239;: «&#8239;Hentai is art[^22]&#8239;».
 
 [^21]: [https://twitter.com/projektmelody?lang=fr](https://twitter.com/projektmelody?lang=fr) Consulté le 14/02/20.
 
 [^22]: Is Hentai Art ? [https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s](https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s) Consulté le 14/02/20.
 
-Les critiques faites par les acteurs de ce types site sont nombreuses, pointant la concurrence déloyale de ProjektMelody qui peut être incarnée par plusieurs personnes là et faire plusieurs shows privés simultanément, modifier son corps et sa tenue à volonté, ce même au cours d’un live. Certains pointent aussi les problèmes résultant des demandes des tipers, qui n’étant plus assujetis à un corps réel et fragile, peuvent faire des demandes perverse, que le filtre numérique rends plus facile à gérer pour l’opérateur derriére le modèle 3D.
-
-L’avatar semble être animé en utilisant une combinaison de motion capture et des captations issues de la réalité virtuelle. On ne sait pas qui se trouve derrière le projet, ni si l’actrice est toujours la même dans la combinaison.
-
-Le corps faux est exploité maximum de ce qu’il peut rapporter, corps féminin reproductible il ne peut pas être plus proche d’une surface de projection du désir, alliant la capacité de réponse que n’ont pas les IA actuelles et le corps d’un être inexistant et potentiellement parfait.
+Les critiques soulevées par les acteurs de ce types de sites sont nombreuses, pointant la concurrence déloyale de Projekt Melody qui peut être incarnée par plusieurs personnes là et faire plusieurs shows privés simultanément, modifier son corps et sa tenue à volonté, au cours d’un *live*. Certains pointent aussi les problèmes résultants des demandes des *tipers*, qui n’étant plus assujetis à un corps réel et fragile peuvent faire des demandes perverses qu'un modèle 3D rend possible à éxécuter. Même si l’avatar semble animé en utilisant une combinaison de motion capture et des captations issues de la réalité virtuelle, on ne sait pas qui se trouve derrière le projet, ni si l’actrice (ou l'acteur) est toujours la(le) même derrière l'animation. Le faux corps est exploité au maximum de ce qu’il peut rapporter... Le corps féminin de l'avatar Melody, reproductible, ne peut pas être plus proche d’une surface de projection du fantasme, alliant une capacité de réponse que n’ont pas les IA actuelles et le corps d’un être parfait mais inexistant.
 
 ## Hatsune Miku, une solution&#8239;?
 
