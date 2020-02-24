@@ -1,17 +1,17 @@
 ---
-title: Hollowgarchy
+title: Hollowgarchie
 authors: Kevin Ardito
-runningTitle: Hollowgarchy
+runningTitle: Hollowgarchie
 type: article
 ---
 
-## Robby le pére.
+## Robby le père.
 
- Robby le robot fît son apparition dans *Forbiden planet*[^1], et connaîtra une carrière longue peuplée de films quelconques et de «&#8239;Caméos&#8239;». Il n’a que deux seuls vrais rôles de composition&#8239;: *The Forbiden planet* en tant qu’adjuvant, puis The invisible boy[^2] en tant que protagoniste principal. Pour le reste de sa carrière il sera un personnage secondaire, une référence, ou utilisé en tant qu’accessoire.
+ Robby le robot fit son apparition dans *Forbiden planet*[^1], et connaîtra une carrière longue peuplée de films quelconques et de caméos. Il n’a que deux seuls vrais rôles de composition&#8239;: *The Forbiden Planet* en tant qu’adjuvant, puis *The Invisible Boy*[^2] en tant que protagoniste principal. Pour le reste de sa carrière il sera un personnage secondaire, une référence, ou utilisé en tant qu’accessoire.
 
-[^1]: Fred McLeod Wilcox, Forbidden Planet, MGM, 15 mars 1956, 98min, c - technicolors (Western Electric Sound System) – 35 mm- Cinemascope
+[^1]: Fred McLeod Wilcox, *Forbidden Planet*, MGM, 1956.
 
-[^2]: Herman Hoffman, The Invisible Boy, MGM, octovre 1957, 90 min, n&b, son, 35mm.
+[^2]: Herman Hoffman, *The Invisible Boy*, MGM, 1957.
 
 
 La biographie du robot se découpe en trois étape&#8239;: *Robby* acteur et reconnu de ses pairs et contemporains, *Robby* le robot&#8239;: qui est l’accessoire recyclé, et *Robby* la légende qui représente son espèces et son genre cinématographique au Panthéon des êtres imaginaires. J’ai connu Robby par ce derniers biais, une légende marqué de la vétusté d’un futur conjugué au passé, une image vintage et intouchable  telle la représentation absolue de l’idée de la robotique.
