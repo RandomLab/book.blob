@@ -17,4 +17,4 @@ Les contributions qui suivent se sont donc appuyées plus ou moins librement sur
 
 Enfin, nous renouvelons nos remerciements aux artistes, autrices et auteurs qui ont accepté·e·s de participer à ce numéro inaugural ainsi qu’à l’ESAD Saint-Étienne et à l’ENSBA Lyon pour leur soutien.
 
-[DOL]
+DOL
