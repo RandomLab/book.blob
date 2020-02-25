@@ -20,9 +20,8 @@ Même si elle ne fait pas partie des priorités pour les développeurs de naviga
 On peut donc voir Paged.js comme une extension des capacités des navigateurs web pour manipuler et afficher des contenus organisés sous forme de pages, telle une émulation de l’objet technique «&#8239;livre&#8239;» au sein d’un document linéaire.
 
 Paged.js n’est qu’un des nombreux scripts qui manipulent le contenu de la revue avant sa diffusion.
-Par exemple les contributions des auteurs se font en Markdown, langage de balisage léger, permettant de structurer rapidement et facilement le texte «&#8239;brut&#8239;» de l’article. Il faut donc convertir ces documents en HTML (langage de contenu structuré, standard du web).
-Les articles sont convertis et placés les un à la suite des autres dans la page web. Déjà des éléments spécifique à la revue sont générés comme la table des matières ou le cartouche contenant le titre et le nom des auteurs au début de chaque article.
-Ces étapes ont lieu «&#8239;côté serveur&#8239;», c’est à dire qu’elles sont réalisées par un logiciel qui va ensuite «&#8239;servir&#8239;» le document, comme n’importe quelle page de site web.
+Par exemple, les contributions des auteurs se font en Markdown, langage de balisage léger, permettant de structurer rapidement et facilement le texte «&#8239;brut&#8239;» de l’article. Il faut donc ensuite convertir ces documents en HTML (langage de contenu structuré, standard du web) et les placer les uns à la suite des autres dans la page web. 
+Lors de cette opération, certains éléments spécifiques à la revue sont générés automatiquement comme la table des matières ou le cartouche contenant le titre et le nom des auteurs au début de chaque article. Ces étapes ont lieu «&#8239;côté serveur&#8239;», c’est à dire qu’elles sont réalisées par un logiciel qui va ensuite «&#8239;servir&#8239;» le document comme n’importe quelle page de site web.
 
 Ont lieux ensuite des étapes dîtes «&#8239;côté client&#8239;», c’est-à-dire réalisées par le navigateur web.
 Un script nommé Hyphenopoly va repérer dans l’intégralité du texte de la revue, les césures possibles par les règles spécifiques à la langue (ici, française). Ainsi le texte pourra être césuré correctement si un élément de mise en page le demande.
