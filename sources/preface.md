@@ -1,4 +1,4 @@
-# Éditorial
+# Note liminaire
 
 *BLOB* est une parution qui vise, chaque année, à mettre en exergue un moment de réflexion au sein de l’Unité de Recherche Numérique en Art et Design de l’Esad Saint-Étienne&#8239;/&#8239;Ensba Lyon.
 
