@@ -1,14 +1,11 @@
 ---
-title: B.L.O.B, présentation de la chaîne graphique
+title: BLOB, présentation de la chaîne graphique
 authors: Corentin Brulé
-runningTitle: blob
+runningTitle: BLOB
 ---
 
-##### «&#8239;Ours&#8239;»
-
-BLOB est un dispostitif éditorial (aka «&#8239;revue&#8239;») des laboratoires Random(lab) de l’ESAD Saint-Étienne et NRV de l’ENSBA Lyon.
-Il est donc le support d’expérimentation et de recherche, à la fois dans son contenu, dans sa mise en page, mais aussi dans le développement d’outils nécessaires à sa fabrication.
-Ainsi, BLOB a été pensé comme une chaîne éditoriale entre les contributions des auteurs et leurs diffusions, dont certains maillons nécessiteraient d’être fabriquer sur-mesure.
+BLOB est un support d’expérimentation et de recherche, à la fois dans son contenu, dans sa mise en page, mais aussi dans le développement d’outils nécessaires à sa fabrication.
+Ainsi, BLOB a été pensé comme une chaîne éditoriale entre les contributions des auteurs et leurs diffusions, dont certains maillons nécessiteraient d’être fabriqués sur mesure.
 
 Le choix d’un mode d’édition dit «&#8239;web to print&#8239;» (du web vers l’impression) permet de différencier structurellement le contenu (sémantique) de la forme (présentation).
 Cette séparation qui n’existe pas dans les outils traditionnels de mise en page met en avant la modification des contenus en dehors de la maquette&#8239;; problématique récurrente de ce type de publication «&#8239;dans le flux&#8239;», dont les temporalités et l’éditorialisation se construisent autours des contenus.
