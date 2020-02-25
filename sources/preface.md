@@ -15,4 +15,6 @@ Les contributions qui suivent se sont donc appuyées plus ou moins librement sur
 *BLOB* est aussi une expérimentation graphique. Son principe de génération est décrit à la fin de ce numéro. Corentin Brulé a mis en place, en collaboration avec Jérémie Nuel, un dispositif éditorial à partir de textes téléversés par les autrices et auteurs sur un dépôt Git. L’intérêt de cette chaîne graphique et qu’elle permet de produire une version web, PDF et imprimée dans la continuité tout en gardant un maîtrise formelle à toutes les étapes.
 À noter, également qu’une version en langue anglaise de ce numéro `0` est disponible.
 
-Enfin, nous renouvelons nos remerciements aux artistes, autrices et auteurs qui ont accepté·e·s de participer à ce numéro inaugural ainsi qu’à l’ESAD Saint-Étienne et à l’ENSBA Lyon pour leur soutien. [DOL]
+Enfin, nous renouvelons nos remerciements aux artistes, autrices et auteurs qui ont accepté·e·s de participer à ce numéro inaugural ainsi qu’à l’ESAD Saint-Étienne et à l’ENSBA Lyon pour leur soutien.
+
+[DOL]
