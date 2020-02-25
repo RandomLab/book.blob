@@ -1,9 +1,12 @@
 ---
-title: Mark, le bleu ; une discussion avec Marion Balac
+title: Mark, le bleu ; discussion avec Marion Balac
 authors: avec Bérénice Serra
 runningTitle: Marion Balac
 type: interview
 ---
+
+![Mark, 2018,
+Vidéo full HD, couleur, son, 9’35’’](/images/Mark.jpg)
 
 **Mark, 2018,
 Vidéo full HD, couleur, son, 9’35’’
@@ -36,3 +39,7 @@ Ces vidéos sont aussi le reflet de l’évolution chronologique de l’image de
 
 Dans la vidéo, il est vrai que l’on retrouve le bleu Facebook puisque je me suis appuyée sur leur charte graphique au moment de placer des fonds unis — tout comme j’ai repris leur première police pour les crédits. Par contre, dans l’espace d’accrochage, j’utilise un bleu effectivement plus proche du bleu Klein, plus saturé. Mais, pour moi, la synthèse des deux renvoie plutôt à un bleu *corporate*, un bleu que j'imagine très utilisé dans les salles de réunion des entreprises. Une grande table blanche, des petites plantes vertes et une belle moquette bleue. Un bleu professionnel.  
 Et même si Facebook a choisi le bleu pour le côté apaisant, pour beaucoup, cette couleur fait écho à quelque chose de plus froid, à l’institution, l’entreprise — et finalement, c’est aussi ce que *Mark* fait entrer dans l’espace d’exposition.
+
+![](images/MARK-1.jpg)
+![](images/MARK-2.jpg)
+![](images/MARK-4.jpg)

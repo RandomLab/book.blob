@@ -1,18 +1,10 @@
 ---
-title: Coco's memories
+title: Coco’s memories
 authors: Damien Baïs
-runningTitle: Coco's memories
+runningTitle: Coco’s memories
 ---
 
-
-
-
-
-
-
-
-
-http://cocodataset.org
+##### [http://cocodataset.org](http://cocodataset.org)
 
 <div class="hard_page_break"></div>
 
