@@ -115,9 +115,9 @@ Entreprises, associations et autres types d’organisations sont des personnes m
 
 ## Sophia&#8239;: la machine 
 
-Sophia fût activée en avril 2015. C’est un Robot crée par la société Hanson Robotic[^13], un agent conversationnel conçu pour analyser et répondre à des interlocuteurs humains. Proche de la manière de fonctionner d’ELIZA[^14] (premier *chatbot*) elle reconnaît et analyse un ensemble de phrase et mots clés qu’elle trie pour répondre au mieux aux humains.
-
 [^13]: [https://www.hansonrobotics.com/](https://www.hansonrobotics.com/) Consulté le 14/02/20.
+
+Sophia fût activée en avril 2015. C’est un Robot crée par la société Hanson Robotic[^13], un agent conversationnel conçu pour analyser et répondre à des interlocuteurs humains. Proche de la manière de fonctionner d’ELIZA[^14] (premier *chatbot*) elle reconnaît et analyse un ensemble de phrase et mots clés qu’elle trie pour répondre au mieux aux humains.
 
 [^14]: ELIZA, programme informatique, Joseph Weizenbaum, 1964-1966, version fonctionnant sur navigateur [https://www.eclecticenergies.com/ego/eliza](https://www.eclecticenergies.com/ego/eliza) Consulté le 14/02/20.
 
@@ -127,7 +127,7 @@ Dessinée au départ pour être une hôtesse d’accueil, ou un compagnon pour m
 
 [^15]: Luke Kelly-Clyne, «&#8239;Will Smith Tries Online Dating&#8239;», Westbrook Studios, 29 mars 2018, [https://www.youtube.com/watch?v=Ml9v3wHLuWI](https://www.youtube.com/watch?v=Ml9v3wHLuWI) Consulté le 14/02/20.
 [^16]: «&#8239;L’avenir de la mode&#8239;»,*Elle Magazine*, Brésil, décembre 2016.
-[^17]: Violaine Morin, «&#8239;Sophia, robot saoudienne et citoyenne&#8239;», *Le Monde*, 11/04/2017 https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html Consulté le 14/02/20.
+[^17]: Violaine Morin, «&#8239;Sophia, robot saoudienne et citoyenne&#8239;», *Le Monde*, 11/04/2017 [https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html](https://www.lemonde.fr/idees/article/2017/11/04/sophia-robot-saoudienne-et-citoyenne_5210094_3232.html) Consulté le 14/02/20.
 [^18]: [https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies](https://news.un.org/fr/story/2017/10/365972-robotique-et-intelligence-artificielle-il-faut-que-les-nouvelles-technologies) Consulté le 14/02/20.
 
 Globalement, elle exploite la technologie de la reconnaissance faciale et une analyse de réponse via une base de donnée pour devenir de plus en plus «&#8239;intelligente&#8239;» avec le temps. Cependant de nombreux interlocuteurs ont trouvé les réponses de Sophia souvent approximatives, et on pourra aussi noter sa date de création&#8239;: 2015, déjà assez lointaine pour un robot qui continue à faire parler de lui. Il est fort à parier qu’elle soit déjà dépassée par d’autres machines, sa longévité dans les médias étant exceptionnellement longue pour un objet technologique.
