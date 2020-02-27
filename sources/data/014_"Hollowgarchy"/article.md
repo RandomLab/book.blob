@@ -35,11 +35,11 @@ L’interview[^3] commence par Anne Francis qui arrive seule devant Perry Como (
 
 La discussion avance et les phrases de Robby sont préparées. Bien que jouer une interview est une habitude hollywoodienne et ne présente rien de surprenant, l’utilisation du jeu d’acteur dans le cas du robot crée une rupture avec la manière de le percevoir. Mis sur le même plan que l’actrice du film, il gagne une personnalité si ce n’est une humanité. Utilisant l’humour pour désamorcer son corps imposant, il rejoue le gentleman drôle et sûr de lui que beaucoup d’acteurs de cette époque incarnent. Sa nature robotique est lissée pour mettre en avant sa complicité avec l’actrice, et met l’accessoire en position d’acteur. Cette interview sera pour un grand nombres d’américains le premier contact avec Robby.
 
-Si Robby a une personnalité à l’écran et hors de l’écran, où se trouve être le personnage&#8239;? La structure appartient à la Metro-Goldwyn-Mayer, qui le recyclera dans diverses productions pour compenser les 165&#8239;000 dollars que la production du robot représentait (presque 1,1 million de dollars actuels). Au générique de *Forbiden Planet*, l’acteur portant le costume et celui prêtant sa voix au robot ne sont pas crédités, Robby le robot, étant crédité en son propre nom. La carlingue de Robby a servi à de nombreux autres robots à travers l’histoire de la télévision, modifiée un nombre incalculable de fois. Il joue même des robots qui ne portent pas son nom dans les fiction et sera pourtant crédité au générique en tant que «&#8239;Robby le robot&#8239;» et ces rôles seront enregistrés dans la liste de ses apparitions comme ce serait le cas pour un véritable acteur.
+Si Robby a une personnalité à l’écran et hors de l’écran, où se trouve être le personnage&#8239;? La structure appartient à la Metro-Goldwyn-Mayer, qui le recyclera dans diverses productions pour compenser les 165&#8239;000 dollars que la production du robot représentait (presque 1,1 million de dollars actuels). Au générique de *Forbiden Planet*, l’acteur portant le costume et celui prêtant sa voix au robot ne sont pas crédités, c'est Robby le robot qui l'est en son propre nom. La carlingue de Robby a servi à de nombreux autres robots à travers l’histoire de la télévision, modifiée un nombre incalculable de fois. Il joue même des robots qui ne portent pas son nom dans les fictions et sera pourtant cité au générique en tant que «&#8239;Robby le robot&#8239;» et ces rôles seront enregistrés dans la liste de ses apparitions comme ce serait le cas pour un véritable acteur.
 
 La question épineuse que pose la MGM est celle de l’identité d’une création robotique&#8239;: où et quand commence son identité réelle et sa personnalité fictionnelle, quand peut-on différencier le personnage du produit de la MGM&#8239;?
 
-Pour un acteur humain, on peut considérer que plusieurs entités se superposent&#8239;: le personnage médiatique en contrat avec la production qui apparaît en public (films, scènes, apparitions télé, interviews), à différencier des multiples personnages qu’il incarne qui sont également à différencier de la personne physique et morale de l’acteur dans le privé. Dans le cas du robot de la MGM, il n’est que «&#8239;Robby le robot&#8239;», produit qui peut néanmoins s’exprimer, parler se déplacer et rentrer en contact avec son public. Robby peut ainsi influencer, être entendu et exister sur le même plan que toutes personnes public de son époque. La MGM ne s’est cependant pas vraiment servie de cet aspect du robot et s’est contentée d’en amortir le coût en l’utilisant comme accessoire rentable.
+Pour un acteur humain, on peut considérer que plusieurs entités se superposent&#8239;: le personnage médiatique en contrat avec la production qui apparaît en public (films, scènes, apparitions télé, interviews), à différencier des multiples personnages qu’il incarne qui sont également à différencier de la personne physique et morale de l’acteur dans le privé. Dans le cas du robot de la MGM, il n’est que «&#8239;Robby le robot&#8239;», produit qui peut néanmoins s’exprimer, parler se déplacer et rentrer en contact avec son public. Robby peut ainsi influencer, être entendu et exister sur le même plan que toutes personnes publiques de son époque. La MGM ne s’est cependant pas vraiment servie de cet aspect du robot et s’est contentée d’en amortir le coût en l’utilisant comme accessoire rentable.
 
 Robby est le premier être artificiel ayant appartenu à un studio et il peut être considéré comme la première entité artificielle perçue comme un robot pensant, parlant, avec une réalité tangible pour les spectateurs de son époque. La suspension de la crédulité se faisait au service de «&#8239;Robby le robot&#8239;», LE robot du public, celui qu’on aime voir à l’écran et qu’on veut percevoir comme existant. L’espace vide à l’intérieur de Robby est l’espace de liberté de ses maîtres qui peuvent ainsi utiliser ce personnage à leur guise, maîtrisant sa parole et ses apparitions.
 
@@ -90,9 +90,9 @@ A la fin de l’altercation entre les deux entités fictives, Miquela laissera u
 
 C’est avec cet événement que Miquela devient un concept problématique. Elle est reconnue comme artificielle et propriété d’une entreprise tout en étant un reflet de luttes sociales queer et féministes. Son existence sert un petit groupe, utilisant des idéaux et positions comme atouts marketing, permettant à des marques et entreprises de blanchir leurs images, comme le montre la campagne de Calvin Klein ou Lil Miquela embrasse en sous-vêtements une mannequin réelle digitalisée pour l’occasion.
 
-L’un des éléments les plus perturbants est une vidéo que Brud à produit pour son compte YouTube, ou Lil Miquela parle de l’agression qu’elle a subit en allant à la plage. Ce type de témoignage est important et sert à éveiller à un problème de société grave, néanmoins Lil Miquela ne possède pas de corps, pas de réalité physique et sa psyché varie d’une image à l’autre&#8239;: cette situation est donc inventée. Son discours est entrecoupé de moments où elle n’arrive pas à parler à cause des larmes et semble sincèrement bouleversée. Mais cela insiste surtout sur sa nature robotique et sa capacité en tant que robot à avoir des émotions et une sexualité.  Ce témoignage est effrayant, car il utilise tous les codes de ce type de vidéos et montre la compétence de cette entreprise à récupérer, digérer et tordre des concepts contemporains, des dynamiques sociales et politiques au service de l’appréciation par les fans et followers. Cette vidéo n’est pas faite pour une association ou au service d’un événement, elle ne fait pas partie d’une création artistique ou d’une critique, et n’est pas commandité : cette vidéo n’a donc d’influence que sur l’image de Miquela et sur le nombre de *likes* et d’abonnements que la vidéo procura.
+L’un des éléments les plus perturbants est une vidéo que Brud à produit pour son compte YouTube, ou Lil Miquela parle de l’agression qu’elle a subi en allant à la plage. Ce type de témoignage est important et sert à éveiller à un problème de société grave, néanmoins Lil Miquela ne possède pas de corps, pas de réalité physique et sa psyché varie d’une image à l’autre&#8239;: cette situation est donc inventée. Son discours est entrecoupé de moments où elle n’arrive pas à parler à cause des larmes et semble sincèrement bouleversée. Mais cela insiste surtout sur sa nature robotique et sa capacité en tant que robot à avoir des émotions et une sexualité.  Ce témoignage est effrayant, car il utilise tous les codes de ce type de vidéos et montre la compétence de cette entreprise à récupérer, digérer et tordre des concepts contemporains, des dynamiques sociales et politiques au service de l’appréciation par les fans et followers. Cette vidéo n’est pas faite pour une association ou au service d’un événement, elle ne fait pas partie d’une création artistique ou d’une critique, et n’est pas commandité : cette vidéo n’a donc d’influence que sur l’image de Miquela et sur le nombre de *likes* et d’abonnements que la vidéo procura.
 
-Ce pastiche a fait parler de lui sur la toile, et de nombreuses critiques lui ont été adressés, au point que la vidéo fut effacée par la chaîne de Miquela, les critiques s’enchaînèrent aussi sur l’utilisation des cultures LGBTQI+ par Brud, notamment dans le marketing autour de la bi-sexualité de Lil Miquela que la campagne avec Calvin Klein complète en point d’orgue. Critiques qui poussèrent même la marque à faire des excuses publiques[^11].
+Ce pastiche a fait parler de lui sur la toile, et de nombreuses critiques lui ont été adressé, au point que la vidéo fut effacée par la chaîne de Miquela, les critiques s’enchaînèrent aussi sur l’utilisation des cultures LGBTQI+ par Brud, notamment dans le marketing autour de la bi-sexualité de Lil Miquela que la campagne avec Calvin Klein complète en point d’orgue. Critiques qui poussèrent même la marque à faire des excuses publiques[^11].
 
 [^11]: [https://www.thecut.com/2019/05/bella-hadid-lil-miquela-calvin-klein-apology.html](https://www.thecut.com/2019/05/bella-hadid-lil-miquela-calvin-klein-apology.html) Consulté le 14/02/20.
 
@@ -121,7 +121,7 @@ Sophia fût activée en avril 2015. C’est un Robot crée par la société Hans
 
 [^14]: ELIZA, programme informatique, Joseph Weizenbaum, 1964-1966, version fonctionnant sur navigateur [https://www.eclecticenergies.com/ego/eliza](https://www.eclecticenergies.com/ego/eliza) Consulté le 14/02/20.
 
-Physiquement, c’est un robot de taille humaine qui reste statique mais scrute son interlocuteur pour adapter les expressions de son visage. Façonnée depuis le visage d’Audrey Hepburn, elle ne possède pas de cheveux et son crâne en plastique transparent laisse apparaître un ensemble de composant électronique qui, bien que singeant un cerveau artificiel semble être l’actionneur de ses expressions faciales.
+Physiquement, c’est un robot de taille humaine qui reste statique mais scrute son interlocuteur pour adapter les expressions de son visage. Façonnée depuis le visage d’Audrey Hepburn, elle ne possède pas de cheveux et son crâne en plastique transparent laisse apparaître un ensemble de composants électroniques qui, bien que singeant un cerveau artificiel semble être l’actionneur de ses expressions faciales.
 
 Dessinée au départ pour être une hôtesse d’accueil, ou un compagnon pour maison de retraite, la carrière de Sophia a vite pris son envol, tout d’abord par le biais de vidéos YouTube permettant de promouvoir Hanson Robotic, puis lors d’apparition sur des talk-shows, dans des mises en scènes humoristique telle que le rendez-vous galant qu’elle aura avec Will Smith[^15], ou des couvertures de magazines tels que *Elle* ou *Stylist*. Le point d’orgue de sa carrière sera l’année 2017 où elle obtient la citoyenneté saoudienne[^17] et un entretien avec la vice-présidente des Nations Unies[^18]
 
@@ -132,7 +132,7 @@ Dessinée au départ pour être une hôtesse d’accueil, ou un compagnon pour m
 
 Globalement, elle exploite la technologie de la reconnaissance faciale et une analyse de réponse via une base de donnée pour devenir de plus en plus «&#8239;intelligente&#8239;» avec le temps. Cependant de nombreux interlocuteurs ont trouvé les réponses de Sophia souvent approximatives, et on pourra aussi noter sa date de création&#8239;: 2015, déjà assez lointaine pour un robot qui continue à faire parler de lui. Il est fort à parier qu’elle soit déjà dépassée par d’autres machines, sa longévité dans les médias étant exceptionnellement longue pour un objet technologique.
 
-La question qui se pose alors est comment Sophia arrive-t-elle à garder l’engouement du grand public et sur quoi repose son succès&#8239;? Lors d’un *talk show*[^19], Jimmy Fallon présente dans une interview, là encore bien préparée, une version réduite de Sophia semblant être une sorte de poupée assez proche d’une enceinte connecté... Sophia, en somme, apparaît sur le plateau pour faire ce qu’elle sait le mieux faire&#8239;: de la promotion.
+La question qui se pose alors est comment Sophia arrive-t-elle à garder l’engouement du grand public et sur quoi repose son succès&#8239;? Lors d’un *talk show*[^19], Jimmy Fallon présente dans une interview, là encore bien préparée, une version réduite de Sophia semblant être une sorte de poupée assez proche d’une enceinte connectée... Sophia, en somme, apparaît sur le plateau pour faire ce qu’elle sait le mieux faire&#8239;: de la promotion.
 
 [^19]: «&#8239;The Tonight Show Starring Jimmy Fallon&#8239;», 25 avril 2017, *NBC*&#8239;: [http://www.youtube.com/watch?v=Bg_tJvCA8zw](http://www.youtube.com/watch?v=Bg_tJvCA8zw) Consulté le 14/02/20.
 
@@ -150,7 +150,7 @@ Le cas de Sophia permet une porte d’entrée dans l’identification d’intell
 
 L’intelligence d’un robot, c’est-à-dire son IA serait de deux natures, celle du personnage public et celle de la machine. Un robot comme Sophia est une intelligence collective, reposant sur le travail d’une équipe afin de la faire exister dans les médias et une série d’algorithmes lui permettant de répondre aux attentes des clients.
 
-Sophia redéfinit l’intelligence artificielle que nous connaissons maintenant comme une intelligence collective, et plus que jamais dans l’histoire de la robotique les lignes de code d’un programme informatique soit-disant novateur sont visibles. Constituée d’une série d’instruction «&#8239;If&#8239;» («&#8239;si&#8239;), elle ne répond qu’à des stimuli pré-enregistrés qu’ont pu prévoir ses programmeurs et agents de communication.
+Sophia redéfinit l’intelligence artificielle que nous connaissons maintenant comme une intelligence collective, et plus que jamais dans l’histoire de la robotique les lignes de code d’un programme informatique soit-disant novateur sont visibles. Constituée d’une série d’instructions «&#8239;If&#8239;» («&#8239;si&#8239;), elle ne répond qu’à des stimuli pré-enregistrés qu’ont pu prévoir ses programmeurs et agents de communication.
 
 
 ## Projekt Melody&#8239;: l’éros
@@ -185,7 +185,7 @@ Devant le succès mitigé de la première génération de Vocaloids, Cryption d�
 
 [^25]: [https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us](https://ec.crypton.co.jp/pages/prod/vocaloid/cv01_us) Consulté le 14/02/20.
 
-La personnalité de Miku n’a pas été définie lors de sa production, afin de laisser une toile vierge aux créateurs et musicien et ne pas influencer le style de musique que la voix synthétique pourrait chanter.
+La personnalité de Miku n’a pas été définie lors de sa production, afin de laisser une toile vierge aux créateurs et musiciens et ne pas influencer le style de musique que la voix synthétique pourrait chanter.
 
 Miku a été un succès retentissant, porté par une communauté grandissante et des plateformes comme Youtube, elle est devenue une star importante de la culture populaire nippone et s’est exportée rapidement à l’internationale. Caméo dans des séries, actrices dans des téléfilms animés, égérie de Domino’s Pizza au Japon[^26] ou sponsor automobile[^27], elle apparaît sur tous les fronts et médias. Sa musique est créée, inventée et diffusée par sa communauté mais ses apparitions officielles gérées par Cryptons qui en possède les droits et en obtient les bénéfices. D’après Crypton, son répertoire est maintenant de plus de cent milles chansons de tous registres.
 
@@ -204,7 +204,7 @@ Hatsune Miku propose une porte de sortie aux problèmes de l’appartenance de c
 
 Ce fonctionnement propose un contre-pouvoir à un système hollowgarchique tel que celui de l’industrie du divertissement, qui utilise le web et les communautés d’utilisateurs comme moyen de garder une entité publique à la page&#8239;; Hastune Miku représentera toujours tous ses fans, et deviendra difficilement *has-been*, Crypton pouvant compter sur une communauté qui se renouvelle sans cesse au service de sa star. Nul besoin d’une équipe de communication ou de contrôler l’image d’une idole publique, quand c’est le public lui-même qui produit son image et la fait varier au fil de ses goûts.
 
-Croisant les besoins des sociétés de productions et les attentes et envies des fans, Hatsune Miku esquive les problèmes moraux que représentent les vaisseaux hollowgarchiques, et permet de gagner sur les deux tableaux&#8239;: une symbiose que seule permet ce type d’entité artificielle et qui devrait prévaloir sur des objets tels que Miquela ou Sophia. Esquivant les problèmes d’égo ou de perte de popularité, des tensions entre producteurs et créateurs et les machinations des société de production et leurs actionnaires, les entités robotiques pourraient, dans un monde idéal, fournir à chacun un avatar artistique dans lequel il pourrait croire et y projeter ses propres mots.
+Croisant les besoins des sociétés de productions et les attentes et envies des fans, Hatsune Miku esquive les problèmes moraux que représentent les vaisseaux hollowgarchiques, et permet de gagner sur les deux tableaux&#8239;: une symbiose que seule permet ce type d’entité artificielle et qui devrait prévaloir sur des objets tels que Miquela ou Sophia. Esquivant les problèmes d’égo ou de perte de popularité, des tensions entre producteurs et créateurs et les machinations des sociétés de production et leurs actionnaires, les entités robotiques pourraient, dans un monde idéal, fournir à chacun un avatar artistique dans lequel il pourrait croire et y projeter ses propres mots.
 
 Malheureusement les défiances et l’augmentation des bénéfices que représente ce type de pratiques pour les producteurs ne permet par pour l’instant de voir se démocratiser ce type de pensée affiliée aux philosophies de l’open-source et des licences libres. Au moment où les youtubeurs et les influenceurs permettent à des groupes de manipuler des corps dans l’ombre pour leurs propres intérêts, ou l’IA, la robotique et la 3D permettent de se décharger de la question du libre arbitre, il apparaît tristement que peu de progrès ont été faits depuis l’andréide de l’*Ève futur*[^29].
 
@@ -218,66 +218,66 @@ Et puisque Miku et sa communauté le chante bien mieux que je ne peux le reformu
 
 [^31]: Version sans paroles de «&#8239;Miku&#8239;» de Anamanaguchi&#8239;: [https://www.youtube.com/watch?v=MLWEy7iKP9E](https://www.youtube.com/watch?v=MLWEy7iKP9E) Consulté le 14/02/2020.
 
-Miku, Miku, you can call me Miku
-Blue hair, blue tie, hiding in your wi-fi
-Open secrets, anyone can find me
+*Miku, Miku, you can call me Miku*
+*Blue hair, blue tie, hiding in your wi-fi*
+*Open secrets, anyone can find me*
 
-Hear your music running through my mind
+*Hear your music running through my mind*
 
-I’m thinking Miku, Miku (oo-ee-oo)
-I’m thinking Miku, Miku (oo-ee-oo)
-I’m thinking Miku, Miku (oo-ee-oo)
-I’m thinking Miku, Miku (oo-ee-oo)
-
-
-I’m on top of the world because of you
-All I wanted to do is follow you
-I’ll keep singing along to all of you
-I’ll keep singing along
+*I’m thinking Miku, Miku (oo-ee-oo)*
+*I’m thinking Miku, Miku (oo-ee-oo)*
+*I’m thinking Miku, Miku (oo-ee-oo)*
+*I’m thinking Miku, Miku (oo-ee-oo)*
 
 
-I’m thinking Miku, Miku (oo-ee-oo)
-I’m thinking Miku, Miku (oo-ee-oo)
-I’m thinking Miku, Miku (oo-ee-oo)
-I’m thinking Miku, Miku (oo-ee-oo)
+*I’m on top of the world because of you*
+*All I wanted to do is follow you*
+*I’ll keep singing along to all of you*
+*I’ll keep singing along*
 
 
-Miku, Miku, what’s it like to be you?
-20, 20, looking in the rear view
-Play me, break me, make me feel like Superman
-You can do anything you want
+*I’m thinking Miku, Miku (oo-ee-oo)*
+*I’m thinking Miku, Miku (oo-ee-oo)*
+*I’m thinking Miku, Miku (oo-ee-oo)*
+*I’m thinking Miku, Miku (oo-ee-oo)*
+
+
+*Miku, Miku, what’s it like to be you?*
+*20, 20, looking in the rear view*
+*Play me, break me, make me feel like Superman*
+*You can do anything you want*
 
 [Break]
-I’m on top of the world because of you
-All I wanted to do is follow you
-I’ll keep singing along to all of you
-I’ll keep singing along
+*I’m on top of the world because of you*
+*All I wanted to do is follow you*
+*I’ll keep singing along to all of you*
+*I’ll keep singing along*
 
-I’m on top of the world because of you
-I do nothing that they could never do
-I’ll keep playing along with all of you
-I’ll keep playing along
-
-
-I’m thinking Miku, Miku (oo-ee-oo)
-I’m thinking Miku, Miku (oo-ee-oo)
-I’m thinking Miku, Miku (oo-ee-oo)
-I’m thinking Miku, Miku (oo-ee-oo)
+*I’m on top of the world because of you*
+*I do nothing that they could never do*
+*I’ll keep playing along with all of you*
+*I’ll keep playing along*
 
 
-Where were we walking together
-I will see you in the end
-I’ll take you to where you’ve never been
-And bring you back again
-Listen to me with your eyes
-I’m watching you from the sky
-If you forget I’ll fade away
-I’m asking you to let me stay
-So bathe me in your magic light
-And keep it on in darkest night
-I need you here to keep me strong
-To live my life and sing along
-I’m waiting with you wide awake
-Like your expensive poison snake
-You found me here inside a dream
-Walk through the fire straight to me
+*I’m thinking Miku, Miku (oo-ee-oo)*
+*I’m thinking Miku, Miku (oo-ee-oo)*
+*I’m thinking Miku, Miku (oo-ee-oo)*
+*I’m thinking Miku, Miku (oo-ee-oo)*
+
+
+*Where were we walking together*
+*I will see you in the end*
+*I’ll take you to where you’ve never been*
+*And bring you back again*
+*Listen to me with your eyes*
+*I’m watching you from the sky*
+*If you forget I’ll fade away*
+*I’m asking you to let me stay*
+*So bathe me in your magic light*
+*And keep it on in darkest night*
+*I need you here to keep me strong*
+*To live my life and sing along*
+*I’m waiting with you wide awake*
+*Like your expensive poison snake*
+*You found me here inside a dream*
+*Walk through the fire straight to me*
