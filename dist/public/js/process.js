@@ -4,7 +4,6 @@ class MyHandler extends Paged.Handler {
     super(chunker, polisher, caller);
   }
   beforeParsed(content){
-    //console.log(content)
   }
   beforePageLayout(page){
   }
@@ -21,10 +20,9 @@ class MyHandler extends Paged.Handler {
   }
 
   afterRendered(pages){
-    for(var i; i<pages.length;i++){
-      console.log();
-      $(pages[i].element).find(".fiction").css("height","100%");
-    }
+    //console.log("post-process !");
+    //console.log(pages.length);
+    $("body").find(".fiction").css("height","100%");
   }
 
 }
@@ -148,8 +146,8 @@ function image_sur_grille(page,breakToken){
   var images = $(page).find("img");
   if ($(images).parent().hasClass("full-page") == false){
     for(var i = 0; i < images.length ; i++){
-      console.log(breakToken);
-      console.log($(images[i]).height());
+      //console.log(breakToken);
+      //console.log($(images[i]).height());
       $(images[i]).height((Math.ceil($(images[i]).height() / lineheight)*lineheight) + "px");
     }
   }
@@ -168,9 +166,11 @@ function section_auteurs(page){
 }
 
 function column_alone(page){
+  /*
   if ($(page).find(".subchapter").css('column-count') === "2"){
     $(page).find(".subchapter").css("height","100%");
   }
+  */
 }
 
 function clean_last_lines_justifed() {

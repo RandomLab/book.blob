@@ -33,6 +33,7 @@ class Html {
     public metadata:object = {};
     private srcFolder: string;
     public nomIntroduction: string;
+    public idIntroduction: string;
 
     constructor(private chapitres: string[]) {
         this.chapitres = chapitres;
@@ -164,6 +165,7 @@ class Html {
         <a href="#${introductionId}">${introductionName}</a></li>`;
 
         this.nomIntroduction = introductionName;
+        this.idIntroduction = introductionId;
 
         const liste: string[] = [];
 
@@ -172,13 +174,13 @@ class Html {
             // console.log(meta.title)
             const title = this.makeTitle(meta.title, ', ');
             const name = this.getChapitreName(meta.title);
+            const authors = meta.authors;
             const id = this.textId(meta.title);
 
-            const chapitre = `<li class="chap"><a href="#${id}">${title}</a></li>`;
+            const chapitre = `<li class="chap"><a href="#${id}">${title}</a><span class="toc-authors">${authors}</span></li>`;
             // const chapitre = `<li class="chap">test</a>`;
             liste.push(chapitre);
         }
-
         const section = `<section id="toc"><ul>${introductionToc} ${liste.join('')}</ul></section>`;
         return section;
     }
@@ -186,7 +188,7 @@ class Html {
     private introduction(): string {
         let introduction: string = fs.readFileSync(this.srcFolder + 'preface.md', 'utf8');
         introduction = this.converter.makeHtml(introduction);
-        const result: string = `<section id="${this.nomIntroduction}">` + introduction + `</section>`;
+        const result: string = `<section id="${this.idIntroduction}">` + introduction + `</section>`;
         return result;
     }
 }

@@ -5,7 +5,7 @@ runningTitle: Hollowgarchie
 type: article
 ---
 
-## Robby le père.
+## Robby&#8239;: le père
 
  Robby le robot fit son apparition dans *Forbiden planet*[^1], et connaîtra une carrière longue peuplée de films quelconques et de caméos. Il n’a que deux seuls vrais rôles de composition&#8239;: *The Forbiden Planet* en tant qu’adjuvant, puis *The Invisible Boy*[^2] en tant que protagoniste principal. Pour le reste de sa carrière il sera un personnage secondaire, une référence, ou utilisé en tant qu’accessoire.
 
@@ -35,7 +35,7 @@ L’interview[^3] commence par Anne Francis qui arrive seule devant Perry Como (
 
 La discussion avance et les phrases de Robby sont préparées. Bien que jouer une interview est une habitude hollywoodienne et ne présente rien de surprenant, l’utilisation du jeu d’acteur dans le cas du robot crée une rupture avec la manière de le percevoir. Mis sur le même plan que l’actrice du film, il gagne une personnalité si ce n’est une humanité. Utilisant l’humour pour désamorcer son corps imposant, il rejoue le gentleman drôle et sûr de lui que beaucoup d’acteurs de cette époque incarnent. Sa nature robotique est lissée pour mettre en avant sa complicité avec l’actrice, et met l’accessoire en position d’acteur. Cette interview sera pour un grand nombres d’américains le premier contact avec Robby.
 
-Si Robby a une personnalité à l’écran et hors de l’écran, où se trouve être le personnage&#8239;? La structure appartient à la Metro-Goldwyn-Mayer, qui le recyclera dans diverses productions pour compenser les 165&#8239;000 dollars que la production du robot représentait (presque 1,1 million de dollars actuels). Au générique de *Forbiden Planet*, l’acteur portant le costume et celui prêtant sa voix au robot ne sont pas crédités, c'est Robby le robot qui l'est en son propre nom. La carlingue de Robby a servi à de nombreux autres robots à travers l’histoire de la télévision, modifiée un nombre incalculable de fois. Il joue même des robots qui ne portent pas son nom dans les fictions et sera pourtant cité au générique en tant que «&#8239;Robby le robot&#8239;» et ces rôles seront enregistrés dans la liste de ses apparitions comme ce serait le cas pour un véritable acteur.
+Si Robby a une personnalité à l’écran et hors de l’écran, où se trouve être le personnage&#8239;? La structure appartient à la Metro-Goldwyn-Mayer, qui le recyclera dans diverses productions pour compenser les 165&#8239;000 dollars que la production du robot représentait (presque 1,1 million de dollars actuels). Au générique de *Forbiden Planet*, l’acteur portant le costume et celui prêtant sa voix au robot ne sont pas crédités, c’est Robby le robot qui l’est en son propre nom. La carlingue de Robby a servi à de nombreux autres robots à travers l’histoire de la télévision, modifiée un nombre incalculable de fois. Il joue même des robots qui ne portent pas son nom dans les fictions et sera pourtant cité au générique en tant que «&#8239;Robby le robot&#8239;» et ces rôles seront enregistrés dans la liste de ses apparitions comme ce serait le cas pour un véritable acteur.
 
 La question épineuse que pose la MGM est celle de l’identité d’une création robotique&#8239;: où et quand commence son identité réelle et sa personnalité fictionnelle, quand peut-on différencier le personnage du produit de la MGM&#8239;?
 
@@ -50,7 +50,7 @@ Un vaisseau hollowgarchique n’est pas un personnage fictif. C’est à ce titr
 Ce texte est une analyse de plusieurs êtres artificiels et il ne se veut pas ni exhaustif, ni complet, mais une introduction au sujet et un premier tour d’horizon de ce type d’existence
 
 
-## Lil Miquela, l’influenceuse.
+## Lil Miquela&#8239;: l’influenceuse
 
 Miquela Sousa ou Lil Miquela[^5] est une influenceuse aux 1,9 million d’abonnés sur Instragram, qui débuta sa carrière en 2016, et travaillera, en moins de trois ans, avec des marques comme Calvin Klein ou Prada. Une belle carrière dans la mode, plutôt surprenante, pour une entité qui ne possède pas de corps.
 
@@ -90,7 +90,7 @@ A la fin de l’altercation entre les deux entités fictives, Miquela laissera u
 
 C’est avec cet événement que Miquela devient un concept problématique. Elle est reconnue comme artificielle et propriété d’une entreprise tout en étant un reflet de luttes sociales queer et féministes. Son existence sert un petit groupe, utilisant des idéaux et positions comme atouts marketing, permettant à des marques et entreprises de blanchir leurs images, comme le montre la campagne de Calvin Klein ou Lil Miquela embrasse en sous-vêtements une mannequin réelle digitalisée pour l’occasion.
 
-L’un des éléments les plus perturbants est une vidéo que Brud à produit pour son compte YouTube, ou Lil Miquela parle de l’agression qu’elle a subi en allant à la plage. Ce type de témoignage est important et sert à éveiller à un problème de société grave, néanmoins Lil Miquela ne possède pas de corps, pas de réalité physique et sa psyché varie d’une image à l’autre&#8239;: cette situation est donc inventée. Son discours est entrecoupé de moments où elle n’arrive pas à parler à cause des larmes et semble sincèrement bouleversée. Mais cela insiste surtout sur sa nature robotique et sa capacité en tant que robot à avoir des émotions et une sexualité.  Ce témoignage est effrayant, car il utilise tous les codes de ce type de vidéos et montre la compétence de cette entreprise à récupérer, digérer et tordre des concepts contemporains, des dynamiques sociales et politiques au service de l’appréciation par les fans et followers. Cette vidéo n’est pas faite pour une association ou au service d’un événement, elle ne fait pas partie d’une création artistique ou d’une critique, et n’est pas commandité : cette vidéo n’a donc d’influence que sur l’image de Miquela et sur le nombre de *likes* et d’abonnements que la vidéo procura.
+L’un des éléments les plus perturbants est une vidéo que Brud à produit pour son compte YouTube, ou Lil Miquela parle de l’agression qu’elle a subi en allant à la plage. Ce type de témoignage est important et sert à éveiller à un problème de société grave, néanmoins Lil Miquela ne possède pas de corps, pas de réalité physique et sa psyché varie d’une image à l’autre&#8239;: cette situation est donc inventée. Son discours est entrecoupé de moments où elle n’arrive pas à parler à cause des larmes et semble sincèrement bouleversée. Mais cela insiste surtout sur sa nature robotique et sa capacité en tant que robot à avoir des émotions et une sexualité.  Ce témoignage est effrayant, car il utilise tous les codes de ce type de vidéos et montre la compétence de cette entreprise à récupérer, digérer et tordre des concepts contemporains, des dynamiques sociales et politiques au service de l’appréciation par les fans et followers. Cette vidéo n’est pas faite pour une association ou au service d’un événement, elle ne fait pas partie d’une création artistique ou d’une critique, et n’est pas commandité&#8239;: cette vidéo n’a donc d’influence que sur l’image de Miquela et sur le nombre de *likes* et d’abonnements que la vidéo procura.
 
 Ce pastiche a fait parler de lui sur la toile, et de nombreuses critiques lui ont été adressé, au point que la vidéo fut effacée par la chaîne de Miquela, les critiques s’enchaînèrent aussi sur l’utilisation des cultures LGBTQI+ par Brud, notamment dans le marketing autour de la bi-sexualité de Lil Miquela que la campagne avec Calvin Klein complète en point d’orgue. Critiques qui poussèrent même la marque à faire des excuses publiques[^11].
 
@@ -107,7 +107,7 @@ Comme Miquela l’a fait remarquer à plusieurs reprises&#8239;: «&#8239;I’m 
 
 Une autre question est celle du concept de personne morale et comment celle-ci s’applique à une personnalité qui n’existe pas. En droit la personnalité morale donne des d’attributs reconnus aux personnes physiques, tel qu’un nom, un patrimoine ou un domicile. La personnalité morale peut agir en justice et acquérir des biens meubles ou immeubles. Par exemple, en droit français, la loi du 1<sup>er</sup> juillet 1901 donne la personnalité morale aux associations déclarées. On parle de «&#8239;petite personnalité&#8239;»&#8239;: cela permet à l’association d’encaisser des ressources et d’acquérir les bâtiments dont elle a besoin.
 
-Cette autre définition éclaire la personne morale sous un angle différent : «&#8239;une personne morale [peut être considérée] comme un regroupement d’*individus* réunis dans un *intérêt commun* à laquelle la loi confère une *existence* et une *personnalité juridique autonomes*. La personne morale est également titulaire de droits et obligations, à l’instar de la personne physique, ou des personnes physiques et morales qui la composent.&#8239;»[^12]
+Cette autre définition éclaire la personne morale sous un angle différent&#8239;: «&#8239;une personne morale [peut être considérée] comme un regroupement d’*individus* réunis dans un *intérêt commun* à laquelle la loi confère une *existence* et une *personnalité juridique autonomes*. La personne morale est également titulaire de droits et obligations, à l’instar de la personne physique, ou des personnes physiques et morales qui la composent.&#8239;»[^12]
 
 [^12]: [https://blog.valoxy.org/difference-personne-morale-physique/](https://blog.valoxy.org/difference-personne-morale-physique/)
 
@@ -150,7 +150,7 @@ Le cas de Sophia permet une porte d’entrée dans l’identification d’intell
 
 L’intelligence d’un robot, c’est-à-dire son IA serait de deux natures, celle du personnage public et celle de la machine. Un robot comme Sophia est une intelligence collective, reposant sur le travail d’une équipe afin de la faire exister dans les médias et une série d’algorithmes lui permettant de répondre aux attentes des clients.
 
-Sophia redéfinit l’intelligence artificielle que nous connaissons maintenant comme une intelligence collective, et plus que jamais dans l’histoire de la robotique les lignes de code d’un programme informatique soit-disant novateur sont visibles. Constituée d’une série d’instructions «&#8239;If&#8239;» («&#8239;si&#8239;), elle ne répond qu’à des stimuli pré-enregistrés qu’ont pu prévoir ses programmeurs et agents de communication.
+Sophia redéfinit l’intelligence artificielle que nous connaissons maintenant comme une intelligence collective, et plus que jamais dans l’histoire de la robotique les lignes de code d’un programme informatique soit-disant novateur sont visibles. Constituée d’une série d’instructions «&#8239;If&#8239;» («&#8239;si&#8239;»), elle ne répond qu’à des stimuli pré-enregistrés qu’ont pu prévoir ses programmeurs et agents de communication.
 
 
 ## Projekt Melody&#8239;: l’éros
@@ -165,11 +165,11 @@ Les *posts* Twitter[^21] permettent de dresser une courte biographie de l’avat
 
 [^21]: [https://twitter.com/projektmelody?lang=fr](https://twitter.com/projektmelody?lang=fr) Consulté le 14/02/20.
 
-[^22]: Is Hentai Art ? [https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s](https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s) Consulté le 14/02/20.
+[^22]: *Is Hentai Art?* [https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s](https://www.youtube.com/watch?v=9WoE6p7q4A8&t=295s) Consulté le 14/02/20.
 
 Les critiques soulevées par les acteurs de ce type de sites sont nombreuses, pointant la concurrence déloyale de Projekt Melody qui peut être incarnée par plusieurs personnes là et faire plusieurs shows privés simultanément, modifier son corps et sa tenue à volonté, au cours d’un *live*. Certains pointent aussi les problèmes résultants des demandes des *tipers*, qui n’étant plus assujettis à un corps réel et fragile peuvent faire des demandes perverses qu’un modèle 3D rend possible à exécuter. Même si l’avatar semble animé en utilisant une combinaison de motion capture et des captations issues de la réalité virtuelle, on ne sait pas qui se trouve derrière le projet, ni si l’actrice (ou l’acteur) est toujours la(le) même derrière l’animation. Le faux corps est exploité au maximum de ce qu’il peut rapporter... Le corps féminin de l’avatar Melody, reproductible, ne peut pas être plus proche d’une surface de projection du fantasme, alliant une capacité de réponse que n’ont pas les IA actuelles et le corps d’un être parfait mais inexistant.
 
-## Hatsune Miku, une solution&#8239;?
+## Hatsune Miku&#8239;: une solution&#8239;?
 
 Yamaha produit en 2003 un logiciel nommé Vocaloid[^23], logiciel spécialisé dans la synthèse vocale pour la musique. Synthétisé depuis un éditeur de textes, l’utilisateur peut créer un chant auquel il peut joindre une mélodie. Le programme sort en 2004 accompagné de Katio et Meiko, deux Vocaloids japonais créés par Crypton Future Média, ainsi que Leon, Lola et Miriam, des Vocaloid anglophones.
 

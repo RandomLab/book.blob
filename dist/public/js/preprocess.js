@@ -5,7 +5,7 @@ var Hyphenopoly = {
     },
     setup: {
       exceptions: {
-          "global": "Gulbirra, Kelvin, Solaris, Jupiter",
+          "global": "Gulbirra, Kelvin, Solaris, Jupiter, Jérémie, Javascript",
       },
       dontHyphenate: {
         h2: true,
@@ -59,14 +59,16 @@ function image_container(){ // met les images dans des balises figure pour inté
       var fig = document.createElement('figure');
       fig.innerHTML = para.innerHTML;
       fig.classList.add("image_container");
-      console.log(fig)
+      //console.log(fig)
       var next = para.nextElementSibling;
       if(next){
         if (next.tagName.localeCompare("FIGCAPTION") == 0){
           fig.appendChild(next);
         }
       }
-      para.parentElement.replaceChild(fig, para);
+      if(!!para.parentElement){
+        para.parentElement.replaceChild(fig, para);
+      }
       var next = fig.nextElementSibling;
       //console.log(next);
       if(next){
@@ -118,6 +120,37 @@ function no_hyphen_last_word(){
     nlastw = lastw.replace(/\u00AD/g, '');
     para.innerHTML = para.innerHTML.replace(lastw, nlastw);
   });
+}
+
+function unwrap(wrapper) {
+	// place childNodes in document fragment
+  wrapper.innerText= "_"+wrapper.innerText+"_";
+	var docFrag = document.createDocumentFragment();
+	while (wrapper.firstChild) {
+		var child = wrapper.removeChild(wrapper.firstChild);
+		docFrag.appendChild(child);
+	}
+
+	// replace wrapper with document fragment
+	wrapper.parentNode.replaceChild(docFrag, wrapper);
+}
+
+function inverseWords(){
+  $("body").find("a > em").each(function(){
+    unwrap(this)
+  });
+
+  var sources = ["objet-stimulis ","co\u00ADlo\u00ADniales de l’anthropomorphisme",/tout à fait spé\u00ADciale\.\s»/g];
+  var targets = ["objet-stimulis <br/>","co\u00ADlo\u00ADniales de l’anthropo\u00ADmorphisme","tout à fait spéciale.&#8239;»"];
+  //var newHtml = document.documentElement.outerHTML;
+  var newHtml = $('body').html();
+
+  for(var i=0; i<sources.length;i++){
+    //console.log(sources[i]);
+    //console.log(newHtml.search(sources[i]));
+    newHtml = newHtml.replace(sources[i],targets[i]);
+  }
+  $('body').html(newHtml);
 }
 
 $(document).ready(function(){

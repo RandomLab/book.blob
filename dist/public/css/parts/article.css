@@ -70,6 +70,10 @@
   line-height: 12px;
 }
 
+.article cite{
+  right: calc(var(--lineheight) * -1)!important;
+}
+
 .article .epigraphe{
   position: relative;
   font-size: 11pt;
@@ -139,8 +143,12 @@
   text-decoration: none;
 }
 
+img[src="images/Fabrice/iso-document-s2.jpg"]{
+    height: 100%;
+}
+
 section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] #note_5{
-  padding-bottom: 314px;
+  padding-bottom: 325px;
 }
 
 section[data-id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] h2{

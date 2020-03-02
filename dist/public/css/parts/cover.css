@@ -21,23 +21,25 @@
 }
 #cover h1{
   margin: auto;
-  vertical-align: middle;
   font-weight: lighter;
   text-transform: none;
-  font-size: 25pt;
-  -webkit-text-stroke-width: 0px;
-  color: white;
+  font-size: 50pt;
+  line-height: 50pt;
+  margin-top: 25.539mm;
+  -webkit-text-stroke-width: 1.2px;
+  /*color: white;*/
 }
 
 #cover .blob{
 
-  margin-top: 90%;
-
 }
 #cover h2{
   text-transform: none;
-  color: black;
-  -webkit-text-stroke-width: 0px;
+  color: white;
+  font-size: 20pt;
+  -webkit-text-stroke-width: 1.2px;
+  font-weight: normal;
+  margin-top: 80mm;
 }
 
 #cover .container{
@@ -50,17 +52,20 @@
 #cover .content{
   margin: auto;
   width: 100%;
-  margin: 54px;
-  border: solid 2px;
+  margin-top: 14.3mm;
+  margin-left: 90px;
+  margin-right: 14.5mm;
+  margin-bottom: 68px;
+  /*border: solid 0.7mm;*/
 }
 
 #cover header{
-  height: 30%;
+  height: 90.8mm;
 }
 
 #cover header .container{
-  background: black;
-  color: white;
+  /*background: black;*/
+  /*color: white;*/
   /*z-index: 10;*/
   position: relative;
 }
@@ -73,15 +78,17 @@
 }
 
 #cover main{
-  height: 70%;
+ height: calc(100% - 94mm + 3.2mm);
 }
 
 #cover main .container{
-  box-shadow: inset 0 1.5em 1em -1em black;
+
+  /*box-shadow: inset 0 1.5em 1em -1em black;*/
   background: white;
 }
 
 #cover main .content{
+  border-top: none;
   margin-top: 0;
 }
 
@@ -89,19 +96,6 @@
   position: absolute;
   bottom: 15px;
   right: 54px;
-}
-
-/* Image full page */
-#cover img {
-    height: var(--height);
-    width: var(--width);
-    object-fit: cover;
-    position: absolute;
-    top: calc(var(--margin-top)*-1);
-    left: calc(var(--margin-left)*-1);
-    z-index: 0;
-    /* mix-blend-mode: color-burn; */
-    /* opacity: 0.8; */
 }
 
 /* positioning in relation to the page */
@@ -121,8 +115,10 @@
 /* COVER PAGE ---------------------------------------------------------------------- */
 /* style --------------------------------------------------------------------------- */
 
-
 #author{
     font-size: 1.5rem;
     line-height: calc(var(--baseline)*2);
 }
+
+
+#halftitle

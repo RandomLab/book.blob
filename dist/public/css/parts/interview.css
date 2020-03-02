@@ -58,6 +58,15 @@ section[data-id="conversation-avec-jeremy-bailey"] blockquote > p::before{
   left: -36px;
 }*/
 
+section[data-id="mark,-le-bleu-;-discussion-avec-marion-balac"] blockquote + p{
+  word-spacing: -4px!important;
+  letter-spacing: -0.07px!important;
+}
+
+img[src="/images/Mark.jpg"]{
+  object-fit: contain;
+}
+
 section[data-id="conversation-avec-jeremy-bailey"] .introduction > p {
   text-align: left;
   position: relative;
@@ -85,4 +94,11 @@ section[data-id="conversation-avec-an-mertens"] h2{
 
 .interview .introduction blockquote{
   margin-bottom: var(--lineheight);
+}
+
+.note a{
+  display: inline-block;
+  box-shadow: black 1px 1px;
+  word-break: break-all;
+  hyphens: none;
 }

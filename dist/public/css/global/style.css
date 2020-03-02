@@ -39,30 +39,55 @@ del {
     width: 100%;
 } */
 
-#Éditorial{
+#note-liminaire{
   height: 100%;
 }
 
-#Éditorial >h2{
+#note-liminaire >h2{
   display: none;
 }
 
-#Éditorial > p{
+#note-liminaire > p{
   font-size: 13.5pt;
   color: black;
-  -webkit-text-stroke-width: 0.4px;
+  -webkit-text-stroke-width: 0.1px;
   -webkit-text-stroke-color: white;
-  font-weight: bold;
+  font-weight: lighter;
   line-height: var(--lineheight);
 }
 
-#Éditorial > p > code{
+#note-liminaire > p > code{
   line-height: 0;
   font-family: "Inknut Antiqua";
   color: white;
   font-size: 18pt;
   -webkit-text-stroke-width: 0.8px;
   -webkit-text-stroke-color: black;
+}
+
+#signature{
+  font-size: 0;
+  position: absolute;
+  display: none;
+  page-break-before: avoid;
+}
+
+section[data-page-number="88"] .pagedjs_page_content p{
+  word-spacing: -4px;
+  letter-spacing: -0.07px;
+}
+
+.hack-de-la-mort{
+  word-spacing: -4px!important;
+  letter-spacing: -0.07px!important;
+}
+
+section[data-id="coco’s-memories"] h6{
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 0;
 }
 /* counter */
 
@@ -156,6 +181,10 @@ h3{
   h1,h2,h3,h4, .interview blockquote{
     letter-spacing: -1px;
   }
+  .zocco code{
+    line-height: 11.1pt!important;
+  }
+
   #conversation-avec-jeremy-bailey{
     margin-bottom: calc(var(--lineheight) * -1);
   }
@@ -292,22 +321,10 @@ blockquote, blockquote p{
 /* specific style */
 
 
-
-.toc-authors{
-  display: block;
-  text-transform: none;
-  text-align: right;
-  font-weight: normal;
-  -webkit-text-stroke-width: 0px;
-  color: black;
-  margin: 0;
-  text-align: 0;
-  font-size: 10pt;
-}
-
 .colophon{
   column-count: 2;
   column-fill: auto;
+  height: 100%;
 }
 
 .colophon-right{
@@ -315,9 +332,10 @@ blockquote, blockquote p{
 }
 
 .stroke{
-  color: white;
-  -webkit-text-stroke-weight:0.9px;
-  -webkit-text-stroke-color:black;
+  color: white!important;
+  -webkit-text-stroke-width:1px!important;
+  -webkit-text-stroke-color:black!important;
+
 }
 
 .colophon p {
@@ -332,21 +350,32 @@ blockquote, blockquote p{
   line-height: var(--lineheight);
 }
 
-.colophon table{
+table{
   text-align: left;
   border-collapse: collapse;
   width: 100%;
   page-break-inside: auto;
 }
-.colophon tr{
+tr{
   border-bottom: 1px solid black;
   page-break-inside: avoid;
 }
-.colophon th{
+th{
   font-weight: normal;
-  font-size: 6pt;
+  font-size: 7pt;
   font-family: "SpaceMonoCustom";
   word-spacing: -1px;
+  line-height: 8pt;
+  padding: 3px;
+}
+
+.blague {
+  margin-top: 180mm;
+}
+.blague *{
+  margin-bottom: 0;
+  font-family: "spacemonocustom";
+  text-align: center;
 }
 
 .decoration{

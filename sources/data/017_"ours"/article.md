@@ -37,4 +37,11 @@ L’un des rôle de Paged.js est aussi d’atténuer les variations d’affichag
 
 Pourtant des différences persistent et sont parfois difficilement identifiables. Par exemple, le moteur de rendu Webkit (Chrome) prend généralement mieux en charge des fonctionnalités propres à l’impression que d’autres navigateurs. Le moteur Gecko (Firefox) est souvent le premier à intégrer les fonctionnalités standards CSS comme le paramétrage fin de la typographie (les césures et le réglage des approches). Ce numéro de BLOB est donc aussi un assemblage de différents rendus selon les particularités de la mise en page des articles.
 
-Nous avons fait le choix de travailler au sein d’un dépôt Git, logiciel de versionnage traditionnellement utilisé pour des projets de développement de logiciels. Ainsi l’historique de l’écriture et des corrections des contenus côtoie celui du développement de l’outil de mise en page et de diffusion en ligne. Voici un aperçu des modifications qui ont eu lieu pour fabriquer ce numéro 0 de la revue, découpé en *comit*, c’est-à-dire en modifications commentées plus ou moins précisément.
+Nous avons fait le choix de travailler au sein d’un dépôt Git, logiciel de versionnage traditionnellement utilisé pour des projets de développement de logiciels. Ainsi l’historique de l’écriture et des corrections des contenus côtoie ceux de la mise en page et du développement des outils relatifs à l’édition et la diffusion en ligne. Voici un aperçu de quelques modifications publiées sous forme de *comit*, c’est-à-dire d’ajouts ou de suppressions de données plus ou moins conséquentes et commentées de manière succinte&#8239;.
+
+<table>
+<tr><th>id</th><th>utilisateur</th><th>date</th><th>commentaire</th><th>ajouts et suppressions</th></tr>
+<tr><th>c4dc890</th><th>jeremie nuel</th><th>12 Dec 2019</th><th>correction de la table des matières</th><th>34+ & 48- sur 21 fichiers</th></tr>
+<tr><th>c219839</th><th>Corentin Brulé</th><th>12 Dec 2019</th><th>maj gestion des trop longues notes</th><th>52+ & 24- sur 4 fichiers</th></tr>
+<tr><th>c219839</th><th>dol-dol</th><th>27 Fev 2020</th><th>encore-ctions DOL</th><th>3+ & 2- sur 1 fichier</th></tr>
+</table>

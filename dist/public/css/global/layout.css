@@ -6,7 +6,7 @@
         --bordsperdus: 1cm;
         --grid: 18px;
         /*size: calc(120mm + var(--bordsperdus)) calc(180mm + var(--bordsperdus));*/
-        size:152mm 228mm;
+        size:152.4mm 228.6mm;
         /*margin-top: calc(var(--grid) * 1.5);*/
         margin-top: 14.3mm;
         margin-bottom: 68px;
@@ -24,7 +24,7 @@
     /* LEFT PAGES ---------------------------------------------------------------------- */
 
     @page :left {
-        margin-left: 14.3mm;
+        margin-left: 14.5mm;
         margin-right: 90px;
 
         @bottom-center{
@@ -36,6 +36,7 @@
             -webkit-text-stroke-width: 1px;
             -webkit-text-stroke-color: black;
             align-items: flex-end;
+            -moz-osx-font-smoothing: grayscale;
         }
     }
 
@@ -54,7 +55,7 @@
 
     @page :right {
         margin-left: 90px;
-        margin-right: 14.3mm;
+        margin-right: 14.5mm;
 
         /* page number */
         @bottom-center {
@@ -66,6 +67,7 @@
           -webkit-text-stroke-width: 1px;
           -webkit-text-stroke-color: black;
           align-items: flex-end;
+          -moz-osx-font-smoothing: grayscale;
         }
         @bottom-right-corner {
           content: string(chapTitle);
@@ -151,6 +153,34 @@
         @bottom-right-corner { content: none; }
     }
 
+    @page:nth(7){
+      @bottom-center{
+        content:"DOL";
+        -webkit-text-stroke-width:0.1px;
+        -webkit-text-stroke-color: white;
+        color: black;
+        font-weight: lighter;
+        font-size: 13.5pt;
+      }
+    }
+
+    @page:nth(3){
+      @bottom-center{
+        content:none;
+      }
+    }
+
+    @page:nth(190){
+      @bottom-center{
+        content:none;
+      }
+    }
+
+    @page:nth(189){
+      @bottom-right-corner{
+        content:none;
+      }
+    }
 
     /* WIDOWS AND ORPHANS -------------------------------------------------------------- */
 

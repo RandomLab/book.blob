@@ -46,7 +46,7 @@ Le totémisme s’il concerne le profane et le quotidien, implique aussi le sacr
 
 [^8]: Sylvain Piron, *L’Occupation du monde*, Zones sensibles, 2018.
 
-Enfin, ces intelligences qui nous touchent individuellement et nous représentent collectivement sont également, comme les totems, à la fois naturelles et culturelles. Elles relèvent de l’organique – l’intelligence – et du mécanique – l’artificiel – . Elles nécessitent aussi les figures animales, végétales ou minérales pour être définies. De la même manière que la définition du vivant repose sur celle du non-vivant, ce qu’est l’intelligence se comprend en regard de ce qui n’est pas, est moins ou est différemment intelligent. C’est ainsi que les intelligences artificielles s’incarnent souvent dans des robots anthropomorphes ou zoomorphes[^9].
+Enfin, ces intelligences qui nous touchent individuellement et nous représentent collectivement sont également, comme les totems, à la fois naturelles et culturelles. Elles relèvent de l’organique –&nbsp;l’intelligence&nbsp;– et du mécanique –&nbsp;l’artificiel&nbsp;–. Elles nécessitent aussi les figures animales, végétales ou minérales pour être définies. De la même manière que la définition du vivant repose sur celle du non-vivant, ce qu’est l’intelligence se comprend en regard de ce qui n’est pas, est moins ou est différemment intelligent. C’est ainsi que les intelligences artificielles s’incarnent souvent dans des robots anthropomorphes ou zoomorphes[^9].
 
 [^9]: W.J.T. Mitchell qualifie la position philosophique du totem d’animiste ou vitaliste. W.J.T. Mitchell, *Que veulent les images ? Une critique de la culture visuelle*, Les presses du réel, 2014.
 

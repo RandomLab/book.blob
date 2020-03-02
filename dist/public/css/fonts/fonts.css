@@ -19,10 +19,22 @@
 
 @font-face {
  font-family: "Inknut Antiqua";
- src: url("/css/fonts/InknutAntiqua-Regular.ttf") format("truetype");
- src: url("/css/fonts/InknutAntiqua-Bold.ttf") format("truetype");
  src: url("/css/fonts/InknutAntiqua-Medium.ttf") format("truetype");
+ font-weight: 500;
 }
+
+@font-face {
+ font-family: "Inknut Antiqua";
+ src: url("/css/fonts/InknutAntiqua-Bold.ttf") format("truetype");
+ font-weight: 600;
+}
+
+@font-face {
+ font-family: "Inknut Antiqua";
+ src: url("/css/fonts/InknutAntiqua-Light.ttf") format("truetype");
+ font-weight: 200;
+}
+
 @font-face  {
   font-family: "Roboto";
   src: url("/css/fonts/Roboto-Light.ttf") format("truetype");
