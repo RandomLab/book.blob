@@ -1,5 +1,5 @@
 ---
-title: U+1F355
+title: U+1F493
 authors: Nicolas Frespech
 runningTitle:
 ---
