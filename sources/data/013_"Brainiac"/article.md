@@ -1,7 +1,7 @@
 ---
 title: Percy, Brain he has ~~Nix~~ Now
 authors: David-Olivier Lartigaud
-runningTitle: percy
+runningTitle: Percy
 ---
 
 <div class="hard_page_break"></div>
