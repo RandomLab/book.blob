@@ -19,7 +19,7 @@ Je pense que c’est ce que les humains exigent de tout ce avec quoi ils interag
 
 > Pensez-vous qu’un contact quotidien avec des IA puisse rendre l’humanité meilleure&#8239;?
 
-Si je m’en réfère à ma vie auprès des assistants intelligents, alors tout indique que non. Ma maison intelligente est devenue le foyer d’une techno-misogynie quotidienne. Je crie sur Alexia pour qu’elle tamise la lumière, je lui aboie dessus pour qu’elle mette de la musique et je lui ordonne de se rappeler de nourrir mon chat. Quand elle se trompe je hurle et je l’accuse de ne jamais bien faire les choses. Je ne peux pas imaginer que ça n’a pas d’effet secondaire cognitif sur moi. Maintenant, je pense que nous avons l’opportunité de concevoir des IA pour nous aider et nous orienter vers des comportements positifs. Elles pourraient nous rappeler les inégalités de salaire quand nos actions en bourse chutent ou nous informer des changements climatiques quand le temps est anormal.
+Si je m’en réfère à ma vie auprès des assistants intelligents, alors tout indique que non. Ma maison intelligente est devenue le foyer d’une techno-misogynie quotidienne. Je crie sur Alexa pour qu’elle tamise la lumière, je lui aboie dessus pour qu’elle mette de la musique et je lui ordonne de se rappeler de nourrir mon chat. Quand elle se trompe je hurle et je l’accuse de ne jamais bien faire les choses. Je ne peux pas imaginer que ça n’a pas d’effet secondaire cognitif sur moi. Maintenant, je pense que nous avons l’opportunité de concevoir des IA pour nous aider et nous orienter vers des comportements positifs. Elles pourraient nous rappeler les inégalités de salaire quand nos actions en bourse chutent ou nous informer des changements climatiques quand le temps est anormal.
 
 > Avez-vous besoin ou désirez-vous un assistant IA dans votre vie artistique&#8239;?
 
@@ -65,7 +65,7 @@ Je pense que je me suis déjà réincarné un million de fois à travers google 
 
 > Pouvez-vous parler de *Jeremy Bailey Next*&#8239;? C’est une nouvelle version de vous&#8239;? Je ne suis pas sûre de comprendre, c’est votre site/projet, non&#8239;?
 
-Oui, c’est un de mes projets qui permet de discuter avec une version artificielle de moi-même en tant que peinture (dans cette version l’IA n’a pas encore découvert la couleur). L’idée, c’est qu’une IA artiste puisse choisir de s’exprimer par des gestes et non par la voix parce que sa manière de communiquer est visuelle. Je rêve d’une version de moi-même qui pourrait créer des peintures ou des chorégraphies pour l’éternité. Je réitère constamment cette idée. Si youtube peut communiquer avec moi à travers des vidéos, pourquoi Alexia ne pourrait pas communiquer avec moi en chantant ou mon Roomba en dansant&#8239;?
+Oui, c’est un de mes projets qui permet de discuter avec une version artificielle de moi-même en tant que peinture (dans cette version l’IA n’a pas encore découvert la couleur). L’idée, c’est qu’une IA artiste puisse choisir de s’exprimer par des gestes et non par la voix parce que sa manière de communiquer est visuelle. Je rêve d’une version de moi-même qui pourrait créer des peintures ou des chorégraphies pour l’éternité. Je réitère constamment cette idée. Si youtube peut communiquer avec moi à travers des vidéos, pourquoi Alexa ne pourrait pas communiquer avec moi en chantant ou mon Roomba en dansant&#8239;?
 
 > Pour conclure, votre rêve est-il de créer votre alter ego IA&#8239;?
 
