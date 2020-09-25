@@ -4,7 +4,17 @@
     left: 0;
     top: 0;
     width: 20vw;
-    z-index: 1;
+    z-index: 3;
+    line-height: auto;
+    height: 100vh;
+    overflow-y: auto;
+    padding-right: 1em;
+  }
+  #toc li{
+    line-height: 1.2rem;
+  }
+  #toc a{
+    line-height: 1.2rem;
   }
   body{
     max-width: 60vw;
@@ -12,16 +22,35 @@
   }
 
 
+
+
+
   :root {
-      --lineheight: 1.9rem;
+      --lineheight: 1.8rem;
   }
 
-  p, h6, li, .zocco code{
-    font-size: 1.3rem;
+  #note-liminaire >p {
+    font-size: 1.7rem;
+  }
+  #note-liminaire > p > code{
+    font-size: 2.2rem;
+  }
+
+  p, h6, li, .zocco code, #courriel-du-coeur p{
+    font-size: 1.4rem;
+  }
+
+  .zocco pre code{
+    line-height: 1.5rem!important;
+  }
+
+  .article h6{
+    font-size: 1.7rem;
   }
 
   .interview > p, .interview > p em, .interview li{
-    font-size: 1.3rem;
+    font-size: 1.5rem;
+    word-spacing: -0.3rem;
   }
 
   .interview blockquote > p, h3{
@@ -33,17 +62,25 @@
   }
 
   .decoration{
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
-
-  .note_call, .note, cite, author > span{
+  .note_call{
     font-size: 1rem;
   }
+  .note, .note em, .article figcaption, .article cite, author > span{
+    font-size: 1rem;
+    line-height: 1rem;
+  }
+
+  .
 }
 @media screen and (min-width: 1200px) {
   body{
-    padding-left: calc((100vw - 45rem)/2);
-    max-width: 45rem;
+    /*padding-left: calc((100vw - 45rem)/2);
+    max-width: 45rem;*/
+    max-width: 40%;
+    width: 45em;
+    padding-left: 30%;
   }
   #toc{
     max-width: calc((100vw - 50rem)/2);
@@ -58,16 +95,23 @@
     --lineheight: 1.4rem;
   }
 
+  #note-liminaire >p {
+    font-size: 1.2rem;
+  }
+  #note-liminaire > p > code{
+    font-size: 1.8rem;
+  }
+
   p, h6, li, .zocco code{
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 
   .interview > p, .interview > p em, .interview li{
-    font-size: 1rem;
+    font-size: 1.1rem;
   }
 
   .interview ul{
-    margin-left: 1.5rem
+    margin-left: 1.5rem;
   }
 
   .interview blockquote > p, h3{
@@ -81,45 +125,52 @@
   .decoration{
     font-size: 1.5rem;
   }
-
-  .note_call, .note, cite, author > span{
+  .note_call{
     font-size: 1rem;
+  }
+  .note, cite, author > span{
+    font-size: 1rem;
+    line-height: 1rem;
   }
 
 }
+
+
+/*for all*/
+
 html{
   width: 100%;
   overflow-x: hidden;
 }
 body{
   overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: white;
 }
 
+#cover{
+  position: relative;
+}
 
 .interview h6 {
   text-align: center;
   text-indent: 0;
 }
 
-body {
-  background-color: white;
-}
-
 *{
   hyphens: none;
-}
-
-.note{
-  display: none;
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
 }
 
 .article > p {
   hyphens: none;
   text-align: left;
+}
+
+.fiction {
+  column-count: unset;
+}
+.fiction > p{
+  width: 74%;
 }
 
 .runningTitle{
@@ -141,12 +192,45 @@ body {
   background: linear-gradient(rgba(255,255,255,1), rgba(255,255,255,0));
 }
 
+.article cite{
+  position: relative;
+  display: block;
+  width: 100%;
+  text-align: right;
+}
+
+.note{
+  position: relative;
+  width: 99%;
+}
+
+#footnotes{
+  position: fixed;
+  bottom: 0;
+  background-color: white;
+  z-index: 2;
+  box-shadow: white 0px -11px 12px;
+}
+
+.footnotes{
+  display: none;
+}
+
+.notes, .article .notes{
+  position: relative;
+  width: 100%;
+}
+
+blockquote p + p {
+  margin-top: calc(var(--lineheight) * -1);
+}
+
 hr{
   margin-bottom: var(--lineheight)!important;
 }
 
-.subchapter{
-  margin-bottom: 25vh;
+.subchapter, #colophon{
+  margin-top: 25vh;
 }
 
 a:visited {
@@ -158,13 +242,51 @@ a:visited {
 img, figure img, figure{
   margin-left: auto;
   margin-right: auto;
+  filter: grayscale();
+}
+
+#la-mort-du-soleil{
+  position: relative;
+}
+
+section[id="des-choses-qui-attendent-de-nous-;-totems-et-intelligences-artificielles"] .vertical{
+  margin-bottom: calc(var(--lineheight) * -3);
+}
+
+img[src="images/Fabrice/iso-document-s2.jpg"]{
+  margin-bottom: var(--lineheight)!important;
+}
+
+section[id="coco’s-memories"] h6 {
+  text-align: center;
+
+}
+
+.article > p , .fiction > p{
+  width: 100%;
+}
+
+.toc-authors{
+  position: relative;
+}
+
+.vertical{
+  max-height: 100vh;
+  object-fit: contain;
 }
 
 .is-active{
   display: block;
+  bottom: 0;
 }
 
 .is-scrolled{
   display: block;
   position: fixed;
+  z-index: 2;
+}
+
+.article-footer-wrapper{
+  position: fixed;
+  bottom: 0;
 }

@@ -1,18 +1,24 @@
-$(window).on('load', function () {
-    init();
-});
+
 var timerSFN, timerSC, timerPC;
 var menuState = false;
 var $mainContent, $el;
 var nbCaptions = 0;
 var archiveBool = false;
 
-function init() {
+
+function screen() {
     var wh = window.innerHeight;
     var wv = window.innerWidth;
     var docScroll = 0;
     var nbImgs = $('.article-content-image').length;
-    console.log("coucou!")
+
+    function lazyLoad() {
+       var myLazyLoad = new LazyLoad({
+           elements_selector: ".subchapter",
+           load_delay: 150
+
+       });
+    }
 
     function buildDataN() {
         for (i = 0; i < nbImgs; i++) {
@@ -78,7 +84,7 @@ function init() {
     function endScrolled() {
         $(document).on('scroll', function () {
             var scrollTop = $(this).scrollTop();
-            $('.article-infos, .footnotes').each(function () {
+            $('.article-infos').each(function () {
                 var topDistance = $(this).offset().top;
                 if ($(this).visible(true)) {
                     $('.article-footer').addClass('is-scrolled');
@@ -190,25 +196,30 @@ function init() {
     }
 
     function buildFootnote() {
+        $("body").append("<div id='footnotes'></div>");
         $('.note_call').each(function () {
             var chapter = $(this).parent().parent().attr('id');
             var href = $(this).attr('href');
-            var newhref = href.split("_")[0] + "_" + chapter + "_" + href.split("_")[1]
+            var newhref = href.split("_")[0] + "_" + chapter + "_" + href.split("_")[1];
             newhref = "#" + newhref.replace(/^[^a-z]+|[^\w:.-]+/gi, "");
             $(this).attr('href',newhref);
         });
+
         $('.note').each(function () {
+
+            if ($(this).parent().find(".notes").length === 0){
+              $(this).parent().append("<div class='notes'></div>");
+            }
             var chapter = $(this).parent().attr('id');
             var id = $(this).attr('id');
-            var newid = id.split("_")[0] + "_" + chapter + "_" + id.split("_")[1]
+            //console.log(id);
+            var newid = id.split("_")[0] + "_" + chapter + "_" + id.split("_")[1];
+            //console.log(newid);
             newid = newid.replace(/^[^a-z]+|[^\w:.-]+/gi, "");
-            $(this).attr('id',newid);
-            /*
-            var myN = $(this).attr('data-n');
-            var myid = $('li' + myhref + '');
-            var fncontent = $('.article-content-text .footnotes').find(myid).html();
-            $('.article-footer-wrapper').html($('.article-footer-wrapper').html() + '<div class="article-footer-item" id="footnote-' + myN + '" >' + fncontent + '</div>');
-            */
+            $(this).attr('id', newid);
+            var footnote = $(this).clone().attr('id',newid+"_footer").addClass("footnotes")
+            $("#footnotes").append(footnote);
+            $(this).appendTo($(this).parent().find(".notes"));
         });
     }
 
@@ -216,18 +227,20 @@ function init() {
         $(document).on('scroll',function (){
             docScroll = $(document).scrollTop();
             $('.note_call').each(function (e) {
-                var myN = $(this).attr('href');
+                var note_in_footer = $(this).attr('href')+"_footer";
+
                 var myOffset = this.offsetTop;
 
                 if(myOffset < parseInt(docScroll + (3 / 4 * wh)) && myOffset > parseInt(docScroll + (1 / 4 * wh))){
                   console.log(this);
+                  console.log($(note_in_footer));
                   console.log(myOffset);
                   console.log(docScroll);
                 }
                 if (myOffset < parseInt(docScroll + (3 / 4 * wh)) && myOffset > parseInt(docScroll + (1 / 4 * wh))) {
-                    $(myN).addClass('is-active');
+                  $(note_in_footer).show();
                 } else {
-                    $(myN).removeClass('is-active');
+                  $(note_in_footer).hide();
                 }
             });
         });
@@ -440,7 +453,7 @@ function init() {
     galleryBuilder();
     closeGallery();
     tableToggle();
-    //lazyLoad();
+    lazyLoad();
     //indexSort();
     //archiveToggle();
     //search();

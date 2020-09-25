@@ -28,7 +28,7 @@ a {
 }
 
 del {
-  text-decoration: line-through double;
+  text-decoration: line-through double black;
 }
 
 /*.subchapter p{
@@ -40,7 +40,7 @@ del {
 } */
 
 #note-liminaire{
-  height: 100%;
+  /*height: 100%;*/
 }
 
 #note-liminaire >h2{
@@ -307,7 +307,7 @@ img[alt=full] {
 
 
 /* blockquote and list */
-blockquote{
+blockquote > p{
   margin-left: var(--lineheight);
   margin-right: var(--lineheight);
 }
@@ -400,7 +400,7 @@ section[data-id="la-mort-du-soleil"] p {
 section[data-id="percy,-brain-he-has-~~nix~~-now"] a{
   word-break: break-all;
   text-decoration: underline;
-  text-underline-position: under;1111
+  text-underline-position: under;
 }
 
 section[data-id="percy,-brain-he-has-~~nix~~-now"] h2{
@@ -446,7 +446,10 @@ hr{
   margin-bottom: calc(var(--lineheight) - 1px);
   margin-top: -3px;
   border: 0;
-  border-bottom: 2px solid;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-image: linear-gradient( to bottom, black, rgba(0, 0, 0, 0) ) 100% 1;
+  /*border-bottom: 2px solid;*/
   /*position: absolute;*/
 }
 

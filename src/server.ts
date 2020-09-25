@@ -5,6 +5,7 @@ import Html from './html';
 import ReadData from './readData';
 import GetData from './getData';
 import MakeChapitres from './makeChapitres';
+import Markdown from './markdown';
 
 /* merge all html to index and serve it */
 
@@ -15,7 +16,7 @@ const devChapitresFiles = new GetData(chapitresPath);
 let chapNum = 0;
 
 devChapitresFiles.readMainFolder().then((items) => {
-    
+
     for (const item of items) {
         try {
             fs.unlink(path.resolve(__dirname, `${chapitresPath}/${item}`), (err) => {
@@ -25,7 +26,7 @@ devChapitresFiles.readMainFolder().then((items) => {
                 }
                 console.log(`file ${item} removed`);
             });
-        } catch(err) {  
+        } catch(err) {
             console.error(err);
         }
     }

@@ -3,7 +3,7 @@ sourceFile="$1"
 
 echo "\documentclass{article}
 \usepackage{pdfpages}
-\usepackage[paperwidth=152mm,paperheight=228mm]{geometry}
+\usepackage[paperwidth=152.4mm,paperheight=228.6mm]{geometry}
 \usepackage[cam,a4,center,pdftex]{crop}
 
 \begin{document}

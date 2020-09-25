@@ -41,7 +41,8 @@ npm run build-ts
 npm run start
 
 # url
-localhost:3000
+localhost:8000
+localhost:8000?render=print
 
 # structure
 ## prod

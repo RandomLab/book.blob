@@ -1,4 +1,49 @@
 /*config Hyphenopoly*/
+var isWebSite = false;
+var isPrintBook = false;
+console.log("search :");
+//console.log(window.location.hash);
+
+function GetUrlValue(VarSearch){
+    var SearchString = window.location.search.substring(1);
+    if(SearchString.length != 0){
+      var VariableArray = SearchString.split('&');
+      for(var i = 0; i < VariableArray.length; i++){
+          var KeyValuePair = VariableArray[i].split('=');
+          if(KeyValuePair[0].localeCompare(VarSearch) == 0){
+              return KeyValuePair[1];
+          }
+      }
+    }else{
+      var hashString = window.location.hash;
+      var VariableArray = hashString.split('?');
+      for(var i = 1; i < VariableArray.length; i++){
+          var KeyValuePair = VariableArray[i].split('=');
+          console.log(VarSearch);
+          console.log(KeyValuePair[0]);
+          if(KeyValuePair[0].localeCompare(VarSearch) == 0){
+              return KeyValuePair[1];
+              //console.log(KeyValuePair[1]);
+          }
+      }
+    }
+}
+if (GetUrlValue("render").localeCompare("screen") == 0){
+  isWebSite = true;
+  $('head').append('<link rel="stylesheet" type="text/css" href="css/global/screen.css">');
+  $(window).on('load', function () {
+      screen();
+  });
+}
+if(GetUrlValue("render").localeCompare("print") == 0){
+  isPrintBook = true;
+}
+if(GetUrlValue("render").localeCompare("pdf") == 0){
+  isPrintBook = true;
+  $('head').append('<link rel="stylesheet" type="text/css" href="css/global/pdf-screen.css">');
+}
+
+
 var Hyphenopoly = {
     require: {
         "fr": "FORCEHYPHENOPOLY"
@@ -9,7 +54,6 @@ var Hyphenopoly = {
       },
       dontHyphenate: {
         h2: true,
-        h6: true,
         cite: true,
         figcaption: true
       },
@@ -31,7 +75,10 @@ var Hyphenopoly = {
     },
     handleEvent: {
        hyphenopolyEnd: function (e) {
-         window.PagedPolyfill.preview();
+         if(isPrintBook == true){
+           inverseWords();
+           window.PagedPolyfill.preview();
+         }
        }
      }
 
