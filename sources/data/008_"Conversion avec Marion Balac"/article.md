@@ -9,11 +9,11 @@ type: interview
 Vidéo full HD, couleur, son, 9’35’’](/images/Mark.jpg)
 
 **Mark, 2018,
-Vidéo full HD, couleur, son, 9’35’’
-Réalisée en collaboration avec Carlos Carbonell**
+vidéo full HD, couleur, son, 9’35’’
+réalisée en collaboration avec Carlos Carbonell**
 
 ##### *Mark* est une vidéo musicale de fiction qui propose une relecture du parcours de Mark Zuckerberg, depuis son statut de PDG de l’entreprise Facebook à son accession à la présidence des États-Unis — et ce, malgré ses difficultés à comprendre ses pairs. Son désir d’entrer dans l’ère de la singularité technologique le pousse à tenter d’accompagner l’ascension de l’Intelligence Artificielle, une entité qui se présente à lui et aux hommes comme une divinité surpuissante en rupture unilatérale avec le genre humain.
-##### Dans *Mark, un choeur*, Mark Zuckerberg et l’IA chantent leurs sentiments et leurs trajectoires entrelacées.
+##### Dans *Mark*, un choeur, Mark Zuckerberg et l’IA chantent leurs sentiments et leurs trajectoires entrelacées.
 
 <div class="hard_page_break"></div>
 
@@ -35,7 +35,7 @@ Avec Carlos, on avait longuement parlé des théories de l’ère de la singular
 
 <div class="hard_page_break"></div>
 
-Ces vidéos sont aussi le reflet de l’évolution chronologique de l’image de Zuckerberg à travers les médias. À la naissance de Facebook, l’opinion publique était très enthousiaste vis-à-vis de la plateforme*Mark*&#8239;; et puis, indéniablement — même si on se doutait depuis longtemps du côté intrusif du réseau social — il y a eu un tournant au moment de l’affaire Cambridge Analytica. On aimait bien l’idée que ce soit le point de scission, un déclencheur pour Mark qui décide à ce moment-là que ses alliés sont les machines et non plus les humains qui ont complètement perdu de vue la grandeur de son projet. C’est là aussi où le spectateur fait la différence entre l’image mythologique et construite du personnage et celle du simple humain qui doit gérer son égo, ses échecs médiatiques et ses déboires technologiques.
+Ces vidéos sont aussi le reflet de l’évolution chronologique de l’image de Zuckerberg à travers les médias. À la naissance de Facebook, l’opinion publique était très enthousiaste vis-à-vis de la plateforme&#8239;; et puis, indéniablement — même si on se doutait depuis longtemps du côté intrusif du réseau social — il y a eu un tournant au moment de l’affaire Cambridge Analytica. On aimait bien l’idée que ce soit le point de scission, un déclencheur pour Mark qui décide à ce moment-là que ses alliés sont les machines et non plus les humains qui ont complètement perdu de vue la grandeur de son projet. C’est là aussi où le spectateur fait la différence entre l’image mythologique et construite du personnage et celle du simple humain qui doit gérer son égo, ses échecs médiatiques et ses déboires technologiques.
 
 > Dans les espaces qui présentent cette vidéo, on trouve une constante dans le mobilier ou encore la moquette installée dans l’espace&#8239;: le bleu Facebook. Est-ce un clin d’œil au bleu Klein ou une manière d’affirmer une fois de plus le côté naïf du jeune soldat à la conquête de la Silicon Valley&#8239;?
 
